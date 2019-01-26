@@ -1,0 +1,31 @@
+[{
+	"id": "1",
+	"item_code": "S4DD",
+	"item_name": "Monitor LCD",
+	"price": "100",
+	"stock": "222"
+}, {
+	"id": "3",
+	"item_code": "G567",
+	"item_name": "Speaker Boom",
+	"price": "1500000",
+	"stock": "5"
+}, {
+	"id": "4",
+	"item_code": "L009",
+	"item_name": "CPU FANW",
+	"price": "600000",
+	"stock": "900"
+}, {
+	"id": "6",
+	"item_code": "M366",
+	"item_name": "Mouse Gaming",
+	"price": "250000",
+	"stock": "500"
+}, {
+	"id": "8",
+	"item_code": "E34RF",
+	"item_name": "Mobile Charger\t",
+	"price": "120",
+	"stock": "150"
+}]
