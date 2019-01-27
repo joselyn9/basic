@@ -46,7 +46,7 @@
       "name": "Singer1",
       "bio": "Sings live for audiences through flashbacks.",
       "image_path": "http://jeff.mimic.ca/p/androidto/bojack.jpg",
-      "company": "Horsin' Around",
+      "company": "Singin' Around",
       "twitter": "https://twitter.com/BoJackHorseman",
       "linked_in": "https://example.com",
       "github": "https://github.com/mimicmobile/flutter-conference-app"
@@ -56,7 +56,7 @@
       "name": "Singer2",
       "bio": "from soft numbers to peppy tracks to romantic moods,.",
       "image_path": "http://jeff.mimic.ca/p/androidto/diane.jpg",
-      "company": "VIM",
+      "company": "Sings 2",
       "twitter": "https://twitter.com/gardenpaper",
       "linked_in": "",
       "github": ""
@@ -66,7 +66,7 @@
       "name": "Singer 3",
       "bio": "Apart from Hindi, he sang in many Indian languages. Is also heavily influenced by KishorDa",
       "image_path": "http://jeff.mimic.ca/p/androidto/mr_peanutbutter.jpg",
-      "company": "Peanutbutter and Jelly",
+      "company": "Dr Dr",
       "twitter": "https://twitter.com/BoJackHorseman",
       "linked_in": "https://example.com",
       "github": "https://github.com/mimicmobile/flutter-conference-app"
@@ -76,7 +76,7 @@
       "name": "Singer 4",
       "bio": "Is a friendly  he has developed a style of his own.",
       "image_path": "http://jeff.mimic.ca/p/androidto/todd.jpg",
-      "company": "Unemployed",
+      "company": "TT player",
       "twitter": "https://twitter.com/BoJackHorseman",
       "linked_in": "https://example.com",
       "github": "https://github.com/mimicmobile/flutter-conference-app"
