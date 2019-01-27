@@ -48,7 +48,7 @@
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
       "company": "Singin' Around",
       "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "https://example.com",
+      "linked_in": "",
       "facebook": "https://fb.com/gardenpaper"
     },
     {
@@ -60,7 +60,6 @@
       "twitter": "https://twitter.com/gardenpaper",
       "facebook": "https://fb.com/gardenpaper",
       "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
     },
     {
       "id": "peanutbutter",
