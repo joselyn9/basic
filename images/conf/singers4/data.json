@@ -8,6 +8,7 @@
     "description": "Songs are the transformators of the extraterrestrial attitude.",
     "twitter": "https://twitter.com/gardenpaper",
     "website": "http://gardenpaper.in",
+    "facebook": "https://fb.com/gardenpaper",
     "contact_email": "mailto:apps@gardenpaper.in.com",
     "link_types": [
       {
@@ -58,7 +59,7 @@
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
       "company": "Sings 2",
       "twitter": "https://twitter.com/gardenpaper",
-      "facebook-official": "https://fb.com/gardenpaper",
+      "facebook": "https://fb.com/gardenpaper",
       "linked_in": "",
       "github": ""
     },
