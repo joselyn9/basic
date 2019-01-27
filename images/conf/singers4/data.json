@@ -49,7 +49,7 @@
       "company": "Singin' Around",
       "twitter": "https://twitter.com/BoJackHorseman",
       "linked_in": "https://example.com",
-      "github": ""
+      "facebook": "https://fb.com/gardenpaper"
     },
     {
       "id": "diane",
@@ -60,7 +60,7 @@
       "twitter": "https://twitter.com/gardenpaper",
       "facebook": "https://fb.com/gardenpaper",
       "linked_in": "",
-      "github": ""
+      "facebook": "https://fb.com/gardenpaper"
     },
     {
       "id": "peanutbutter",
@@ -69,8 +69,8 @@
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
       "company": "Dr Dr",
       "twitter": "https://twitter.com/BoJackHorseman",
-      "linked_in": "https://example.com",
-      "github": ""
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
     },
     {
       "id": "todd",
@@ -79,8 +79,8 @@
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
       "company": "TT player",
       "twitter": "https://twitter.com/BoJackHorseman",
-      "linked_in": "https://example.com",
-      "github": ""
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
     }
   ],
   "tracks": [
