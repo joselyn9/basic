@@ -52,7 +52,7 @@
       "github": "https://github.com/mimicmobile/flutter-conference-app"
     },
     {
-      "id": "singer21",
+      "id": "singer22",
       "name": "Singer 2",
       "bio": "from soft numbers to peppy tracks to romantic moods,.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
@@ -131,7 +131,7 @@
       "time": "8:00pm",
       "talks": [
         {
-          "speaker_id": "singer1",
+          "speaker_id": "singer11",
           "track_id": "main",
           "talk_type_id": "technical",
           "title": "Singer with many music directors .",
@@ -143,14 +143,14 @@
       "time": "8:15pm",
       "talks": [
         {
-          "speaker_id": "singer2",
+          "speaker_id": "singer22",
           "track_id": "track1",
           "talk_type_id": "fun",
           "title": "Songs are fun, with friends everywhere.",
           "description": "Samadhi is not one in chaos, the country of tantra, or paradise, but everywhere."
         },
         {
-          "speaker_id": "singer3",
+          "speaker_id": "singer33",
           "track_id": "track2",
           "talk_type_id": "room",
           "title": "Heavens is not the holy freedom of the explosion of the conclusion.",
@@ -162,7 +162,7 @@
       "time": "8:30pm",
       "talks": [
         {
-          "speaker_id": "singer1",
+          "speaker_id": "singer11",
           "track_id": "main",
           "talk_type_id": "technical",
           "title": "Marathi Song!",
