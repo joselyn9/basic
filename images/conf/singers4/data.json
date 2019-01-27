@@ -42,8 +42,8 @@
   },
   "speakers": [
     {
-      "id": "singer1",
-      "name": "Singer1",
+      "id": "singer11",
+      "name": "Singer 1",
       "bio": "Sings live for audiences through flashbacks.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
       "company": "Singin' Around",
@@ -52,8 +52,8 @@
       "github": "https://github.com/mimicmobile/flutter-conference-app"
     },
     {
-      "id": "singer2",
-      "name": "Singer2",
+      "id": "singer21",
+      "name": "Singer 2",
       "bio": "from soft numbers to peppy tracks to romantic moods,.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
       "company": "Sings 2",
@@ -63,7 +63,7 @@
       "github": ""
     },
     {
-      "id": "singer3",
+      "id": "singer33",
       "name": "Singer 3",
       "bio": "Apart from Hindi, he sang in many Indian languages. Is also heavily influenced by KishorDa",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
@@ -73,7 +73,7 @@
       "github": "https://github.com/mimicmobile/flutter-conference-app"
     },
     {
-      "id": "singer4",
+      "id": "singer44",
       "name": "Singer 4",
       "bio": "Is a friendly  he has developed a style of his own.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
