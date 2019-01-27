@@ -22,20 +22,20 @@
     "links": [
       {
         "name": "Gardenpaper",
-        "image_path": "https://secure.meetupstatic.com/photos/event/3/1/1/5/600_475692565.jpeg",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor1.png",
         "website": "http://gardenpaper.in",
         "link_type_id": "sponsor"
       },
       {
-        "name": "Kotlin Toronto",
-        "image_path": "https://secure.meetupstatic.com/photos/event/a/c/d/d/highres_461324253.jpeg",
-        "website": "https://www.meetup.com/Kotlin-Toronto/",
+        "name": "Sandesh",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor2.png",
+        "website": "http://gardenpaper.in",
         "link_type_id": "supporter"
       },
       {
-        "name": "GDG Toronto Android",
-        "image_path": "https://secure.meetupstatic.com/photos/event/a/6/9/0/600_448602640.jpeg",
-        "website": "https://www.meetup.com/ToAndroidDev/",
+        "name": "Singers",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor3.png",
+        "website": "http://gardenpaper.in",
         "link_type_id": "supporter"
       }
     ]
@@ -48,7 +48,7 @@
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
       "company": "Singin' Around",
       "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
+      "linked_in": "https://example.com",
       "facebook": "https://fb.com/gardenpaper"
     },
     {
@@ -60,6 +60,7 @@
       "twitter": "https://twitter.com/gardenpaper",
       "facebook": "https://fb.com/gardenpaper",
       "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
     },
     {
       "id": "peanutbutter",
