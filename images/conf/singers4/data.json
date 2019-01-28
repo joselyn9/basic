@@ -42,8 +42,8 @@
   },
   "speakers": [
     {
-      "id": "bojack",
-      "name": "Singer 1",
+      "id": "sanchav",
+      "name": "Santosh Chavan",
       "bio": "Sings live for audiences through flashbacks.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
       "company": "Singin' Around",
@@ -52,8 +52,8 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "diane",
-      "name": "Singer 2",
+      "id": "mandeo",
+      "name": "Mandar Deodhar",
       "bio": "from soft numbers to peppy tracks to romantic moods,.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
       "company": "Sings 2",
@@ -63,21 +63,111 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "peanutbutter",
-      "name": "Singer 3",
+      "id": "atusuk",
+      "name": "Atul Sukhi",
       "bio": "Apart from Hindi, he sang in many Indian languages. Is also heavily influenced by KishorDa",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
-      "company": "Dr Dr",
+      "company": "Inc",
       "twitter": "https://twitter.com/gardenpaper",
       "linked_in": "",
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "todd",
-      "name": "Singer 4",
+      "id": "surbob",
+      "name": "Suresh Bobhate",
       "bio": "Is a friendly  he has developed a style of his own.",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
       "company": "TT player",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "komran",
+      "name": "Komal Rane",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer5.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "sannai",
+      "name": "Sandesh Naik",
+      "bio": "Is a friendly singer, sings.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
+      "company": "high pitch",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "jagrau",
+      "name": "Jagdish Raut",
+      "bio": "Is a high pitch singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer7.JPG",
+      "company": "Musicals Prop",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "ramtho",
+      "name": "Ramakant Thorve",
+      "bio": "Is a singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer8.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "sudpat",
+      "name": "Sudhir Patkar",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer9.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "shasaw",
+      "name": "Shalaka Sawant",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer10.JPG",
+      "company": "Musicals All the way",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "leegau",
+      "name": "Leena Gaurade",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer11.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "vidpat",
+      "name": "Vidya Pathak",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer12.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "yastam",
+      "name": "Yashshree Tambre",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer13.JPG",
+      "company": "Musicals",
       "twitter": "https://twitter.com/gardenpaper",
       "linked_in": "",
       "facebook": "https://fb.com/gardenpaper"
@@ -128,10 +218,10 @@
   ],
   "schedule": [
     {
-      "time": "8:00am",
+      "time": "5:30pm",
       "talks": [
         {
-          "speaker_id": "bojack",
+          "speaker_id": "sanchav",
           "track_id": "main",
           "talk_type_id": "technical",
           "title": "Singer with many music directors .",
@@ -140,17 +230,17 @@
       ]
     },
     {
-      "time": "8:30am",
+      "time": "5:40pm",
       "talks": [
         {
-          "speaker_id": "diane",
+          "speaker_id": "mandeo",
           "track_id": "track1",
           "talk_type_id": "fun",
           "title": "Songs are fun, with friends everywhere.",
           "description": "Songs of country paradise, but everywhere."
         },
         {
-          "speaker_id": "peanutbutter",
+          "speaker_id": "atusuk",
           "track_id": "track2",
           "talk_type_id": "room",
           "title": "Sing Along.",
@@ -159,24 +249,132 @@
       ]
     },
     {
-      "time": "9:00am",
+      "time": "5:55pm",
       "talks": [
         {
-          "speaker_id": "todd",
+          "speaker_id": "surbob",
           "track_id": "main",
           "talk_type_id": "technical",
-          "title": "Marathi Song!",
+          "title": "Song!",
           "description": "If you travel or do Singing you."
         }
       ]
     },
     {
-      "time": "10:00am",
+      "time": "6:10pm",
+      "talks": [
+        {
+          "speaker_id": "komran",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:20pm",
+      "talks": [
+        {
+          "speaker_id": "sannai",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:30pm",
+      "talks": [
+        {
+          "speaker_id": "jagrau",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:40pm",
+      "talks": [
+        {
+          "speaker_id": "ramtho",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:55pm",
+      "talks": [
+        {
+          "speaker_id": "sudpat",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:10pm",
+      "talks": [
+        {
+          "speaker_id": "shasaw",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:15pm",
+      "talks": [
+        {
+          "speaker_id": "leegau",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:25pm",
+      "talks": [
+        {
+          "speaker_id": "vidpat",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:30pm",
+      "talks": [
+        {
+          "speaker_id": "yastam",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:40am",
       "talks": [
         {
           "talk_type_id": "break",
-          "title": "Time for a break!",
-          "description": "Go grab an ice cold T and chill.."
+          "title": "The End! thank you",
+          "description": "Please join next show.."
         }
       ]
     }
