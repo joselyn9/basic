@@ -3,7 +3,7 @@
     {
       "id": "16969",
       "title": "Kotlinアンチパターン",
-      "description": "　KotlinはJavaよりもシンプルで安全なコードを書くことができます。また、同じ処理を書く場合も、いくつかのやり方があります。文法に関する説明は、公式ドキュメントを見れば分かりますが、使いどころ、特にAndroidアプリ開発における使いどころについては、まだそれぞれ模索している段階といってよいのではないでしょうか。\r\n　このセッションでは、私がフルKotlinのアプリをチームで開発した経験の中で分かった、Kotlinの各種文法の適切な使いどころや、バグを生みやすいコードのパターンなどを紹介してみたいと思います。\r\n　例えば、lateinitとnull初期化の使い分け、interfaceのデフォルト実装とabstractクラスの使い分け、引数なしの関数とcustom getterの使い分け、定数とlazyとcustom getterの使い分けなどがあります。また、property delegationの使いどころ、スコープ関数の使いどころ、レシーバー付き関数型の使いどころなど、Kotlinの基本文法を紹介しつつ、Androidアプリ開発をした経験からActivityライフサイクルやFragmentライフサイクルに合わせた使いどころ・注意点などについて解説してみたいと思います。",
+      "description": "　Kotlin　lateiniproperty delegationragment",
       "startsAt": "2018-02-08T10:20:00",
       "endsAt": "2018-02-08T10:50:00",
       "isServiceSession": false,
