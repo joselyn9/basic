@@ -4,12 +4,12 @@
       "id": "16969",
       "title": "Kotlin1",
       "description": "　KotlinJava1",
-      "startsAt": "2018-02-08T10:20:00",
-      "endsAt": "2018-02-08T10:50:00",
+      "startsAt": "2019-04-08T10:20:00",
+      "endsAt": "2019-04-08T10:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "3fe8f4be-5700-44f5-ba97-1a4b4f831ec8"
+        "0f0"
       ],
       "categoryItems": [
         3480,
@@ -26,12 +26,12 @@
       "id": "15575",
       "title": "Android 2",
       "description": "Android 2",
-      "startsAt": "2018-02-08T11:20:00",
-      "endsAt": "2018-02-08T11:50:00",
+      "startsAt": "2019-04-08T11:20:00",
+      "endsAt": "2019-04-08T11:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "2f50ba75-0356-4d2e-8b2b-7343fd3e4377"
+        "1f1"
       ],
       "categoryItems": [
         3480,
@@ -53,7 +53,7 @@
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "1de1a2e2-e88d-4aa1-8d85-58c5466da05d"
+        "2f2"
       ],
       "categoryItems": [
         3480,
@@ -67,59 +67,15 @@
       "slideUrl": "https://speakerdeck.com/kirimin/how-to-improve-your-mvp-architecture-and-tests"
     },
     {
-      "id": "16633",
-      "title": "Inside Android Architecture Components",
-      "description": "1\r\nAndroid Architecture Componentsは、Android \r\n- Android Architecture Components \r\n- Android Architecture",
-      "startsAt": "2018-02-08T11:20:00",
-      "endsAt": "2018-02-08T11:50:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "299d3761-e25a-4df7-bea1-fe6e391938bd"
-      ],
-      "categoryItems": [
-        3480,
-        3483,
-        3488,
-        3540
-      ],
-      "questionAnswers": [],
-      "roomId": 513,
-      "videoUrl": "https://www.youtube.com/watch?v=7v4pJXy5dhk",
-      "slideUrl": "https://speakerdeck.com/kobitokaba/inside-architecture-components"
-    },
-    {
-      "id": "16997",
-      "title": "Deep dive into LayoutManager for RecyclerView",
-      "description": "RecyclerView is now a de facto standard for representing a large data set into a limited window as a scrollable view.\r\n\r\nOne of the advantages of using it compared to ListView is that RecyclerView can change how the data set is presented in addition to a simple linear list (such as Grid, StaggeredGrid) by changing the LayoutManager attached to it.\r\n\r\nBut it's not well known that you can provide your own LayoutManager to achieve even more flexibility in addition to the three (Linear, Grid, StaggeredGrid) default LayoutManagers provided by the library.\r\n\r\nIn this talk I'm going to explain how you can create your own LayoutManager in details based on the experience that the presenter created a Flexbox implementation as a LayoutManager.",
-      "startsAt": "2018-02-08T11:20:00",
-      "endsAt": "2018-02-08T11:50:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "e3267cf5-b1a7-4ce7-a4b3-223925f21316"
-      ],
-      "categoryItems": [
-        3480,
-        3482,
-        3487,
-        3542
-      ],
-      "questionAnswers": [],
-      "roomId": 516,
-      "videoUrl": "https://www.youtube.com/watch?v=LzNlC8XVjFs",
-      "slideUrl": "https://www.slideshare.net/hagikuratakeshi/deep-diveintolayoutmanager"
-    },
-    {
       "id": "16680",
       "title": "MediaCodec",
       "description": "33",
-      "startsAt": "2018-02-08T14:50:00",
-      "endsAt": "2018-02-08T15:20:00",
+      "startsAt": "2019-04-08T14:50:00",
+      "endsAt": "2019-04-08T15:20:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "5ccaa6ed-b606-4a8c-a499-73a00c6c8170"
+        "2f2"
       ],
       "categoryItems": [
         3480,
@@ -135,7 +91,7 @@
   ],
   "speakers": [
     {
-      "id": "532dc16d-b69d-4f68-aa49-fe9878b0b52f",
+      "id": "0f0",
       "firstName": "A",
       "lastName": "B",
       "bio": "Adarsh is a Googler on the Android Studio team. He has written multiple guides for developers focused on optimizing Gradle build configurations and harnessing features of the Android plugin for Gradle—from beginner topics like creating build variants, to advanced ones like managing complex multi-module builds.",
@@ -155,7 +111,7 @@
       "fullName": "Adarsh Fernando"
     },
     {
-      "id": "650f26f7-5a6e-43a0-958d-62ab2cc0ae84",
+      "id": "1f1",
       "firstName": "A",
       "lastName": "S",
       "bio": 2008,
@@ -169,7 +125,7 @@
       "fullName": "Akihiro Shiota"
     },
     {
-      "id": "af079576-c7db-497a-990d-919fc2472e45",
+      "id": "2f2",
       "firstName": "A",
       "lastName": "A",
       "bio": "Anastasia a very passionate Android developer working @ Movivo. She like cupcakes, chocolate, and all types of sweets, which is probably what led her to the Android world.",
@@ -192,71 +148,6 @@
         16079
       ],
       "fullName": "Anastasia"
-    },
-    {
-      "id": "449b4215-55cc-444f-8ff4-b0c434a96019",
-      "firstName": "B",
-      "lastName": "Q",
-      "bio": "Benoît is an Android developer at Cybozu, based in Japan. He focuses on providing the best Android experience possible, both to customers and fellow developers.",
-      "tagLine": "Android Engineer @ Cybozu",
-      "profilePicture": "https://sessionize.com/image?f=785a3f42fa4308f84d70886b2f25f56a,200,200,True,False,15-55cc-444f-8ff4-b0c434a96019.0cde7eba-d569-4f65-85b6-7a08c64ed67a.png",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "benoitquenaudon.com",
-          "url": "https://benoitquenaudon.com/",
-          "linkType": "Other"
-        },
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/oldergod",
-          "linkType": "Twitter"
-        }
-      ],
-      "sessions": [
-        16498
-      ],
-      "fullName": "Benoit Quenaudon"
-    },
-    {
-      "id": "de26fcbb-7b43-4c56-b1dc-d808674f1114",
-      "firstName": "E",
-      "lastName": "L",
-      "bio": "Eric is a Senior Android Engineer at Tumblr focused on app architecture and performance. In his free time, he enjoys photographing minimalist architecture.",
-      "tagLine": "Senior Android Engineer at Tumblr",
-      "profilePicture": "https://sessionize.com/image?f=b330d88d9ff1cdb5af262d61c0e7da03,200,200,True,False,1905d75e-6cc5-4995-b419-2e877b799863.jpg",
-      "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/ericwleong",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/eric-leong-92347145/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://ericleong.me/writing",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://tumblr.com",
-          "linkType": "Company_Website"
-        },
-        {
-          "title": "Github",
-          "url": "https://github.com/ericleong",
-          "linkType": "Other"
-        }
-      ],
-      "sessions": [
-        17046
-      ],
-      "fullName": "Eric Leong"
     }
   ],
   "questions": [],
@@ -284,7 +175,7 @@
       "items": [
         {
           "id": 3483,
-          "name": "日本語",
+          "name": "Lala",
           "sort": 1
         },
         {
