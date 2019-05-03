@@ -2,15 +2,15 @@
   {
     "albumId": 1,
     "did": 1,
-    "title": "Day 3",
+    "icon": "Icons.restaurant",
     "dname": "Day three",
-    "reason": "reason 1 day 3"
+    "reason": "3pm - 4pm reason 1 day 3"
   },
   {
     "albumId": 1,
     "did": 2,
-    "title": "Day 3",
+    "icon": "Icons.group",
     "dname": "Day three",
-    "reason": "reason 2 day 3"
+    "reason": "5pm - 6pm - reason 2 day 3"
   }
 ]
