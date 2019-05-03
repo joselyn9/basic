@@ -2,14 +2,14 @@
   {
     "albumId": 1,
     "did": 1,
-    "title": "Day5",
+    "icon": "Icons.group",
     "dname": "Day five",
     "reason": "reason 1 day 5"
   },
   {
     "albumId": 1,
     "did": 2,
-    "title": "Day 5",
+    "icon": "Icons.supervised_user_circle",
     "dname": "Day five",
     "reason": "reason 2 day 5"
   }
