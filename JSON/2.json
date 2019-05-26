@@ -2,14 +2,21 @@
   {
     "albumId": 1,
     "did": 1,
-    "icon": "Icons.restaurant",
+    "icon": "3",
     "dname": "Day One",
     "reason": "reason 1 day 2"
   },
   {
     "albumId": 1,
+    "did": 3,
+    "icon": "4",
+    "dname": "Day One",
+    "reason": "reason 3 day 2"
+  },
+  {
+    "albumId": 1,
     "did": 2,
-    "icon": "Icons.hotel",
+    "icon": "4",
     "dname": "Day One",
     "reason": "reason 2 day 2"
   }
