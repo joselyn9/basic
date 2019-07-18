@@ -1,0 +1,22 @@
+{
+   "sponsors":[
+      {
+         "_id":"5b5249d4055a4d622209d4d7",
+         "name":"GrizzHacks2",
+         "description":"Sponsor placeholder.",
+         "logo":"https://i.imgur.com/c6sSe6Q.png"
+      },
+      {
+         "_id":"5b5249d5055a4d622209d4d8",
+         "name":"GrizzHacks1",
+         "description":"Sponsor placeholder.",
+         "logo":"https://i.imgur.com/c6sSe6Q.png"
+      },
+      {
+         "_id":"5b5249d6055a4d622209d4d9",
+         "name":"GrizzHacks3",
+         "description":"Sponsor placeholder.",
+         "logo":"https://i.imgur.com/c6sSe6Q.png"
+      }
+   ]
+}
