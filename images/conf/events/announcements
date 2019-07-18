@@ -1,0 +1,32 @@
+{
+   "announcements":[
+      {
+         "_id":"5b52402ab303c75b0e34ceba",
+         "title":"Dinner Is Served",
+         "subtitle":"Sponsored by Quicken!",
+         "time":"2018-09-22 18:00:00",
+         "type":"food"
+      },
+      {
+         "_id":"5b52412eb303c75b0e34cebb",
+         "title":"Time To Hack!",
+         "subtitle":"You have 24 hours. Good luck.",
+         "time":"2018-09-22 12:00:00",
+         "type":"tech"
+      },
+      {
+         "_id":"5b524141b303c75b0e34cebc",
+         "title":"Midnight Snack",
+         "subtitle":"Insom-nom-nomnia cookies.",
+         "time":"2018-09-23 00:00:00",
+         "type":"food"
+      },
+      {
+         "_id":"5b5242dd7e4d395dad03830a",
+         "title":"Intro to Android!",
+         "subtitle":"Learn how to build mobile apps.",
+         "time":"2018-09-22 13:00:00",
+         "type":"presentation"
+      }
+   ]
+}
