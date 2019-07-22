@@ -65,223 +65,22 @@
       "roomId": 514,
       "videoUrl": "https://www.youtube.com/watch?v=_2LLn42lm74",
       "slideUrl": "https://speakerdeck.com/kirimin/how-to-improve-your-mvp-architecture-and-tests"
-    },
-    {
-      "id": "16633",
-      "title": "Inside Android Architecture Components",
-      "description": "bb",
-      "startsAt": "2018-02-08T11:20:00",
-      "endsAt": "2018-02-08T11:50:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4b"
-      ],
-      "categoryItems": [
-        3480,
-        3483,
-        3488,
-        3540
-      ],
-      "questionAnswers": [],
-      "roomId": 513,
-      "videoUrl": "https://www.youtube.com/watch?v=7v4pJXy5dhk",
-      "slideUrl": "https://speakerdeck.com/kobitokaba/inside-architecture-components"
-    },
-    {
-      "id": "16997",
-      "title": "Deep dive into LayoutManager for RecyclerView",
-      "description": "RecyclerView ",
-      "startsAt": "2018-02-08T11:20:00",
-      "endsAt": "2018-02-08T11:50:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "2b"
-      ],
-      "categoryItems": [
-        3480,
-        3482,
-        3487,
-        3542
-      ],
-      "questionAnswers": [],
-      "roomId": 516,
-      "videoUrl": "https://www.youtube.com/watch?v=LzNlC8XVjFs",
-      "slideUrl": "https://www.slideshare.net/hagikuratakeshi/deep-diveintolayoutmanager"
-    },
-    {
-      "id": "15897",
-      "title": "How to Kontribute",
-      "description": "world!",
-      "startsAt": "2018-02-08T12:50:00",
-      "endsAt": "2018-02-08T13:40:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "1b"
-      ],
-      "categoryItems": [
-        3481,
-        3482,
-        3496,
-        3541
-      ],
-      "questionAnswers": [],
-      "roomId": 519,
-      "videoUrl": "https://www.youtube.com/watch?v=2bmqd5HLKf0",
-      "slideUrl": "https://photos.google.com/share/AF1QipMEiTz252QbjFxfzqpFnKOkw42KULxttUyK7Xr-jqGplYEH-OCicnR6NRBuoxwNcw?key=LWdZNFRhd0x4RjRJcWpYb2szNUh5Vm5UaURVdFJn"
-    },
-    {
-      "id": "15984",
-      "title": "acac",
-      "description": "cc",
-      "startsAt": "2018-02-08T12:50:00",
-      "endsAt": "2018-02-08T13:40:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "2b",
-        "3b"
-      ],
-      "categoryItems": [
-        3481,
-        3483,
-        3495,
-        3540
-      ],
-      "questionAnswers": [],
-      "roomId": 515,
-      "videoUrl": "https://www.youtube.com/watch?v=nTZZRTY0K7I",
-      "slideUrl": "https://speakerdeck.com/punchdrunker/how-to-get-started-in-developing-android-app",
-      "message": {
-        "ja": "このセッションはRoom7よりRoom2へ変更になりました。",
-        "en": "The room of this session was changed from Room7 to Room2."
-      }
-    },
-    {
-      "id": "16498",
-      "title": "Android",
-      "description": "Android",
-      "startsAt": "2018-02-08T12:50:00",
-      "endsAt": "2018-02-08T13:40:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4b"
-      ],
-      "categoryItems": [
-        3481,
-        3483,
-        3488,
-        3541
-      ],
-      "questionAnswers": [],
-      "roomId": 516,
-      "videoUrl": "https://www.youtube.com/watch?v=MIV7Mi9zko8",
-      "slideUrl": "https://speakerdeck.com/oldergod/android-niokeru-model-view-intent-akitekutiya"
-    },
-    {
-      "id": "16888",
-      "title": "Android",
-      "description": "vvf",
-      "startsAt": "2018-02-08T12:50:00",
-      "endsAt": "2018-02-08T13:40:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "4b"
-      ],
-      "categoryItems": [
-        3481,
-        3483,
-        3500,
-        3541
-      ],
-      "questionAnswers": [],
-      "roomId": 514,
-      "videoUrl": "https://www.youtube.com/watch?v=jHonnvdmNuE",
-      "slideUrl": "https://speakerdeck.com/takusemba/droidkaigi-1"
-    },
-    {
-      "id": "16935",
-      "title": "Android Back to the Future",
-      "description": 2008,
-      "startsAt": "2018-02-08T12:50:00",
-      "endsAt": "2018-02-08T13:40:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5b"
-      ],
-      "categoryItems": [
-        3481,
-        3483,
-        3488,
-        3540
-      ],
-      "questionAnswers": [],
-      "roomId": 518,
-      "videoUrl": "https://www.youtube.com/watch?v=O-VNWRrPxyc",
-      "slideUrl": "https://www.slideshare.net/mhidaka/droidkaigi-2018-android-back-to-the-future"
-    },
-    {
-      "id": "16141",
-      "title": "How to love developers like your customers",
-      "description": "In",
-      "startsAt": "2018-02-08T14:00:00",
-      "endsAt": "2018-02-08T14:30:00",
-      "isServiceSession": false,
-      "isPlenumSession": false,
-      "speakers": [
-        "5b"
-      ],
-      "categoryItems": [
-        3480,
-        3482,
-        3498,
-        3540
-      ],
-      "questionAnswers": [],
-      "roomId": 519,
-      "videoUrl": "https://www.youtube.com/watch?v=-flI_-NvvTI",
-      "slideUrl": "https://docs.google.com/presentation/d/12hjzZplD6eDQn1CuwUWZaR-0aZu6TppImZAqePAm7h0/edit#slide=id.p"
     }
   ],
   "speakers": [
     {
       "id": "1b",
-      "firstName": "",
-      "lastName": "",
-      "bio": "Adarsh is a Googler on the Android Studio team. He has written multiple guides for developers focused on optimizing Gradle build configurations and harnessing features of the Android plugin for Gradle—from beginner topics like creating build variants, to advanced ones like managing complex multi-module builds.",
+      "firstName": "1a",
+      "lastName": "1b",
+      "bio": "Adarsh is a ",
       "tagLine": "Google",
       "profilePicture": "https://sessionize.com/image?f=ddcf981408c6d94b822f8d81975cb498,200,200,True,False,e7bdf209-26ed-4e56-bbc9-8fcd0b9b5eea.jpg",
       "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Company Website",
-          "url": "http://d.android.com",
-          "linkType": "Company_Website"
-        }
-      ],
-      "sessions": [
-        16857
-      ],
-      "fullName": "Adarsh Fernando"
-    },
-    {
-      "id": "2b",
-      "firstName": "",
-      "lastName": "",
-      "bio": "sdfsfg",
-      "tagLine": "Nttdata",
-      "profilePicture": "https://sessionize.com/image?f=99fa70941cb9502fae23d6501a8aa324,200,200,True,False,b5993f9b-2094-4106-8424-b887a6e1be8c.jpg",
-      "isTopSpeaker": false,
       "links": [],
       "sessions": [
-        16948
+        16969
       ],
-      "fullName": "Akihiro Shiota"
+      "fullName": "Adarsh Fernando"
     }
   ],
   "rooms": [
