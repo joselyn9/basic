@@ -2,14 +2,14 @@
   "sessions": [
     {
       "id": "16969",
-      "title": "Kotlinアンチパターン",
-      "description": "　KotlinはJavaよりもシンプルで安全なコードを書くことができます。また、同じ処理を書く場合も、いくつかのやり方があります。文法に関する説明は、公式ドキュメントを見れば分かりますが、使いどころ、特にAndroidアプリ開発における使いどころについては、まだそれぞれ模索している段階といってよいのではないでしょうか。\r\n　このセッションでは、私がフルKotlinのアプリをチームで開発した経験の中で分かった、Kotlinの各種文法の適切な使いどころや、バグを生みやすいコードのパターンなどを紹介してみたいと思います。\r\n　例えば、lateinitとnull初期化の使い分け、interfaceのデフォルト実装とabstractクラスの使い分け、引数なしの関数とcustom getterの使い分け、定数とlazyとcustom getterの使い分けなどがあります。また、property delegationの使いどころ、スコープ関数の使いどころ、レシーバー付き関数型の使いどころなど、Kotlinの基本文法を紹介しつつ、Androidアプリ開発をした経験からActivityライフサイクルやFragmentライフサイクルに合わせた使いどころ・注意点などについて解説してみたいと思います。",
+      "title": "Kotlin",
+      "description": "　Kotlin",
       "startsAt": "2018-02-08T10:20:00",
       "endsAt": "2018-02-08T10:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "3fe8f4be-5700-44f5-ba97-1a4b4f831ec8"
+        "1b"
       ],
       "categoryItems": [
         3480,
@@ -24,14 +24,14 @@
     },
     {
       "id": "15575",
-      "title": "Android アプリの中を覗いてみよう",
-      "description": "Android アプリを使っていて「この機能どうやって作っているんだろう？」と思ったことはありませんか？また、数十MBのアプリに「いったい何が入っているんだろう？」と疑問に思ったことはありませんか？\r\n\r\nAndroid アプリの中身はわりと簡単に覗き見することができます。\r\nこのセッションではAndroid アプリのAPK の中身を覗き見する方法を紹介し、実際に中身を見てみます。面白い発見があるかもしれませんよ？",
+      "title": "Android",
+      "description": "Android",
       "startsAt": "2018-02-08T11:20:00",
       "endsAt": "2018-02-08T11:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "2f50ba75-0356-4d2e-8b2b-7343fd3e4377"
+        "2b"
       ],
       "categoryItems": [
         3480,
@@ -47,13 +47,13 @@
     {
       "id": "15904",
       "title": "How to improve your MVP architecture and tests",
-      "description": "■対象者\r\n・流行りにのってMVPっぽい設計にしたがあまりメリットが感じられていない人\r\n・MVPやCleanArchitectureを採用したがテストが書けていない人\r\n・設計やテストについて他社の事例や知見が知りたいと思っている人\r\n\r\n■概要\r\nCleanArchitectureを採用し、なんとなくPresenterを作ってみたけれど、Activityとの役割が曖昧で、コードが二箇所に分散しただけでかえってメンテしにくくなってしまった...。そんなプロジェクトに心当たりのある方も多いのではないでしょうか？\r\nこのセッションでは話者が数年間試行錯誤した経験を元に、Model-View-Presenterアーキテクチャを採用したアプリをどのように改善し、よりよい設計にしていくかについての知見を紹介します。\r\nまた、Presenterに対してMockitoなどを使ったテストを有効に書くための手法やTipsなども紹介したいと思います。\r\n\r\n■アジェンダ(仮)\r\n・MVPアンチパターンと改善例\r\n・MVPでテストを書く\r\n　・Presenterのテストの書き方\r\n　・テストライブラリを活用する\r\n　・テストのリファクタリング\r\n　・テストのガイドラインを定める\r\n・Presenterを整理する\r\n　・ドメインモデルを厚くする\r\n　・テンプレートクラスを自動生成する",
+      "description": "aa",
       "startsAt": "2018-02-08T11:20:00",
       "endsAt": "2018-02-08T11:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "1de1a2e2-e88d-4aa1-8d85-58c5466da05d"
+        "3b"
       ],
       "categoryItems": [
         3480,
@@ -69,13 +69,13 @@
     {
       "id": "16633",
       "title": "Inside Android Architecture Components",
-      "description": "#概要\r\nAndroid Architecture Componentsは、Android特有のUIコンポーネントの複雑さに対処するために産まれたライブラリです。\r\nGoogle I/O 2017で発表されたとたん、話題の的となったArchitecture Componentsですが、\r\nいったいどのようにして、ライフサイクルイベントを拾い、各コンポーネントはどのように反応しているのでしょうか。\r\nLifecycle, LiveData, ViewModel, Roomの内を覗いて、それらがどう動いているのか、探ってみましょう。\r\n\r\n#対象者\r\n- Android Architecture Componentsを使っている人\r\n- ライブラリの中を覗くのが好きな人\r\n\r\n#話す内容\r\n- Android Architecture Componentsの中身\r\n- Android Architecture Componentsを使うときの注意点など",
+      "description": "bb",
       "startsAt": "2018-02-08T11:20:00",
       "endsAt": "2018-02-08T11:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "299d3761-e25a-4df7-bea1-fe6e391938bd"
+        "4b"
       ],
       "categoryItems": [
         3480,
@@ -91,13 +91,13 @@
     {
       "id": "16997",
       "title": "Deep dive into LayoutManager for RecyclerView",
-      "description": "RecyclerView is now a de facto standard for representing a large data set into a limited window as a scrollable view.\r\n\r\nOne of the advantages of using it compared to ListView is that RecyclerView can change how the data set is presented in addition to a simple linear list (such as Grid, StaggeredGrid) by changing the LayoutManager attached to it.\r\n\r\nBut it's not well known that you can provide your own LayoutManager to achieve even more flexibility in addition to the three (Linear, Grid, StaggeredGrid) default LayoutManagers provided by the library.\r\n\r\nIn this talk I'm going to explain how you can create your own LayoutManager in details based on the experience that the presenter created a Flexbox implementation as a LayoutManager.",
+      "description": "RecyclerView ",
       "startsAt": "2018-02-08T11:20:00",
       "endsAt": "2018-02-08T11:50:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "e3267cf5-b1a7-4ce7-a4b3-223925f21316"
+        "2b"
       ],
       "categoryItems": [
         3480,
@@ -113,13 +113,13 @@
     {
       "id": "15897",
       "title": "How to Kontribute",
-      "description": "Do you want to send patches to Kotlin? Do you want to know what the best practise of Kotlin development? Do you want JetBrains to list your name in Kotlin blog? This is the talk for you!\r\n\r\nThis talk will explain how to send patches to Kotlin (mainly Kotlin plugin) repository as an external contributor.\r\n\r\nThe expected audience should know the followings:\r\n\r\n* Git/GitHub\r\n* Kotlin syntax\r\n\r\nThe expected outlines are followings:\r\n\r\n* Setup development environment\r\n* Communicating with other developers\r\n* Developing one of Kotlin plugin features\r\n* Implementing unit tests\r\n* Sending a pull request\r\n\r\nAfter this talk, you will be ready to send pull requests to one of the best computer languages in the world!",
+      "description": "world!",
       "startsAt": "2018-02-08T12:50:00",
       "endsAt": "2018-02-08T13:40:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "892d6f3c-816b-4a97-a135-c315e1ed6471"
+        "1b"
       ],
       "categoryItems": [
         3481,
@@ -134,15 +134,15 @@
     },
     {
       "id": "15984",
-      "title": "今から始めるAndroidアプリ開発",
-      "description": "このセッションでは、今からAndroidアプリ開発を始めるに当たり、2018年において必要となる基礎的な知識や学習のコツを網羅的に紹介します。\r\n\r\n対象者はまだAndroidアプリ開発をした事がない初学者や、久しぶりにAndroidやってみようかなという人です。\r\n\r\n簡単なサンプルアプリを題材にして、以下のようなトピックに触れます\r\n\r\n* Android アプリの基礎知識 & 用語解説\r\n* レイアウト\r\n* 非同期処理\r\n* ネットワーク通信\r\n* 通知\r\n* 主要なアーキテクチャ\r\n* テストとその自動化\r\n* デバッグ方法\r\n* 最低限必要となる各種便利ライブラリ\r\n* トレンドのキャッチアップ\r\n* etc...\r\n\r\nこのセッションを通じて、スラスラとAndroidアプリが実装できるようなるわけではありませんが、Androidアプリ開発の学習を開始するに当たって必要となる最新の基礎知識を獲得することができます。",
+      "title": "acac",
+      "description": "cc",
       "startsAt": "2018-02-08T12:50:00",
       "endsAt": "2018-02-08T13:40:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "a7714db6-05d1-4976-af00-160e59ca0e17",
-        "33bb4b3b-898e-43e5-99d0-be8e0f02865e"
+        "2b",
+        "3b"
       ],
       "categoryItems": [
         3481,
@@ -161,14 +161,14 @@
     },
     {
       "id": "16498",
-      "title": "Android における Model-View-Intent アーキテクチャ",
-      "description": "Android上の開発は非同期の扱いを避ける事はできないです。ネットワーク、フレームワーク、ユーザの操作などから非同期処理が発生してます。油断してしまうとアプリが複雑化してメンテナンスが難しくなります。皆様はネットワークからレスポンスを待っている途中、ユーザが画面をローテーションしても問題ないですか？並行してユーザがいろんな操作しても大丈夫でしょうか？\r\n\r\nModel-View-Intent アーキテクチャは非同期処理が発生する前提で考えられたため、すべてがストリームとして扱ってデータの流れを一方通行にするかつ不変オブジェクトを使うのが MVI アーキテクチャの方針です。マルチスレッディングやAndroidのライフサイクルの対応から生じる問題がアーキテクチャによって解決されるおかげでアプリのロジックに集中できるようになり、コードが書きやすく、今後の保守も楽になります！\r\n\r\n皆様が MVI アーキテクチャの強みを理解し自分で実現できるようにする目標で Kotlin と RxJava を使って並行処理、画面ローテーション、スナックバーを含んだ画面をどうやって作っていくかを語るつもりです！",
+      "title": "Android",
+      "description": "Android",
       "startsAt": "2018-02-08T12:50:00",
       "endsAt": "2018-02-08T13:40:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "449b4215-55cc-444f-8ff4-b0c434a96019"
+        "4b"
       ],
       "categoryItems": [
         3481,
@@ -183,14 +183,14 @@
     },
     {
       "id": "16888",
-      "title": "Androidで動画コンテンツを扱うTips",
-      "description": "▶対象\r\n・Androidで動画を扱うアプリに携わっている人\r\n・Androidの動画周りに興味がある人\r\n\r\n▶概要\r\n画像やテキストが主流だった時代から動画の時代へと移り変わってきました。そこで、今回はAndroidで動画を扱うために必要なTipsなどをお話できればと思います。\r\n動画Player周りでは、Androidで主流になっているExoPlayerを使って説明していく予定です。\r\n最後にインスタのライブ配信やFacebookライブの様なライブ配信をAndroidでどう実現するかや実際にそのデモを行います。\r\n\r\n▶内容\r\n・動画の配信Protocolと概要 (MPEG-DASH, HLS)\r\n・Androidでの動画再生 with ExoPlayer\r\n・ExoPlayerでできることとその内部実装\r\n・Androidで動画配信\r\n・Androidでライブ配信 (デモ) ",
+      "title": "Android",
+      "description": "vvf",
       "startsAt": "2018-02-08T12:50:00",
       "endsAt": "2018-02-08T13:40:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "fbb08aa9-7aa1-4b70-b676-32905f5fd8d9"
+        "4b"
       ],
       "categoryItems": [
         3481,
@@ -206,13 +206,13 @@
     {
       "id": "16935",
       "title": "Android Back to the Future",
-      "description": "2008年にリリースされて以来、Androidは猛烈なスピードで進化し、多くの開発者に愛されて発展してきました。\r\n\r\n本セッションではこの9年間の（そしてAndroidが生まれる前にどのような設計思想を持って作られたかという点も踏まえて）アーキテクチャの進歩を振り返り、アプリケーション設計のトレンドを予測します。\r\n\r\n通常のセッションではなく、聴講者と発表者が対話し、ディスカッションしていく（TEDのような）スタイルにて講演を実施します。これまでやったことがないチャレンジングな手法です。\r\n\r\n講演を通じて、Androidの根底を支えるライフサイクル、ActivityやView、XMLによるUIの分離という設計思想からMV-Whateverなどのアプリケーションのデザインパターンに至るまで、そして今後どのような未来に向かっていくか、Architecture Componentsなどが登場した経緯を紹介します。\r\n\r\nディスカッションしながらすすめることで、これらのライブラリ、デザインパターンが解決したかった問題に触れられます。参加者がAndroidの歴史を追体験でき、単純に学ぶよりも楽しく学べ、初学者から中級者の理解を助けます。\r\n\r\n\"2017年の東京、新宿に住むエンジニア、マーティ・マクフライはAndroid歴史学者であるドロイド博士（通称ドク）を手伝って、タイムマシンの実験を行う。タイムマシンに改造されたデロリアンDMC-12が到着した先にはガラケーしか存在しない時代だった。デロリアンに乗った2人は現代のAndroidまで帰ってこれるのか？！\"\r\n",
+      "description": 2008,
       "startsAt": "2018-02-08T12:50:00",
       "endsAt": "2018-02-08T13:40:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "b884cf72-b5c9-471b-a874-7f0ba379561d"
+        "5b"
       ],
       "categoryItems": [
         3481,
@@ -228,13 +228,13 @@
     {
       "id": "16141",
       "title": "How to love developers like your customers",
-      "description": "In this talk I'll show how you can increase developer productivity of your Android Teams by adding simple debug features to your app, hacking gradle and Android Studio to turn your Devs into Super Heroes who ship much better products faster than ever.\r\n\r\nEverybody talks about Design, Architectures, Libraries and what not, but, what we often forget is that most of the times quick wins for us as developers can be much more beneficial than tackling large refactors to use the latest technologies available so if we apply the 80-20 rule to our development workflow we can achieve so much more. \r\nPeople with any level of android experience can see this talk.",
+      "description": "In",
       "startsAt": "2018-02-08T14:00:00",
       "endsAt": "2018-02-08T14:30:00",
       "isServiceSession": false,
       "isPlenumSession": false,
       "speakers": [
-        "03c63012-49c4-44eb-af96-0f5360b0d187"
+        "5b"
       ],
       "categoryItems": [
         3480,
@@ -250,7 +250,7 @@
   ],
   "speakers": [
     {
-      "id": "532dc16d-b69d-4f68-aa49-fe9878b0b52f",
+      "id": "1b",
       "firstName": "",
       "lastName": "",
       "bio": "Adarsh is a Googler on the Android Studio team. He has written multiple guides for developers focused on optimizing Gradle build configurations and harnessing features of the Android plugin for Gradle—from beginner topics like creating build variants, to advanced ones like managing complex multi-module builds.",
@@ -270,10 +270,10 @@
       "fullName": "Adarsh Fernando"
     },
     {
-      "id": "650f26f7-5a6e-43a0-958d-62ab2cc0ae84",
+      "id": "2b",
       "firstName": "",
       "lastName": "",
-      "bio": "2008年入社\r\n2014年より社内のAndroid セキュリティに関する業務に従事",
+      "bio": "sdfsfg",
       "tagLine": "Nttdata",
       "profilePicture": "https://sessionize.com/image?f=99fa70941cb9502fae23d6501a8aa324,200,200,True,False,b5993f9b-2094-4106-8424-b887a6e1be8c.jpg",
       "isTopSpeaker": false,
@@ -284,10 +284,10 @@
       "fullName": "Akihiro Shiota"
     },
     {
-      "id": "9b163902-7cf0-4cb7-bfd6-edae47c221f3",
+      "id": "3b",
       "firstName": "",
       "lastName": "",
-      "bio": "サーバーサイドエンジニアでしたが、二年くらい前にAndroidエンジニアになりました。好きな言葉は、SharedElementとShapeShifter。",
+      "bio": "hjjh",
       "tagLine": "Android Developer",
       "profilePicture": "https://sessionize.com/image?f=71f7451be83defd7151a8089c384c596,200,200,True,False,02-7cf0-4cb7-bfd6-edae47c221f3.578aa4ce-e550-42d9-865e-3db44c03fd1d.jpg",
       "isTopSpeaker": false,
@@ -298,7 +298,7 @@
       "fullName": "Amane Nikaido"
     },
     {
-      "id": "af079576-c7db-497a-990d-919fc2472e45",
+      "id": "4b",
       "firstName": "",
       "lastName": "",
       "bio": "Anastasia a very passionate Android developer working @ Movivo. She like cupcakes, chocolate, and all types of sweets, which is probably what led her to the Android world.",
@@ -323,10 +323,10 @@
       "fullName": "Anastasia"
     },
     {
-      "id": "5752b1a2-717b-44c8-a247-64be0b7dcf2b",
+      "id": "5b",
       "firstName": "",
       "lastName": "",
-      "bio": "日本で最初に発売されたHT-03A時代からずっとAndroid開発をしている。(7年ぐらい)\r\n学生時代にAndroid Application Award等の受賞経験等を経て、2015年サイバーエージェントに新卒で入社し、FRESH!という動画サービスの立ち上げから現在も開発を続けている。\r\nFRESH!は立ち上げ当初の2015年4月からフルKotlinで開発をしている。",
+      "bio": "fff",
       "tagLine": "CyberAgent, Inc.",
       "profilePicture": "https://sessionize.com/image?f=76fb13a0c0325962a2eb1fc3c52adfd1,200,200,True,False,a2-717b-44c8-a247-64be0b7dcf2b.5dda6eb5-d319-4f31-86d0-2313df7207a7.jpeg",
       "isTopSpeaker": false,
@@ -358,10 +358,10 @@
       "fullName": "a.akira"
     },
     {
-      "id": "3262db6c-d659-4109-a410-2b8dac1bf737",
+      "id": "6b",
       "firstName": "",
       "lastName": "",
-      "bio": "Xamarin.AndroidプラットフォームのSDKを開発しているエンジニア。Embeddinator-4000にもcontributeしている。",
+      "bio": "Xamarin",
       "tagLine": "xamarin",
       "profilePicture": "https://sessionize.com/image?f=2bd581cb950481660e3d73cdb5e6ab94,200,200,True,False,88fe37b8-3881-4202-8814-c7469d973e8f.jpg",
       "isTopSpeaker": false,
@@ -372,10 +372,10 @@
       "fullName": "atsushieno"
     },
     {
-      "id": "449b4215-55cc-444f-8ff4-b0c434a96019",
+      "id": "7b",
       "firstName": "",
       "lastName": "",
-      "bio": "Benoît is an Android developer at Cybozu, based in Japan. He focuses on providing the best Android experience possible, both to customers and fellow developers.",
+      "bio": "Bbf",
       "tagLine": "Android Engineer @ Cybozu",
       "profilePicture": "https://sessionize.com/image?f=785a3f42fa4308f84d70886b2f25f56a,200,200,True,False,15-55cc-444f-8ff4-b0c434a96019.0cde7eba-d569-4f65-85b6-7a08c64ed67a.png",
       "isTopSpeaker": false,
@@ -397,7 +397,7 @@
       "fullName": "Benoit Quenaudon"
     },
     {
-      "id": "bbf9c2ed-21be-4388-a6b4-138561d76376",
+      "id": "8b",
       "firstName": "",
       "lastName": "",
       "bio": "Chet leads the Android UI Toolkit team at Google, where he works on graphics, animations, UI elements, and anything else that lights up pixels. Chet also gets out of the office occasionally to write and perform comedy, or to present at developer conferences like this one.",
@@ -422,10 +422,10 @@
       "fullName": "Chet Haase"
     },
     {
-      "id": "2f606e32-997a-4b74-8420-76a47e7d66a3",
+      "id": "9b",
       "firstName": "",
       "lastName": "",
-      "bio": "Enrique López Mañas is a Google Developer Expert and independent IT consultant. He has been working with mobile technologies and learning from them since 2007. He is an avid contributor to the open source community and a FLOSS (Free Libre Open Source Software) kind of guy, being among the top 10 open source Java contributors in Germany. He is a part of the Google LaunchPad accelerator, where he participates in Google global initiatives to influence hundreds of the best startups from all around the globe. He is also a big data and machine learning aficionado.\r\n\r\nIn his free time he rides his bike, take pictures, and travels until exhaustion. He also writes literature and enjoys all kinds of arts. He likes to write about himself in third person. You can follow him on Twitter (@eenriquelopez) to stay updated on his latest movements.",
+      "bio": "Enrique",
       "tagLine": "Google Developer Expert",
       "profilePicture": "https://sessionize.com/image?f=45f06f55450db5cd0e212980513befec,200,200,True,False,34285f3a-76cf-4459-960a-a960e4ccd67a.jpg",
       "isTopSpeaker": false,
@@ -452,10 +452,10 @@
       "fullName": "Enrique Lopez Mañas"
     },
     {
-      "id": "de26fcbb-7b43-4c56-b1dc-d808674f1114",
+      "id": "10b",
       "firstName": "",
       "lastName": "",
-      "bio": "Eric is a Senior Android Engineer at Tumblr focused on app architecture and performance. In his free time, he enjoys photographing minimalist architecture.",
+      "bio": "Eric",
       "tagLine": "Senior Android Engineer at Tumblr",
       "profilePicture": "https://sessionize.com/image?f=b330d88d9ff1cdb5af262d61c0e7da03,200,200,True,False,1905d75e-6cc5-4995-b419-2e877b799863.jpg",
       "isTopSpeaker": false,
@@ -464,26 +464,6 @@
           "title": "Twitter",
           "url": "https://twitter.com/ericwleong",
           "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/eric-leong-92347145/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://ericleong.me/writing",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://tumblr.com",
-          "linkType": "Company_Website"
-        },
-        {
-          "title": "Github",
-          "url": "https://github.com/ericleong",
-          "linkType": "Other"
         }
       ],
       "sessions": [
@@ -492,40 +472,14 @@
       "fullName": "Eric Leong"
     },
     {
-      "id": "78606c3b-8fc6-4960-9ed2-6005feaa439c",
+      "id": "11b",
       "firstName": "",
       "lastName": "",
-      "bio": "Principal Android Engineer at @Nikkei\r\n\r\nhttps://github.com/srym\r\nhttps://www.linkedin.com/in/fumihiko-shiroyama-632045136/",
+      "bio": "Principal",
       "tagLine": "Android Testing Enthusiast",
       "profilePicture": "https://sessionize.com/image?f=6cafc6252b06097e0912d922d91d6d13,200,200,True,False,3b-8fc6-4960-9ed2-6005feaa439c.ee58a8f7-0d49-4279-8295-7cb84bc3bbf1.jpg",
       "isTopSpeaker": false,
-      "links": [
-        {
-          "title": "Twitter",
-          "url": "https://twitter.com/fushiroyama",
-          "linkType": "Twitter"
-        },
-        {
-          "title": "LinkedIn",
-          "url": "https://www.linkedin.com/in/fumihiko-shiroyama-632045136/",
-          "linkType": "LinkedIn"
-        },
-        {
-          "title": "Blog",
-          "url": "http://www.shiroyama.blog/",
-          "linkType": "Blog"
-        },
-        {
-          "title": "Company Website",
-          "url": "https://www.wantedly.com/companies/nikkeiinc",
-          "linkType": "Company_Website"
-        },
-        {
-          "title": "GitHub",
-          "url": "https://github.com/srym",
-          "linkType": "Other"
-        }
-      ],
+      "links": [],
       "sessions": [
         16942
       ],
