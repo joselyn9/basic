@@ -1,0 +1,203 @@
+{
+    "data": {
+        "newsList": {
+            "nodes": [{
+                "id": "News:4",
+                "date": "2018-11-15",
+                "message": "Videos of the sessions are now available.",
+                "messageJa": "セッションの動画を公開しました",
+                "link": "https://www.youtube.com/playlist?list=PL5y9uEm8_ypUSnD4TbKKH_7935GxkbgGv"
+            }, {
+                "id": "News:3",
+                "date": "2018-11-15",
+                "message": "Slides from the sessions are now available.",
+                "messageJa": "セッションのスライドを公開しました",
+                "link": "https://speakerdeck.com/mercari"
+            }, {
+                "id": "News:2",
+                "date": "2018-09-28",
+                "message": "The list of exhibition booths is now up on our website!",
+                "messageJa": "展示ブースの内容を公開しました",
+                "link": ""
+            }, {
+                "id": "News:1",
+                "date": "2018-09-04",
+                "message": "Tickets are on sale.",
+                "messageJa": "チケット販売をオープンしました",
+                "link": ""
+            }]
+        }
+    },
+    "extensions": {
+        "tracing": {
+            "startTime": "2019-08-05T05:30:34.097890446Z",
+            "endTime": "2019-08-05T05:30:34.098549252Z",
+            "duration": 658793,
+            "parsing": {
+                "startOffset": 0,
+                "duration": 49580
+            },
+            "validation": {
+                "startOffset": 49946,
+                "duration": 45815
+            },
+            "execution": {
+                "resolvers": [{
+                    "startOffset": 155095,
+                    "duration": 415591,
+                    "path": ["newsList"],
+                    "parentType": "Query",
+                    "fieldName": "newsList",
+                    "returnType": "NewsConnection!"
+                }, {
+                    "startOffset": 200493,
+                    "duration": 365688,
+                    "path": ["newsList", "nodes"],
+                    "parentType": "NewsConnection",
+                    "fieldName": "nodes",
+                    "returnType": "[News!]!"
+                }, {
+                    "startOffset": 259631,
+                    "duration": 46297,
+                    "path": ["newsList", "nodes", 3, "date"],
+                    "parentType": "News",
+                    "fieldName": "date",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 306973,
+                    "duration": 10923,
+                    "path": ["newsList", "nodes", 3, "message"],
+                    "parentType": "News",
+                    "fieldName": "message",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 318491,
+                    "duration": 9482,
+                    "path": ["newsList", "nodes", 3, "messageJa"],
+                    "parentType": "News",
+                    "fieldName": "messageJa",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 328703,
+                    "duration": 8735,
+                    "path": ["newsList", "nodes", 3, "link"],
+                    "parentType": "News",
+                    "fieldName": "link",
+                    "returnType": "String"
+                }, {
+                    "startOffset": 341130,
+                    "duration": 48235,
+                    "path": ["newsList", "nodes", 1, "date"],
+                    "parentType": "News",
+                    "fieldName": "date",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 372160,
+                    "duration": 24008,
+                    "path": ["newsList", "nodes", 2, "date"],
+                    "parentType": "News",
+                    "fieldName": "date",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 390038,
+                    "duration": 16965,
+                    "path": ["newsList", "nodes", 1, "message"],
+                    "parentType": "News",
+                    "fieldName": "message",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 397006,
+                    "duration": 10187,
+                    "path": ["newsList", "nodes", 2, "message"],
+                    "parentType": "News",
+                    "fieldName": "message",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 407543,
+                    "duration": 8740,
+                    "path": ["newsList", "nodes", 2, "messageJa"],
+                    "parentType": "News",
+                    "fieldName": "messageJa",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 407673,
+                    "duration": 11643,
+                    "path": ["newsList", "nodes", 1, "messageJa"],
+                    "parentType": "News",
+                    "fieldName": "messageJa",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 410086,
+                    "duration": 59032,
+                    "path": ["newsList", "nodes", 0, "date"],
+                    "parentType": "News",
+                    "fieldName": "date",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 409995,
+                    "duration": 53215,
+                    "path": ["newsList", "nodes", 3, "id"],
+                    "parentType": "News",
+                    "fieldName": "id",
+                    "returnType": "ID!"
+                }, {
+                    "startOffset": 416746,
+                    "duration": 13727,
+                    "path": ["newsList", "nodes", 2, "link"],
+                    "parentType": "News",
+                    "fieldName": "link",
+                    "returnType": "String"
+                }, {
+                    "startOffset": 419916,
+                    "duration": 11245,
+                    "path": ["newsList", "nodes", 1, "link"],
+                    "parentType": "News",
+                    "fieldName": "link",
+                    "returnType": "String"
+                }, {
+                    "startOffset": 436263,
+                    "duration": 12797,
+                    "path": ["newsList", "nodes", 2, "id"],
+                    "parentType": "News",
+                    "fieldName": "id",
+                    "returnType": "ID!"
+                }, {
+                    "startOffset": 451318,
+                    "duration": 43068,
+                    "path": ["newsList", "nodes", 1, "id"],
+                    "parentType": "News",
+                    "fieldName": "id",
+                    "returnType": "ID!"
+                }, {
+                    "startOffset": 469923,
+                    "duration": 13023,
+                    "path": ["newsList", "nodes", 0, "message"],
+                    "parentType": "News",
+                    "fieldName": "message",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 483541,
+                    "duration": 10940,
+                    "path": ["newsList", "nodes", 0, "messageJa"],
+                    "parentType": "News",
+                    "fieldName": "messageJa",
+                    "returnType": "String!"
+                }, {
+                    "startOffset": 494975,
+                    "duration": 9721,
+                    "path": ["newsList", "nodes", 0, "link"],
+                    "parentType": "News",
+                    "fieldName": "link",
+                    "returnType": "String"
+                }, {
+                    "startOffset": 534585,
+                    "duration": 21545,
+                    "path": ["newsList", "nodes", 0, "id"],
+                    "parentType": "News",
+                    "fieldName": "id",
+                    "returnType": "ID!"
+                }]
+            }
+        }
+    }
+}
