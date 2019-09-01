@@ -61,42 +61,42 @@
   },
   {
     "id": 7,
-    "bookname": "b1",
-    "bookauthor": "auth1",
+    "bookname": "b7",
+    "bookauthor": "author7",
     "bookcover": "https://images.gr-assets.com/books/1493178362l/30555488.jpg",
     "bookrating": 2,
     "bookviews": 11,
     "booksort": 7,
-    "bookdetails": "deatils1"
+    "bookdetails": "deatils7"
   },
   {
     "id": 8,
-    "bookname": "b2",
-    "bookauthor": "auth2",
+    "bookname": "b8",
+    "bookauthor": "auth8",
     "bookcover": "https://images.gr-assets.com/books/1309198452l/89716.jpg",
     "bookrating": 3,
     "bookviews": 22,
     "booksort": 220,
-    "bookdetails": "deatils122"
+    "bookdetails": "deatils8"
   },
   {
     "id": 9,
-    "bookname": "b3",
-    "bookauthor": "auth3",
+    "bookname": "b9",
+    "bookauthor": "auth9",
     "bookcover": "https://images.gr-assets.com/books/1439632243l/24178.jpg",
     "bookrating": 4,
     "bookviews": 33,
     "booksort": 9,
-    "bookdetails": "deatils133"
+    "bookdetails": "deatils 9"
   },
   {
     "id": 10,
-    "bookname": "b4",
-    "bookauthor": "auth4",
+    "bookname": "b10",
+    "bookauthor": "auth10",
     "bookcover": "https://images.gr-assets.com/books/1507963312l/33574273.jpg",
     "bookrating": 5,
     "bookviews": 44,
     "booksort": 10,
-    "bookdetails": "4deatils14"
+    "bookdetails": "4deatils 10"
   }
 ]
