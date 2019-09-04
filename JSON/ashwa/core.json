@@ -50,7 +50,8 @@
         "medium": "http://gardenpaper.in/wp-content/uploads/2019/07/sanpadabuilding.jpg",
         "thumbnail": "http://gardenpaper.in/wp-content/uploads/2019/07/sanpadabuilding.jpg"
       },
-      "content": "NZ"
+      "content": "NZ",
+      "offset": 0
     },
     {
       "author": "अश्वमेध महायज्ञ समिति, मुंबई",
@@ -93,6 +94,7 @@
       },
       "phone": "(065)-641-8875",
       "cell": "(690)-433-3937",
+      "offset": -1,
       "id": {
         "name": "",
         "value": null
