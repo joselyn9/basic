@@ -1,0 +1,398 @@
+{
+  "about": {
+    "venue": {
+      "name": "Mumbai",
+      "address": "Goregaon West, Mumbai",
+      "image_path": "images/venue.png"
+    },
+    "description": "EPG Entrepreneur",
+    "website": "http://gardenpaper.in",
+    "facebook": "https://fb.com/gardenpaper",
+    "contact_email": "mailto:apps@gardenpaper.in",
+    "link_types": [
+      {
+        "id": "sponsor",
+        "name": "Sponsors"
+      },
+      {
+        "id": "supporter",
+        "name": "Supporters"
+      }
+    ],
+    "links": [
+      {
+        "name": "Gardenpaper",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor1.png",
+        "website": "http://gardenpaper.in",
+        "link_type_id": "sponsor"
+      },
+      {
+        "name": "Sandesh",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor2.png",
+        "website": "http://gardenpaper.in",
+        "link_type_id": "supporter"
+      },
+      {
+        "name": "Singers",
+        "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/sponsor3.png",
+        "website": "http://gardenpaper.in",
+        "link_type_id": "supporter"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "id": "sanchav",
+      "name": "Library",
+      "bio": "Library facility from 6:00am to 10:00 am & 6.00pm till Midnight",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
+      "company": "Rs 3499/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "https://example.com",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "mandeo",
+      "name": "Desk Type 1",
+      "bio": "Rent a work desk for people who like to work individually - Time 10.00am to 6:00pm",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
+      "company": "Rs 14999/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "facebook": "https://fb.com/gardenpaper",
+      "linked_in": ""
+    },
+    {
+      "id": "atusuk",
+      "name": "Desk Type 2",
+      "bio": "Rent a work desk for people who like to work individually but in a group of 2 or more - Time 10.00am to 6:00pm",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
+      "company": "Rs 16999/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "surbob",
+      "name": "Personal Cabin 1",
+      "bio": "Presonal Cabins with 3 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
+      "company": "Rs 25000/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "komran",
+      "name": "Personal Cabin 1",
+      "bio": "Presonal Cabins with 4 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer5.JPG",
+      "company": "Rs 29999/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "sannai",
+      "name": "Lecture Room",
+      "bio": "Multiple configurations with 10+ people seating capacity, Avalible on Weekends",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
+      "company": "Price on Request",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "jagrau",
+      "name": "Jagdish Raut",
+      "bio": "Is a high pitch singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer7.JPG",
+      "company": "Musicals Prop",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "ramtho",
+      "name": "Ramakant Thorve",
+      "bio": "Is a singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer8.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "sudpat",
+      "name": "Sudhir Patkar",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer9.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "shasaw",
+      "name": "Shalaka Sawant",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer10.JPG",
+      "company": "Musicals All the way",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "leegau",
+      "name": "Leena Gaurade",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer11.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "vidpat",
+      "name": "Vidya Pathak",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer12.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
+      "id": "yastam",
+      "name": "Yashshree Tambre",
+      "bio": "Is a friendly singer he has developed a style of his own.",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer13.JPG",
+      "company": "Musicals",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "",
+      "facebook": "https://fb.com/gardenpaper"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "main",
+      "name": "Library",
+      "color": "#F0C674"
+    },
+    {
+      "id": "track1",
+      "name": "Room1",
+      "color": "#CC6666"
+    },
+    {
+      "id": "track2",
+      "name": "Cabin1",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "lecture1",
+      "name": "Lecture",
+      "color": "#B5BD68"
+    }
+  ],
+  "talk_types": [
+    {
+      "id": "technical",
+      "name": "Library",
+      "material_icon": "grade",
+      "description": "This is a Library"
+    },
+    {
+      "id": "room",
+      "name": "Single Desk",
+      "material_icon": "all_inclusive",
+      "description": "This is a single desk/chair"
+    },
+    {
+      "id": "doubledesk1",
+      "name": "Double Desk",
+      "material_icon": "tag_faces",
+      "description": "This is a Double Desk"
+    },
+    {
+      "id": "cabin1",
+      "name": "Cabin 1",
+      "material_icon": "tag_faces",
+      "description": "This is Cabin for 3 people"
+    },
+    {
+      "id": "lecture",
+      "name": "Lecture Room",
+      "material_icon": "tag_faces",
+      "description": "This is Lecture Room"
+    },
+    {
+      "id": "break",
+      "name": "Break",
+      "material_icon": "free_breakfast",
+      "description": "Time for a break!"
+    }
+  ],
+  "schedule": [
+    {
+      "time": "5:30pm",
+      "talks": [
+        {
+          "speaker_id": "sanchav",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Singer with many music directors .",
+          "description": "Pag Ghungroo Baandh"
+        }
+      ]
+    },
+    {
+      "time": "5:40pm",
+      "talks": [
+        {
+          "speaker_id": "mandeo",
+          "track_id": "track1",
+          "talk_type_id": "fun",
+          "title": "Songs are fun, with friends everywhere.",
+          "description": "Songs of country paradise, but everywhere."
+        },
+        {
+          "speaker_id": "atusuk",
+          "track_id": "track2",
+          "talk_type_id": "room",
+          "title": "Sing Along.",
+          "description": "In Melody"
+        }
+      ]
+    },
+    {
+      "time": "5:55pm",
+      "talks": [
+        {
+          "speaker_id": "surbob",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:10pm",
+      "talks": [
+        {
+          "speaker_id": "komran",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:20pm",
+      "talks": [
+        {
+          "speaker_id": "sannai",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:30pm",
+      "talks": [
+        {
+          "speaker_id": "jagrau",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:40pm",
+      "talks": [
+        {
+          "speaker_id": "ramtho",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "6:55pm",
+      "talks": [
+        {
+          "speaker_id": "sudpat",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:10pm",
+      "talks": [
+        {
+          "speaker_id": "shasaw",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:15pm",
+      "talks": [
+        {
+          "speaker_id": "leegau",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:25pm",
+      "talks": [
+        {
+          "speaker_id": "vidpat",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:30pm",
+      "talks": [
+        {
+          "speaker_id": "yastam",
+          "track_id": "main",
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you."
+        }
+      ]
+    },
+    {
+      "time": "7:40am",
+      "talks": [
+        {
+          "talk_type_id": "break",
+          "title": "The End! thank you",
+          "description": "Please join next show.."
+        }
+      ]
+    }
+  ]
+}
