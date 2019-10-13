@@ -42,7 +42,7 @@
   },
   "speakers": [
     {
-      "id": "library",
+      "id": "speaker_library",
       "name": "Library",
       "bio": "Library facility from 6:00am to 10:00 am & 6.00pm till Midnight",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
@@ -52,7 +52,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "desk_desk_1",
+      "id": "speaker_desk_1",
       "name": "Desk Type 1",
       "bio": "Rent a work desk for people who like to work individually - Time 10.00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
@@ -62,7 +62,7 @@
       "linked_in": ""
     },
     {
-      "id": "desk_desk_2",
+      "id": "speaker_desk_2",
       "name": "Desk Type 2",
       "bio": "Rent a work desk for people who like to work individually but in a group of 2 or more - Time 10.00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
@@ -72,7 +72,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "cabin1",
+      "id": "speaker_cabin1",
       "name": "Personal Cabin 1",
       "bio": "Personal Cabins with 3 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
@@ -82,7 +82,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "cabin2",
+      "id": "speaker_cabin_2",
       "name": "Personal Cabin 2",
       "bio": "Personal Cabins with 4 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer5.JPG",
@@ -92,7 +92,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "lecture1",
+      "id": "speaker_lecture_1",
       "name": "Lecture Room",
       "bio": "Multiple configurations with 5+ people seating capacity, Avalible on Weekends",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
@@ -102,7 +102,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "lecture2",
+      "id": "speaker_lecture_2",
       "name": "Lecture Room Big",
       "bio": "Multiple configurations with 10+ people seating capacity, Avalible on Weekends",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
@@ -114,75 +114,75 @@
   ],
   "tracks": [
     {
-      "id": "library",
+      "id": "tracks_library",
       "name": "Library",
       "color": "#F0C674"
     },
     {
-      "id": "desk1",
+      "id": "tracks_desk1",
       "name": "Desk 1",
       "color": "#CC6666"
     },
     {
-      "id": "cabin1",
+      "id": "tracks_cabin1",
       "name": "Cabin 1",
       "color": "#B5BD68"
     },
     {
-      "id": "cabin2",
+      "id": "tracks_cabin2",
       "name": "Cabin 1",
       "color": "#B5BD68"
     },
     {
-      "id": "lecture1",
+      "id": "tracks_lecture1",
       "name": "Lecture",
       "color": "#B5BD68"
     },
     {
-      "id": "desk2",
+      "id": "tracks_desk2",
       "name": "DEsk 2",
       "color": "#B5BD68"
     }
   ],
   "talk_types": [
     {
-      "id": "library",
+      "id": "talk_types_library",
       "name": "Library",
       "material_icon": "group_work",
       "description": "This is a Library"
     },
     {
-      "id": "desk",
+      "id": "talk_types_desk",
       "name": "Single Desk",
       "material_icon": "perm_identity",
       "description": "This is a single desk/chair"
     },
     {
-      "id": "doubledesk",
+      "id": "talk_types_doubledesk",
       "name": "Double Desk",
       "material_icon": "business_center",
       "description": "This is a Double Desk"
     },
     {
-      "id": "cabin1",
+      "id": "talk_types_cabin1",
       "name": "Cabin 1",
       "material_icon": "meeting_room",
       "description": "This is Cabin for 3 people"
     },
     {
-      "id": "cabin2",
+      "id": "talk_types_cabin2",
       "name": "Cabin 2",
       "material_icon": "meeting_room",
       "description": "This is Cabin for 4 people"
     },
     {
-      "id": "lecture",
+      "id": "talk_types_lecture",
       "name": "Lecture Room",
       "material_icon": "people_alt",
       "description": "This is Lecture Room"
     },
     {
-      "id": "break",
+      "id": "talk_types_break",
       "name": "Break",
       "material_icon": "free_breakfast",
       "description": "Time for a break!"
@@ -193,9 +193,9 @@
       "time": "6:00am - 10:00am",
       "talks": [
         {
-          "speaker_id": "library",
-          "track_id": "library",
-          "talk_type_id": "library",
+          "speaker_id": "speaker_library",
+          "track_id": "track_library",
+          "talk_type_id": "talk_type_library",
           "title": "Library",
           "description": "Library single seat pleasent silent study"
         }
@@ -205,16 +205,16 @@
       "time": "10:00am - 6:00pm",
       "talks": [
         {
-          "speaker_id": "desk_desk_1",
-          "track_id": "desk1",
-          "talk_type_id": "desk",
+          "speaker_id": "speaker_desk_1",
+          "track_id": "track_desk1",
+          "talk_type_id": "talk_type_desk",
           "title": "Single Desk.",
           "description": "Single desk for individuals. You get access to coffee, AC, "
         },
         {
-          "speaker_id": "desk_desk_2",
-          "track_id": "desk2",
-          "talk_type_id": "doubledesk",
+          "speaker_id": "speaker_desk_2",
+          "track_id": "track_desk2",
+          "talk_type_id": "talk_type_doubledesk",
           "title": "Double Desk",
           "description": "Double desk for two member team. You get access to coffee, AC, "
         }
@@ -224,7 +224,7 @@
       "time": "1:00pm",
       "talks": [
         {
-          "talk_type_id": "break",
+          "talk_type_id": "talk_type_break",
           "title": "Lunch! thank you",
           "description": "lunch in cafeteria.."
         }
@@ -234,16 +234,16 @@
       "time": "10:00am - 6:00pm",
       "talks": [
         {
-          "speaker_id": "cabin1",
-          "track_id": "cabin1",
-          "talk_type_id": "cabin1",
+          "speaker_id": "speaker_cabin_1",
+          "track_id": "track_cabin1",
+          "talk_type_id": "talk_type_cabin1",
           "title": "Single Desk.",
           "description": "Cabin for 3 individuals. You get access to coffee, AC, "
         },
         {
-          "speaker_id": "cabin2",
-          "track_id": "cabin2",
-          "talk_type_id": "cabin2",
+          "speaker_id": "speaker_cabin_2",
+          "track_id": "track_cabin2",
+          "talk_type_id": "talk_type_cabin2",
           "title": "Double Desk",
           "description": "Cabin for 4 member team. You get access to coffee, AC, "
         }
@@ -253,7 +253,7 @@
       "time": "4:00pm",
       "talks": [
         {
-          "talk_type_id": "break",
+          "talk_type_id": "talk_type_break",
           "title": "Coffee / Tea ! thank you",
           "description": "Coffee / Tea in cafeteria.."
         }
@@ -263,9 +263,9 @@
       "time": "Weekends",
       "talks": [
         {
-          "speaker_id": "lecture",
-          "track_id": "lecture1",
-          "talk_type_id": "lecture",
+          "speaker_id": "speaker_lecture_1",
+          "track_id": "track_lecture1",
+          "talk_type_id": "talk_type_lecture",
           "title": "Lecture room!",
           "description": "Lecture room! with straight seating to accomodate the gatherings of 10+ "
         }
@@ -275,7 +275,7 @@
       "time": "All Day",
       "talks": [
         {
-          "talk_type_id": "break",
+          "talk_type_id": "talk_type_break",
           "title": "Coffee / Tea ! thank you",
           "description": "Coffee / Tea special team / group gathering requirements in cafeteria.."
         }
@@ -285,9 +285,9 @@
       "time": "6:00pm - 10:00pm",
       "talks": [
         {
-          "speaker_id": "library",
-          "track_id": "library",
-          "talk_type_id": "library",
+          "speaker_id": "speaker_library",
+          "track_id": "track_library",
+          "talk_type_id": "talk_type_library",
           "title": "Library",
           "description": "Library single seat pleasant silent study"
         }
@@ -297,7 +297,7 @@
       "time": "10:30pm",
       "talks": [
         {
-          "talk_type_id": "break",
+          "talk_type_id": "talk_type_break",
           "title": "Good Night! thank you",
           "description": "Please Tomorrow.."
         }
