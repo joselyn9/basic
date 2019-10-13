@@ -42,7 +42,7 @@
   },
   "speakers": [
     {
-      "id": "sanchav",
+      "id": "library",
       "name": "Library",
       "bio": "Library facility from 6:00am to 10:00 am & 6.00pm till Midnight",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer1.JPG",
@@ -52,7 +52,7 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "mandeo",
+      "id": "desk_desk_1",
       "name": "Desk Type 1",
       "bio": "Rent a work desk for people who like to work individually - Time 10.00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer2.JPG",
@@ -62,7 +62,7 @@
       "linked_in": ""
     },
     {
-      "id": "atusuk",
+      "id": "desk_desk_2",
       "name": "Desk Type 2",
       "bio": "Rent a work desk for people who like to work individually but in a group of 2 or more - Time 10.00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer3.JPG",
@@ -72,9 +72,9 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "surbob",
+      "id": "cabin1",
       "name": "Personal Cabin 1",
-      "bio": "Presonal Cabins with 3 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
+      "bio": "Personal Cabins with 3 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer4.JPG",
       "company": "Rs 25000/month",
       "twitter": "https://twitter.com/gardenpaper",
@@ -82,9 +82,9 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "komran",
-      "name": "Personal Cabin 1",
-      "bio": "Presonal Cabins with 4 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
+      "id": "cabin2",
+      "name": "Personal Cabin 2",
+      "bio": "Personal Cabins with 4 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer5.JPG",
       "company": "Rs 29999/month",
       "twitter": "https://twitter.com/gardenpaper",
@@ -92,9 +92,9 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "sannai",
+      "id": "lecture1",
       "name": "Lecture Room",
-      "bio": "Multiple configurations with 10+ people seating capacity, Avalible on Weekends",
+      "bio": "Multiple configurations with 5+ people seating capacity, Avalible on Weekends",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
       "company": "Price on Request",
       "twitter": "https://twitter.com/gardenpaper",
@@ -102,71 +102,11 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
-      "id": "jagrau",
-      "name": "Jagdish Raut",
-      "bio": "Is a high pitch singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer7.JPG",
-      "company": "Musicals Prop",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "ramtho",
-      "name": "Ramakant Thorve",
-      "bio": "Is a singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer8.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "sudpat",
-      "name": "Sudhir Patkar",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer9.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "shasaw",
-      "name": "Shalaka Sawant",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer10.JPG",
-      "company": "Musicals All the way",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "leegau",
-      "name": "Leena Gaurade",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer11.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "vidpat",
-      "name": "Vidya Pathak",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer12.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "yastam",
-      "name": "Yashshree Tambre",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer13.JPG",
-      "company": "Musicals",
+      "id": "lecture2",
+      "name": "Lecture Room Big",
+      "bio": "Multiple configurations with 10+ people seating capacity, Avalible on Weekends",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer6.JPG",
+      "company": "Price on Request",
       "twitter": "https://twitter.com/gardenpaper",
       "linked_in": "",
       "facebook": "https://fb.com/gardenpaper"
@@ -174,55 +114,71 @@
   ],
   "tracks": [
     {
-      "id": "main",
+      "id": "library",
       "name": "Library",
       "color": "#F0C674"
     },
     {
-      "id": "track1",
-      "name": "Room1",
+      "id": "desk1",
+      "name": "Desk 1",
       "color": "#CC6666"
     },
     {
-      "id": "track2",
-      "name": "Cabin1",
+      "id": "cabin1",
+      "name": "Cabin 1",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "cabin2",
+      "name": "Cabin 1",
       "color": "#B5BD68"
     },
     {
       "id": "lecture1",
       "name": "Lecture",
       "color": "#B5BD68"
+    },
+    {
+      "id": "desk2",
+      "name": "DEsk 2",
+      "color": "#B5BD68"
     }
   ],
   "talk_types": [
     {
-      "id": "technical",
+      "id": "library",
       "name": "Library",
-      "material_icon": "grade",
+      "material_icon": "group_work",
       "description": "This is a Library"
     },
     {
-      "id": "room",
+      "id": "desk",
       "name": "Single Desk",
-      "material_icon": "all_inclusive",
+      "material_icon": "perm_identity",
       "description": "This is a single desk/chair"
     },
     {
-      "id": "doubledesk1",
+      "id": "doubledesk",
       "name": "Double Desk",
-      "material_icon": "tag_faces",
+      "material_icon": "business_center",
       "description": "This is a Double Desk"
     },
     {
       "id": "cabin1",
       "name": "Cabin 1",
-      "material_icon": "tag_faces",
+      "material_icon": "meeting_room",
       "description": "This is Cabin for 3 people"
+    },
+    {
+      "id": "cabin2",
+      "name": "Cabin 2",
+      "material_icon": "meeting_room",
+      "description": "This is Cabin for 4 people"
     },
     {
       "id": "lecture",
       "name": "Lecture Room",
-      "material_icon": "tag_faces",
+      "material_icon": "people_alt",
       "description": "This is Lecture Room"
     },
     {
@@ -234,163 +190,116 @@
   ],
   "schedule": [
     {
-      "time": "5:30pm",
+      "time": "6:00am - 10:00am",
       "talks": [
         {
-          "speaker_id": "sanchav",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Singer with many music directors .",
-          "description": "Pag Ghungroo Baandh"
+          "speaker_id": "library",
+          "track_id": "library",
+          "talk_type_id": "library",
+          "title": "Library",
+          "description": "Library single seat pleasent silent study"
         }
       ]
     },
     {
-      "time": "5:40pm",
+      "time": "10:00am - 6:00pm",
       "talks": [
         {
-          "speaker_id": "mandeo",
-          "track_id": "track1",
-          "talk_type_id": "room",
-          "title": "Songs are fun, with friends everywhere.",
-          "description": "Songs of country paradise, but everywhere."
+          "speaker_id": "desk_desk_1",
+          "track_id": "desk1",
+          "talk_type_id": "desk",
+          "title": "Single Desk.",
+          "description": "Single desk for individuals. You get access to coffee, AC, "
         },
         {
-          "speaker_id": "atusuk",
-          "track_id": "track2",
-          "talk_type_id": "room",
-          "title": "Sing Along.",
-          "description": "In Melody"
+          "speaker_id": "desk_desk_2",
+          "track_id": "desk2",
+          "talk_type_id": "doubledesk",
+          "title": "Double Desk",
+          "description": "Double desk for two member team. You get access to coffee, AC, "
         }
       ]
     },
     {
-      "time": "5:55pm",
-      "talks": [
-        {
-          "speaker_id": "surbob",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:10pm",
-      "talks": [
-        {
-          "speaker_id": "komran",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:20pm",
-      "talks": [
-        {
-          "speaker_id": "sannai",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:30pm",
-      "talks": [
-        {
-          "speaker_id": "jagrau",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:40pm",
-      "talks": [
-        {
-          "speaker_id": "ramtho",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:55pm",
-      "talks": [
-        {
-          "speaker_id": "sudpat",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:10pm",
-      "talks": [
-        {
-          "speaker_id": "shasaw",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:15pm",
-      "talks": [
-        {
-          "speaker_id": "leegau",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:25pm",
-      "talks": [
-        {
-          "speaker_id": "vidpat",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:30pm",
-      "talks": [
-        {
-          "speaker_id": "yastam",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:40am",
+      "time": "1:00pm",
       "talks": [
         {
           "talk_type_id": "break",
-          "title": "The End! thank you",
-          "description": "Please join next show.."
+          "title": "Lunch! thank you",
+          "description": "lunch in cafeteria.."
+        }
+      ]
+    },
+    {
+      "time": "10:00am - 6:00pm",
+      "talks": [
+        {
+          "speaker_id": "cabin1",
+          "track_id": "cabin1",
+          "talk_type_id": "cabin1",
+          "title": "Single Desk.",
+          "description": "Cabin for 3 individuals. You get access to coffee, AC, "
+        },
+        {
+          "speaker_id": "cabin2",
+          "track_id": "cabin2",
+          "talk_type_id": "cabin2",
+          "title": "Double Desk",
+          "description": "Cabin for 4 member team. You get access to coffee, AC, "
+        }
+      ]
+    },
+    {
+      "time": "4:00pm",
+      "talks": [
+        {
+          "talk_type_id": "break",
+          "title": "Coffee / Tea ! thank you",
+          "description": "Coffee / Tea in cafeteria.."
+        }
+      ]
+    },
+    {
+      "time": "Weekends",
+      "talks": [
+        {
+          "speaker_id": "lecture",
+          "track_id": "lecture1",
+          "talk_type_id": "lecture",
+          "title": "Lecture room!",
+          "description": "Lecture room! with straight seating to accomodate the gatherings of 10+ "
+        }
+      ]
+    },
+    {
+      "time": "All Day",
+      "talks": [
+        {
+          "talk_type_id": "break",
+          "title": "Coffee / Tea ! thank you",
+          "description": "Coffee / Tea special team / group gathering requirements in cafeteria.."
+        }
+      ]
+    },
+    {
+      "time": "6:00pm - 10:00pm",
+      "talks": [
+        {
+          "speaker_id": "library",
+          "track_id": "library",
+          "talk_type_id": "library",
+          "title": "Library",
+          "description": "Library single seat pleasant silent study"
+        }
+      ]
+    },
+    {
+      "time": "10:30pm",
+      "talks": [
+        {
+          "talk_type_id": "break",
+          "title": "Good Night! thank you",
+          "description": "Please Tomorrow.."
         }
       ]
     }
