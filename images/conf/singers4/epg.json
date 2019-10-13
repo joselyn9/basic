@@ -83,7 +83,7 @@
     },
     {
       "id": "komran",
-      "name": "Personal Cabin 1",
+      "name": "Personal Cabin 2",
       "bio": "Presonal Cabins with 4 chairs + desk and enclosed space. Time 10:00am to 6:00pm",
       "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer5.JPG",
       "company": "Rs 29999/month",
@@ -126,7 +126,7 @@
   ],
   "talk_types": [
     {
-      "id": "technical",
+      "id": "library",
       "name": "Library",
       "material_icon": "grade",
       "description": "This is a Library"
@@ -169,7 +169,7 @@
         {
           "speaker_id": "sanchav",
           "track_id": "main",
-          "talk_type_id": "technical",
+          "talk_type_id": "library",
           "title": "Singer with many music directors .",
           "description": "Pag Ghungroo Baandh"
         }
