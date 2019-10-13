@@ -170,8 +170,8 @@
           "speaker_id": "sanchav",
           "track_id": "main",
           "talk_type_id": "library",
-          "title": "Libarary time in this place early morning and late evening studying and quite time close to your neighbourhood .",
-          "description": "Pag Ghungroo Baandh"
+          "title": " Library time .",
+          "description": "Library time in this place early morning and late evening studying and quite time close to your neighbourhood"
         }
       ]
     },
@@ -192,14 +192,14 @@
           "speaker_id": "mandeo",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Single Desk are fun, with your personal space.",
+          "title": "Single Desk are fun",
           "description": "Single Desk with AC and power for laptop and mobile charging."
         },
         {
           "speaker_id": "atusuk",
           "track_id": "track2",
           "talk_type_id": "room",
-          "title": "Dual Desk are fun, with your coworking collegues.",
+          "title": "Dual Desk are fun.",
           "description": "Dual Desk with AC and power for laptop and mobile charging. Coworking with your friends"
         }
       ]
@@ -208,14 +208,14 @@
       "time": "10:00am to 06:00pm",
       "talks": [
         {
-          "speaker_id": "mandeo",
-          "track_id": "track1",
+          "speaker_id": "surbob",
+          "track_id": "track2",
           "talk_type_id": "cabin1",
           "title": "Cabin for 3 people",
           "description": "Cabin for 3 people with Desk with AC and power for laptop and mobile charging."
         },
         {
-          "speaker_id": "atusuk",
+          "speaker_id": "komran",
           "track_id": "track2",
           "talk_type_id": "cabin2",
           "title": "Cabin for 5 people",
