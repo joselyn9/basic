@@ -52,6 +52,16 @@
       "facebook": "https://fb.com/gardenpaper"
     },
     {
+      "id": "sanchav1",
+      "name": "Library",
+      "bio": "Library facility from 6:00am to 10:00 am & 6.00pm till Midnight",
+      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/1_library.jpg",
+      "company": "Rs 3499/month",
+      "twitter": "https://twitter.com/gardenpaper",
+      "linked_in": "https://example.com",
+      "facebook": "https://fb.com/gardenpaper"
+    },
+    {
       "id": "mandeo",
       "name": "Desk Type 1",
       "bio": "Rent a work desk for people who like to work individually - Time 10.00am to 6:00pm",
@@ -208,7 +218,7 @@
       "time": "6:00pm - 10pm",
       "talks": [
         {
-          "speaker_id": "sanchav",
+          "speaker_id": "sanchav1",
           "track_id": "main",
           "talk_type_id": "library",
           "title": "Library time .",
