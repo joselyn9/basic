@@ -128,7 +128,7 @@
     {
       "id": "library",
       "name": "Library",
-      "material_icon": "grade",
+      "material_icon": "local_library",
       "description": "This is a Library"
     },
     {
