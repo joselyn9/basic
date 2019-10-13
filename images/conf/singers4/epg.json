@@ -176,7 +176,17 @@
       ]
     },
     {
-      "time": "5:40pm",
+      "time": "10:00am",
+      "talks": [
+        {
+          "talk_type_id": "break",
+          "title": "Take a Break! thank you",
+          "description": "Please have a coffee or Tea.. in the cafeteria"
+        }
+      ]
+    },
+    {
+      "time": "10:00am to 06:00pm",
       "talks": [
         {
           "speaker_id": "mandeo",
@@ -195,7 +205,26 @@
       ]
     },
     {
-      "time": "6:20pm",
+      "time": "10:00am to 06:00pm",
+      "talks": [
+        {
+          "speaker_id": "mandeo",
+          "track_id": "track1",
+          "talk_type_id": "cabin1",
+          "title": "Cabin for 3 people",
+          "description": "Cabin for 3 people with Desk with AC and power for laptop and mobile charging."
+        },
+        {
+          "speaker_id": "atusuk",
+          "track_id": "track2",
+          "talk_type_id": "cabin2",
+          "title": "Cabin for 5 people",
+          "description": "Cabin for 5 people Desk with AC and power for laptop and mobile charging. Coworking with your friends. Short meetings for those who work or travel in the viscinity"
+        }
+      ]
+    },
+    {
+      "time": "Weekends",
       "talks": [
         {
           "talk_type_id": "lecture",
@@ -207,12 +236,12 @@
       ]
     },
     {
-      "time": "7:40am",
+      "time": "10:00pm",
       "talks": [
         {
           "talk_type_id": "break",
           "title": "Take a Break! thank you",
-          "description": "Please have a coffee or Tea.."
+          "description": "Please come tomorrow.."
         }
       ]
     }
