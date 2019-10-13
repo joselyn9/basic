@@ -134,13 +134,13 @@
     {
       "id": "room",
       "name": "Single Desk",
-      "material_icon": "all_inclusive",
+      "material_icon": "filter_1",
       "description": "This is a single desk/chair"
     },
     {
       "id": "doubledesk1",
       "name": "Double Desk",
-      "material_icon": "tag_faces",
+      "material_icon": "fliter_2",
       "description": "This is a Double Desk"
     },
     {
@@ -152,7 +152,7 @@
     {
       "id": "lecture",
       "name": "Lecture Room",
-      "material_icon": "tag_faces",
+      "material_icon": "filter_5",
       "description": "This is Lecture Room"
     },
     {
@@ -170,7 +170,7 @@
           "speaker_id": "sanchav",
           "track_id": "main",
           "talk_type_id": "library",
-          "title": "Singer with many music directors .",
+          "title": "Libarary time in this place early morning and late evening studying and quite time close to your neighbourhood .",
           "description": "Pag Ghungroo Baandh"
         }
       ]
@@ -182,15 +182,15 @@
           "speaker_id": "mandeo",
           "track_id": "track1",
           "talk_type_id": "room",
-          "title": "Songs are fun, with friends everywhere.",
-          "description": "Songs of country paradise, but everywhere."
+          "title": "Single Desk are fun, with your personal space.",
+          "description": "Single Desk with AC and power for laptop and mobile charging."
         },
         {
           "speaker_id": "atusuk",
           "track_id": "track2",
           "talk_type_id": "room",
-          "title": "Sing Along.",
-          "description": "In Melody"
+          "title": "Dual Desk are fun, with your coworking collegues.",
+          "description": "Dual Desk with AC and power for laptop and mobile charging. Coworking with your friends"
         }
       ]
     },
@@ -199,8 +199,8 @@
       "talks": [
         {
           "talk_type_id": "lecture",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you.",
+          "title": "Lecture series Area!",
+          "description": "Lecture series for group of 10+",
           "speaker_id": "sannai",
           "track_id": "main"
         }
@@ -211,8 +211,8 @@
       "talks": [
         {
           "talk_type_id": "break",
-          "title": "The End! thank you",
-          "description": "Please join next show.."
+          "title": "Take a Break! thank you",
+          "description": "Please have a coffee or Tea.."
         }
       ]
     }
