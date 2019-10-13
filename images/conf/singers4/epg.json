@@ -205,25 +205,6 @@
       ]
     },
     {
-      "time": "10:00am to 06:00pm",
-      "talks": [
-        {
-          "speaker_id": "surbob",
-          "track_id": "track1",
-          "talk_type_id": "cabin1",
-          "title": "Cabin for 3 people",
-          "description": "Cabin for 3 people with Desk with AC and power for laptop and mobile charging."
-        },
-        {
-          "speaker_id": "komran",
-          "track_id": "track2",
-          "talk_type_id": "cabin2",
-          "title": "Cabin for 5 people",
-          "description": "Cabin for 5 people Desk with AC and power for laptop and mobile charging. Coworking with your friends. Short meetings for those who work or travel in the viscinity"
-        }
-      ]
-    },
-    {
       "time": "Weekends",
       "talks": [
         {
