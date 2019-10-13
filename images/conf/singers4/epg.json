@@ -100,76 +100,6 @@
       "twitter": "https://twitter.com/gardenpaper",
       "linked_in": "",
       "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "jagrau",
-      "name": "Jagdish Raut",
-      "bio": "Is a high pitch singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer7.JPG",
-      "company": "Musicals Prop",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "ramtho",
-      "name": "Ramakant Thorve",
-      "bio": "Is a singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer8.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "sudpat",
-      "name": "Sudhir Patkar",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer9.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "shasaw",
-      "name": "Shalaka Sawant",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer10.JPG",
-      "company": "Musicals All the way",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "leegau",
-      "name": "Leena Gaurade",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer11.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "vidpat",
-      "name": "Vidya Pathak",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer12.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
-    },
-    {
-      "id": "yastam",
-      "name": "Yashshree Tambre",
-      "bio": "Is a friendly singer he has developed a style of his own.",
-      "image_path": "https://raw.githubusercontent.com/joselyn9/basic/master/images/conf/singers4/singer13.JPG",
-      "company": "Musicals",
-      "twitter": "https://twitter.com/gardenpaper",
-      "linked_in": "",
-      "facebook": "https://fb.com/gardenpaper"
     }
   ],
   "tracks": [
@@ -265,122 +195,14 @@
       ]
     },
     {
-      "time": "5:55pm",
-      "talks": [
-        {
-          "speaker_id": "surbob",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:10pm",
-      "talks": [
-        {
-          "speaker_id": "komran",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
       "time": "6:20pm",
       "talks": [
         {
+          "talk_type_id": "technical",
+          "title": "Classics Song!",
+          "description": "If you travel or do Singing you.",
           "speaker_id": "sannai",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:30pm",
-      "talks": [
-        {
-          "speaker_id": "jagrau",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:40pm",
-      "talks": [
-        {
-          "speaker_id": "ramtho",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "6:55pm",
-      "talks": [
-        {
-          "speaker_id": "sudpat",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:10pm",
-      "talks": [
-        {
-          "speaker_id": "shasaw",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:15pm",
-      "talks": [
-        {
-          "speaker_id": "leegau",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:25pm",
-      "talks": [
-        {
-          "speaker_id": "vidpat",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
-        }
-      ]
-    },
-    {
-      "time": "7:30pm",
-      "talks": [
-        {
-          "speaker_id": "yastam",
-          "track_id": "main",
-          "talk_type_id": "technical",
-          "title": "Classics Song!",
-          "description": "If you travel or do Singing you."
+          "track_id": "main"
         }
       ]
     },
