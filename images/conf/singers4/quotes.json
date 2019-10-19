@@ -1,0 +1,26 @@
+{
+  "total_results": "5",
+  "query": "",
+  "slips": [
+    {
+      "advice": "A common regret in life is wishing one had the courage to be ones true self.",
+      "slip_id": "118"
+    },
+    {
+      "advice": "A common regret in life is wishing one hadn't worked so hard.",
+      "slip_id": "117"
+    },
+    {
+      "advice": "A long walk alone with some time to think, can work wonders.",
+      "slip_id": "49"
+    },
+    {
+      "advice": "A nod is as good as a wink to a blind horse.",
+      "slip_id": "120"
+    },
+    {
+      "advice": "Your smile could make someone's day, don't forget to wear it.",
+      "slip_id": "23"
+    }
+  ]
+}
