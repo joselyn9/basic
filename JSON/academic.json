@@ -1,5 +1,4 @@
-[
-  {
+ {
     "photoUrl": "default",
     "email": "teste@test.com",
     "division": "E",
@@ -15,5 +14,4 @@
     "mobileNo": "1",
     "isTeacher": false,
     "isVerified": false
-  }
-]
+ }
