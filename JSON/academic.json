@@ -6,7 +6,7 @@
     "id": "1",
     "enrollNo": "1",
     "firebaseUuid": "",
-    "connection": "",
+    "connection": [],
     "displayName": "a",
     "standard": "5",
     "dob": "10-Jan-2020",
