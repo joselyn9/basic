@@ -1,0 +1,19 @@
+[
+  {
+    "photoUrl": "default",
+    "email": "teste@test.com",
+    "division": "E",
+    "id": "1",
+    "enrollNo": "1",
+    "firebaseUuid": "",
+    "connection": "",
+    "displayName": "a",
+    "standard": "5",
+    "dob": "10-Jan-2020",
+    "guardianName": "a",
+    "bloodGroup": "a",
+    "mobileNo": "1",
+    "isTeacher": false,
+    "isVerified": false
+  }
+]
