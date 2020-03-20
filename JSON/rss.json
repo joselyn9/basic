@@ -1,0 +1,153 @@
+{
+  "status": "ok",
+  "feed": {
+    "url": "https://www.freecodecamp.org/news/rss/",
+    "title": "freeCodeCamp.org",
+    "link": "https://www.freecodecamp.org/news",
+    "author": "",
+    "description": "Learn to code. Build projects. Earn certifications. Since 2015, 40,000 graduates have gotten jobs at tech companies including Google, Apple, Amazon, and Microsoft.",
+    "image": "https://www.freecodecamp.org/news/favicon.png"
+  },
+  "items": [
+    {
+      "title": "How I Used Regression Analysis to Analyze Life Expectancy with Scikit-Learn and Statsmodels",
+      "pubDate": "2020-03-19 17:25:29",
+      "link": "https://www.freecodecamp.org/news/regression-analysis-on-life-expectancy/",
+      "guid": "5e6b7ca6056c80019add13c3",
+      "author": "",
+      "thumbnail": "",
+      "description": "Regression analysis (using Python) to predict life expectancy of people in a country using characteristics like GDP, birth rate and environmental performance index.",
+      "content": "Regression analysis (using Python) to predict life expectancy of people in a country using characteristics like GDP, birth rate and environmental performance index.",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/us-life-expectancy-drop.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "How to set up and track YouTube Channel performance with Google Analytics",
+      "pubDate": "2020-03-18 13:27:39",
+      "link": "https://www.freecodecamp.org/news/how-to-set-up-and-track-youtube-channel-performance-with-google-analytics/",
+      "guid": "5e6e5a5f5893c927aff423d1",
+      "author": "",
+      "thumbnail": "",
+      "description": "Managing a YouTube channel is a lot of work. It includes content experimentation which can make or break your SEO effectiveness for your channel. How can we track our channel’s performance to see what works?",
+      "content": "Managing a YouTube channel is a lot of work. It includes content experimentation which can make or break your SEO effectiveness for your channel. How can we track our channel’s performance to see what works?",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/youtube-analytics-1.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Learn React Basics in 10 Minutes",
+      "pubDate": "2020-03-18 01:26:43",
+      "link": "https://www.freecodecamp.org/news/learn-react-basics-in-10-minutes/",
+      "guid": "5e7170065893c927aff43818",
+      "author": "",
+      "thumbnail": "",
+      "description": "This article aims to provide a beginner-friendly introduction to React, what it is and why we need it. The overall goal is to gain an intuitive understanding of what React is all about so that you get comfortable with the basics.",
+      "content": "This article aims to provide a beginner-friendly introduction to React, what it is and why we need it. The overall goal is to gain an intuitive understanding of what React is all about so that you get comfortable with the basics.",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/intro-to-react.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "How to Get Started With Serverless Architecture",
+      "pubDate": "2020-03-18 01:09:25",
+      "link": "https://www.freecodecamp.org/news/how-to-get-started-with-serverless-architecture/",
+      "guid": "5e6dfaa1056c80019add1d1d",
+      "author": "",
+      "thumbnail": "",
+      "description": "Traditionally, when you wanted to build a web app or API, you’d usually have to spend significant time and effort managing servers and ensuring your app scales up to handle large request volumes. Serverless is a cloud computing model which lets you run applications without having to worry about",
+      "content": "Traditionally, when you wanted to build a web app or API, you’d usually have to spend significant time and effort managing servers and ensuring your app scales up to handle large request volumes. Serverless is a cloud computing model which lets you run applications without having to worry about",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/serverless-cover-1.png"
+      },
+      "categories": []
+    },
+    {
+      "title": "How to Outsource Your Online Security with 1Password, Authy, and Privacy.com",
+      "pubDate": "2020-03-17 22:08:13",
+      "link": "https://www.freecodecamp.org/news/outsourcing-security-with-1password-authy-and-privacy-com/",
+      "guid": "5e7149b55893c927aff43803",
+      "author": "",
+      "thumbnail": "",
+      "description": "Take some work off your plate while beefing up security with three changes you can make today. Unstable times are insecure times, and we’ve already got enough going on to deal with. When humans are busy and under stress, we tend to get lax in less-obviously-pressing areas, like the",
+      "content": "Take some work off your plate while beefing up security with three changes you can make today. Unstable times are insecure times, and we’ve already got enough going on to deal with. When humans are busy and under stress, we tend to get lax in less-obviously-pressing areas, like the",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/cover-4.png"
+      },
+      "categories": []
+    },
+    {
+      "title": "Three Things to Consider Before Deploying Your First Full Stack App",
+      "pubDate": "2020-03-17 21:12:22",
+      "link": "https://www.freecodecamp.org/news/3-things-to-consider-before-deploying-your-first-full-stack-app/",
+      "guid": "5e6fdc635893c927aff42a51",
+      "author": "",
+      "thumbnail": "",
+      "description": "Building a full stack app is no small endeavor, and deploying it comes with its own host of things to consider. I'm a tabletop game developer, and recently deployed a simple roleplaying game tracker that uses the M-E-V-N stack (you can follow my tutorial to create your own app here)",
+      "content": "Building a full stack app is no small endeavor, and deploying it comes with its own host of things to consider. I'm a tabletop game developer, and recently deployed a simple roleplaying game tracker that uses the M-E-V-N stack (you can follow my tutorial to create your own app here)",
+      "enclosure": {
+        "link": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&amp;q=80&amp;fm=jpg&amp;crop=entropy&amp;cs=tinysrgb&amp;w=2000&amp;fit=max&amp;ixid=eyJhcHBfaWQiOjExNzczfQ"
+      },
+      "categories": []
+    },
+    {
+      "title": "Learn to Code From Home: The Coronavirus Quarantine Developer Skill Handbook",
+      "pubDate": "2020-03-17 19:40:51",
+      "link": "https://www.freecodecamp.org/news/coronavirus-academy/",
+      "guid": "5e70f8de5893c927aff4304b",
+      "author": "",
+      "thumbnail": "",
+      "description": "You're stuck at home. You can't hang out with your friends or go to events. The economy is in free fall. But that doesn't mean that you are powerless. Fate has handed you this giant chunk of time. It could be weeks. It could be months. Nobody knows. The question",
+      "content": "You're stuck at home. You can't hang out with your friends or go to events. The economy is in free fall. But that doesn't mean that you are powerless. Fate has handed you this giant chunk of time. It could be weeks. It could be months. Nobody knows. The question",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/FwUlnGszXSVDNjJ-800x450-noPad-1.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "JavaScript Callback Functions - What are Callbacks in JS and How to Use Them",
+      "pubDate": "2020-03-17 16:18:05",
+      "link": "https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/",
+      "guid": "5e70c1635893c927aff42dc0",
+      "author": "",
+      "thumbnail": "",
+      "description": "If you’re familiar with programming, you already know what functions do and how to use them. But what is a callback function? Callback functions are an important part of JavaScript and once you understand how callbacks work, you’ll become much better in JavaScript. So in this post, I",
+      "content": "If you’re familiar with programming, you already know what functions do and how to use them. But what is a callback function? Callback functions are an important part of JavaScript and once you understand how callbacks work, you’ll become much better in JavaScript. So in this post, I",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/caspar-camille-rubin-7SDoly3FV_0-unsplash.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "I Finished the Entire freeCodeCamp Curriculum in 1 Month (and Recorded Everything)",
+      "pubDate": "2020-03-17 05:00:00",
+      "link": "https://www.freecodecamp.org/news/i-completed-the-entire-freecodecamp-curriculum-in-a-month-while-recording-everything/",
+      "guid": "5e6e87f75893c927aff42597",
+      "author": "",
+      "thumbnail": "",
+      "description": "One month ago I embarked on a challenge that many people told me was insane. I set out to conquer the entire freeCodeCamp curriculum. All while live streaming everything on my YouTube channel. 29 days, 56 Live Streams and 72 hours of live streams later... 🤩🤩🤩 We did it! 🤩🤩🤩  After: -",
+      "content": "One month ago I embarked on a challenge that many people told me was insane. I set out to conquer the entire freeCodeCamp curriculum. All while live streaming everything on my YouTube channel. 29 days, 56 Live Streams and 72 hours of live streams later... 🤩🤩🤩 We did it! 🤩🤩🤩  After: -",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/max-duzij-qAjJk-un3BI-unsplash.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Why you need a UX researcher on your product team",
+      "pubDate": "2020-03-16 00:23:51",
+      "link": "https://www.freecodecamp.org/news/why-you-need-a-ux-researcher-on-your-product-team/",
+      "guid": "5e63aa73056c80019adce73b",
+      "author": "",
+      "thumbnail": "",
+      "description": "The field of UX design has been one of the moving forces in the digital world for some time now. It's based on providing good experiences that, in turn, keep users loyal to a given brand or product. Picture it this way: Without UX research, start-ups and founders are simply",
+      "content": "The field of UX design has been one of the moving forces in the digital world for some time now. It's based on providing good experiences that, in turn, keep users loyal to a given brand or product. Picture it this way: Without UX research, start-ups and founders are simply",
+      "enclosure": {
+        "link": "https://www.freecodecamp.org/news/content/images/2020/03/3-1-lean-ux-step-1-think.jpg"
+      },
+      "categories": []
+    }
+  ]
+}
