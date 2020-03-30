@@ -1,0 +1,158 @@
+{
+  "StateWise": [
+    {
+      "Deaths": "2",
+      "Discharged": "0",
+      "ForeignNational": "1",
+      "IndianNational": "19",
+      "State": "Andhra Pradesh"
+    },
+    {
+      "Deaths": "9",
+      "Discharged": "3",
+      "ForeignNational": "0",
+      "IndianNational": "0",
+      "State": "Bihar"
+    },
+    {
+      "Deaths": "8",
+      "Discharged": "0",
+      "ForeignNational": "4",
+      "IndianNational": "1",
+      "State": "Chandigarh"
+    },
+    {
+      "Deaths": "0",
+      "Discharged": "7",
+      "ForeignNational": "0",
+      "IndianNational": "5",
+      "State": "Chhattisgarh"
+    },
+    {
+      "Deaths": "2",
+      "Discharged": "6",
+      "ForeignNational": "53",
+      "IndianNational": "6",
+      "State": "Delhi"
+    },
+    {
+      "Deaths": "8",
+      "Discharged": "0",
+      "ForeignNational": "0",
+      "IndianNational": "5",
+      "State": "Goa"
+    },
+    {
+      "Deaths": "1",
+      "Discharged": "9",
+      "ForeignNational": "5",
+      "IndianNational": "1",
+      "State": "Haryana"
+    },
+    {
+      "Deaths": "3",
+      "Discharged": "17",
+      "ForeignNational": "10",
+      "IndianNational": "0",
+      "State": "Himachal Pradesh"
+    },
+    {
+      "Deaths": "1",
+      "Discharged": "31",
+      "ForeignNational": "1",
+      "IndianNational": "11",
+      "State": "Jammu and Kashmir"
+    },
+    {
+      "Deaths": "3",
+      "Discharged": "5",
+      "ForeignNational": "80",
+      "IndianNational": "12",
+      "State": "Karnataka"
+    },
+    {
+      "Deaths": "14",
+      "Discharged": "1",
+      "ForeignNational": "19",
+      "IndianNational": "194",
+      "State": "Kerala"
+    },
+    {
+      "Deaths": "13",
+      "Discharged": "15",
+      "ForeignNational": "0",
+      "IndianNational": "3",
+      "State": "Madhya Pradesh"
+    },
+    {
+      "Deaths": "193",
+      "Discharged": "19",
+      "ForeignNational": "16",
+      "IndianNational": "2",
+      "State": "Maharashtra"
+    },
+    {
+      "Deaths": "0",
+      "Discharged": "1",
+      "ForeignNational": "8",
+      "IndianNational": "17",
+      "State": "Manipur"
+    },
+    {
+      "Deaths": "0",
+      "Discharged": "0",
+      "ForeignNational": "1",
+      "IndianNational": "18",
+      "State": "Mizoram"
+    },
+    {
+      "Deaths": "20",
+      "Discharged": "0",
+      "ForeignNational": "0",
+      "IndianNational": "3",
+      "State": "Odisha"
+    },
+    {
+      "Deaths": "1",
+      "Discharged": "21",
+      "ForeignNational": "0",
+      "IndianNational": "0",
+      "State": "Punjab"
+    },
+    {
+      "Deaths": "57",
+      "Discharged": "42",
+      "ForeignNational": "22",
+      "IndianNational": "1",
+      "State": "Rajasthan"
+    },
+    {
+      "Deaths": "4",
+      "Discharged": "50",
+      "ForeignNational": "23",
+      "IndianNational": "23",
+      "State": "Tamil Nadu"
+    },
+    {
+      "Deaths": "1",
+      "Discharged": "1",
+      "ForeignNational": "69",
+      "IndianNational": "24",
+      "State": "Telengana"
+    },
+    {
+      "Deaths": "26",
+      "Discharged": "0",
+      "ForeignNational": "2",
+      "IndianNational": "7",
+      "State": "Uttarakhand"
+    },
+    {
+      "Deaths": "7",
+      "Discharged": "27",
+      "ForeignNational": "0",
+      "IndianNational": "11",
+      "State": "West Bengal"
+    }
+  ]
+}
