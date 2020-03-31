@@ -1,0 +1,55 @@
+[
+  {
+    "product": "Apple",
+    "description": "Fruit",
+    "employmentType": "",
+    "id": 1,
+    "price": "100",
+    "pricetype": "Per Unit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  {
+    "product": "Alu",
+    "description": "Veg",
+    "employmentType": "",
+    "id": 2,
+    "price": "200",
+    "pricetype": "Per Kg",
+    "quantities": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  {
+    "product": "Grapes",
+    "description": "Fruit",
+    "employmentType": "",
+    "id": 3,
+    "price": "300",
+    "pricetype": "Per Kg",
+    "quantities": [
+      "1",
+      "2"
+    ]
+  },
+  {
+    "product": "Onion",
+    "description": "Veg",
+    "employmentType": "",
+    "id": 4,
+    "price": "400",
+    "pricetype": "Per Kg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  }
+]
