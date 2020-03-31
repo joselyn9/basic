@@ -1,0 +1,296 @@
+{
+  "data": [
+    {
+      "type": "recipes",
+      "id": "9ef3b10e-9cf5-42a8-84bc-7850304a100",
+      "attributes": {
+        "internalId": 100,
+        "price": 100,
+        "isPublished": true,
+        "title": "Apples",
+        "quantitytype": "Per Dozen",
+        "createdAt": "2019-12-31T12:57:13+0100",
+        "updatedAt": "2019-12-31T12:57:13+0100",
+        "isPromoted": true,
+        "path": {
+          "alias": null,
+          "pid": null,
+          "langcode": "en"
+        },
+        "difficulty": null,
+        "ingredients": [
+          "10 Cloves of garlic",
+          " unpeeled",
+          "15 g butter",
+          "30 ml olive oil",
+          "A pinch of little white pepper",
+          "1 Alu",
+          "same procedure as butterflying",
+          "1 apple",
+          " peeled",
+          " cored and sliced",
+          "1 bay leaf",
+          "100 ml dry cider",
+          "100 ml single cream",
+          "4 spring onions",
+          " sliced on the diagonal"
+        ],
+        "quantity": [
+          "1",
+          "2"
+        ],
+        "numberOfServices": null,
+        "preparationTime": 10,
+        "instructions": "Fill a small pan with enough boiling water to properly cover the garlic.",
+        "totalTime": 50
+      },
+      "relationships": {
+        "contentType": {
+          "data": {
+            "type": "contentTypes",
+            "id": "ff85086b-db11-4ba6-8eaf-5197d6ad026c"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/contentType",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/contentType"
+          }
+        },
+        "owner": {
+          "data": {
+            "type": "users",
+            "id": "e12c370f-a118-420b-b096-f5d7a08b5640"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/owner",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/owner"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "fa40ad89-e749-44ed-8a96-e0bac344dc76"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/category",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/category"
+          }
+        },
+        "image": {
+          "data": {
+            "type": "images",
+            "id": "60539553-8e4e-4ecb-9762-710f03162b55"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/image",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/image"
+          }
+        },
+        "tags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855"
+      }
+    },
+    {
+      "type": "recipes",
+      "id": "9ef3b10e-9cf5-42a8-84bc-7850304a200",
+      "attributes": {
+        "internalId": 200,
+        "price": 200,
+        "isPublished": true,
+        "title": "Bananas",
+        "quantitytype": "Single Unit",
+        "createdAt": "2019-12-31T12:57:13+0100",
+        "updatedAt": "2019-12-31T12:57:13+0100",
+        "isPromoted": true,
+        "path": {
+          "alias": null,
+          "pid": null,
+          "langcode": "en"
+        },
+        "difficulty": null,
+        "ingredients": [
+          "10 Cloves of garlic",
+          " unpeeled",
+          "15 g butter",
+          "30 ml olive oil",
+          "A pinch of little white pepper",
+          "1 Alu",
+          "same procedure as butterflying",
+          "1 apple",
+          " peeled",
+          " cored and sliced",
+          "1 bay leaf",
+          "100 ml dry cider",
+          "100 ml single cream",
+          "4 spring onions",
+          " sliced on the diagonal"
+        ],
+        "quantity": [
+          "1",
+          "2",
+          "3"
+        ],
+        "numberOfServices": null,
+        "preparationTime": 10,
+        "instructions": "Fill a small pan with enough boiling water to properly cover the garlic.",
+        "totalTime": 50
+      },
+      "relationships": {
+        "contentType": {
+          "data": {
+            "type": "contentTypes",
+            "id": "ff85086b-db11-4ba6-8eaf-5197d6ad026c"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/contentType",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/contentType"
+          }
+        },
+        "owner": {
+          "data": {
+            "type": "users",
+            "id": "e12c370f-a118-420b-b096-f5d7a08b5640"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/owner",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/owner"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "fa40ad89-e749-44ed-8a96-e0bac344dc76"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/category",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/category"
+          }
+        },
+        "image": {
+          "data": {
+            "type": "images",
+            "id": "60539553-8e4e-4ecb-9762-710f03162b55"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/image",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/image"
+          }
+        },
+        "tags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855"
+      }
+    },
+    {
+      "type": "recipes",
+      "id": "9ef3b10e-9cf5-42a8-84bc-7850304a300",
+      "attributes": {
+        "internalId": 300,
+        "price": 300,
+        "isPublished": true,
+        "title": "Alu",
+        "quantitytype": "Per Kg",
+        "createdAt": "2019-12-31T12:57:13+0100",
+        "updatedAt": "2019-12-31T12:57:13+0100",
+        "isPromoted": true,
+        "path": {
+          "alias": null,
+          "pid": null,
+          "langcode": "en"
+        },
+        "difficulty": null,
+        "ingredients": [
+          "10 Cloves of garlic",
+          " unpeeled",
+          "15 g butter",
+          "30 ml olive oil",
+          "A pinch of little white pepper",
+          "1 Alu",
+          "same procedure as butterflying",
+          "1 apple",
+          " peeled",
+          " cored and sliced",
+          "1 bay leaf",
+          "100 ml dry cider",
+          "100 ml single cream",
+          "4 spring onions",
+          " sliced on the diagonal"
+        ],
+        "quantity": [
+          "1",
+          "2",
+          "3"
+        ],
+        "numberOfServices": null,
+        "preparationTime": 10,
+        "instructions": "Fill a small pan with enough boiling water to properly cover the garlic.",
+        "totalTime": 50
+      },
+      "relationships": {
+        "contentType": {
+          "data": {
+            "type": "contentTypes",
+            "id": "ff85086b-db11-4ba6-8eaf-5197d6ad026c"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/contentType",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/contentType"
+          }
+        },
+        "owner": {
+          "data": {
+            "type": "users",
+            "id": "e12c370f-a118-420b-b096-f5d7a08b5640"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/owner",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/owner"
+          }
+        },
+        "category": {
+          "data": {
+            "type": "categories",
+            "id": "fa40ad89-e749-44ed-8a96-e0bac344dc76"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/category",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/category"
+          }
+        },
+        "image": {
+          "data": {
+            "type": "images",
+            "id": "60539553-8e4e-4ecb-9762-710f03162b55"
+          },
+          "links": {
+            "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/relationships/image",
+            "related": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855/image"
+          }
+        },
+        "tags": {
+          "data": []
+        }
+      },
+      "links": {
+        "self": "https://dev-contentacms.pantheonsite.io/api/recipes/9ef3b10e-9cf5-42a8-84bc-7850304a2855"
+      }
+    }
+  ],
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": "http://jsonapi.org/format/1.0/"
+      }
+    }
+  },
+  "links": {
+    "self": "https://dev-contentacms.pantheonsite.io/api/recipes"
+  }
+}
