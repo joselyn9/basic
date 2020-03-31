@@ -15,13 +15,32 @@
     "quantity": {
       "t1": "2",
       "t2": "2"
-    }
+    },
+    "qtty": [
+      {
+        "values": "1"
+      },
+      {
+        "values": "2"
+      }
+    ]
   },
   {
     "product": "Alu",
     "description": "Veg",
     "employmentType": "",
     "id": 2,
+    "qtty": [
+      {
+        "values": "1"
+      },
+      {
+        "values": "2"
+      },
+      {
+        "values": "3"
+      }
+    ],
     "price": "200",
     "pricetype": "Per Kg",
     "quantity": {
@@ -37,6 +56,17 @@
   {
     "product": "Grapes",
     "description": "Fruit",
+    "qtty": [
+      {
+        "values": "1"
+      },
+      {
+        "values": "2"
+      },
+      {
+        "values": "3"
+      }
+    ],
     "quantity": {
       "t1": "2",
       "t2": "2",
@@ -54,6 +84,17 @@
   {
     "product": "Onion",
     "description": "Veg",
+    "qtty": [
+      {
+        "values": "1"
+      },
+      {
+        "values": "2"
+      },
+      {
+        "values": "3"
+      }
+    ],
     "employmentType": "",
     "id": 4,
     "price": "400",
