@@ -4,7 +4,7 @@
     "name": "Apple",
     "description": "Fruit",
     "id": 1,
-    "price": "100",
+    "price": 100,
     "isFeatured": false,
     "category": {
       "type": [
@@ -41,7 +41,7 @@
     "name": "Bannana",
     "description": "Fruit",
     "id": 2,
-    "price": "200",
+    "price": 200,
     "isFeatured": false,
     "category": {
       "type": [
@@ -78,7 +78,7 @@
     "name": "Onion",
     "description": "Fruit",
     "id": 3,
-    "price": "300",
+    "price": 300,
     "isFeatured": false,
     "category": {
       "type": [
@@ -115,7 +115,7 @@
     "name": "Alu",
     "description": "Fruit",
     "id": 4,
-    "price": "400",
+    "price": 400,
     "isFeatured": false,
     "category": {
       "enum": [
