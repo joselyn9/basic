@@ -65,6 +65,9 @@
       },
       {
         "values": "3"
+      },
+      {
+        "values": "4"
       }
     ],
     "quantity": {
@@ -93,6 +96,12 @@
       },
       {
         "values": "3"
+      },
+      {
+        "values": "4"
+      },
+      {
+        "values": "5"
       }
     ],
     "employmentType": "",
