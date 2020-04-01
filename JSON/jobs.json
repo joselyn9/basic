@@ -6,7 +6,7 @@
     "id": 1,
     "location": "Singapore",
     "position": "Software Engineer",
-    "skillsRequired": ["ReactJS1", "Javascript1", "Webpack1", "HTML1"]
+    "skillsRequired": ["ReactJS1", "Javascript1", "Webpack1"]
   },
   {
     "company": "Google",
@@ -15,7 +15,7 @@
     "id": 2,
     "location": "Hong Kong",
     "position": "Software Engineering Manager",
-    "skillsRequired": ["ReactJS2", "Javascript2", "Webpack2", "HTML2"]
+    "skillsRequired": ["ReactJS2", "Javascript2", "Webpack2", "HTML2", "HTML22"]
   },
   {
     "company": "Microsoft",
@@ -24,7 +24,7 @@
     "id": 3,
     "location": "Singapore",
     "position": "System Engineer",
-    "skillsRequired": ["ReactJS3", "Javascript3", "Webpack3", "HTML3"]
+    "skillsRequired": ["ReactJS3", "Javascript3", "HTML3"]
   },
   {
     "company": "DBS",
@@ -33,7 +33,7 @@
     "id": 4,
     "location": "Singapore",
     "position": "Data Scientist",
-    "skillsRequired": ["ReactJS34", "Javascript34", "Webpack34", "HTML4"]
+    "skillsRequired": ["ReactJS34", "Webpack34", "HTML4"]
   },
   {
     "company": "Smart",
