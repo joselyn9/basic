@@ -1,0 +1,150 @@
+[
+  {
+    "product": "Apple",
+    "name": "Apple",
+    "description": "Fruit",
+    "id": 1,
+    "price": "100",
+    "isFeatured": false,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "all"
+      ]
+    },
+    "pricetype": "Per Unit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "product": "Bannana",
+    "name": "Bannana",
+    "description": "Fruit",
+    "id": 2,
+    "price": "200",
+    "isFeatured": false,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "clothing"
+      ]
+    },
+    "pricetype": "Per Unit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "product": "Onion",
+    "name": "Onion",
+    "description": "Fruit",
+    "id": 3,
+    "price": "300",
+    "isFeatured": false,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "accessories"
+      ]
+    },
+    "pricetype": "Per Unit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ]
+  },
+  {
+    "product": "Alu",
+    "name": "Alu",
+    "description": "Fruit",
+    "id": 4,
+    "price": "400",
+    "isFeatured": false,
+    "category": {
+      "enum": [
+        "home"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "Per Unit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ]
+  }
+]
