@@ -4,8 +4,8 @@
     "name": "Apple",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apple.jpg",
     "description": "Fruit",
-    "qttymax": "3",
-    "qttysteps": "1",
+    "qttymax": 3,
+    "qttysteps": 1,
     "id": 0,
     "price": 100,
     "isFeatured": false,
@@ -43,8 +43,8 @@
     "product": "Banana",
     "name": "Banana",
     "description": "Fruit",
-    "qttysteps": "1",
-    "qttymax": "3",
+    "qttysteps": 1,
+    "qttymax": 3,
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/banana.jpg",
     "id": 1,
     "price": 200,
@@ -57,7 +57,7 @@
         "clothing"
       ]
     },
-    "pricetype": "Per Unit",
+    "pricetype": "Per Dozen",
     "quantities": [
       "1",
       "2",
@@ -80,14 +80,14 @@
     ]
   },
   {
-    "product": "Onion",
-    "qttymax": "3",
-    "name": "Onion",
-    "qttysteps": "1",
-    "description": "Fruit",
-    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/onion.jpg",
     "id": 2,
     "price": 300,
+    "product": "Onion",
+    "qttymax": 3,
+    "name": "Onion",
+    "qttysteps": 1,
+    "description": "Onion",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/onion.jpg",
     "isFeatured": false,
     "category": {
       "type": [
@@ -97,7 +97,7 @@
         "accessories"
       ]
     },
-    "pricetype": "Per Unit",
+    "pricetype": "Per Kg",
     "quantities": [
       "1",
       "2",
@@ -120,13 +120,13 @@
     ]
   },
   {
+    "id": 3,
     "product": "Alu",
     "name": "Alu",
-    "qttymax": "3",
-    "qttysteps": "1",
+    "qttymax": 3,
+    "qttysteps": 1,
     "description": "Fruit",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/potato.jpg",
-    "id": 3,
     "price": 400,
     "isFeatured": false,
     "category": {
@@ -137,7 +137,7 @@
         "string"
       ]
     },
-    "pricetype": "Per Unit",
+    "pricetype": "Per Kg",
     "quantities": [
       "1",
       "2",
