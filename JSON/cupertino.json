@@ -3,7 +3,7 @@
     "product": "Apple",
     "name": "Apple",
     "description": "Fruit",
-    "id": 1,
+    "id": 0,
     "price": 100,
     "isFeatured": false,
     "category": {
@@ -40,7 +40,7 @@
     "product": "Bannana",
     "name": "Bannana",
     "description": "Fruit",
-    "id": 2,
+    "id": 1,
     "price": 200,
     "isFeatured": false,
     "category": {
@@ -77,7 +77,7 @@
     "product": "Onion",
     "name": "Onion",
     "description": "Fruit",
-    "id": 3,
+    "id": 2,
     "price": 300,
     "isFeatured": false,
     "category": {
@@ -114,7 +114,7 @@
     "product": "Alu",
     "name": "Alu",
     "description": "Fruit",
-    "id": 4,
+    "id": 3,
     "price": 400,
     "isFeatured": false,
     "category": {
