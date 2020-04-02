@@ -4,6 +4,8 @@
     "name": "Apple",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apple.jpg",
     "description": "Fruit",
+    "qttymax": "3",
+    "qttysteps": "1",
     "id": 0,
     "price": 100,
     "isFeatured": false,
@@ -38,9 +40,11 @@
     ]
   },
   {
-    "product": "Bannana",
-    "name": "Bannana",
+    "product": "Banana",
+    "name": "Banana",
     "description": "Fruit",
+    "qttysteps": "1",
+    "qttymax": "3",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/banana.jpg",
     "id": 1,
     "price": 200,
@@ -77,7 +81,9 @@
   },
   {
     "product": "Onion",
+    "qttymax": "3",
     "name": "Onion",
+    "qttysteps": "1",
     "description": "Fruit",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/onion.jpg",
     "id": 2,
@@ -116,6 +122,8 @@
   {
     "product": "Alu",
     "name": "Alu",
+    "qttymax": "3",
+    "qttysteps": "1",
     "description": "Fruit",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/potato.jpg",
     "id": 3,
