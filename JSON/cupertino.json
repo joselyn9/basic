@@ -1206,7 +1206,7 @@
     "qttymax": 4,
     "qttysteps": 1,
     "description": "Veg",
-    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/patato.jpg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/potato.jpg",
     "price": 34,
     "isFeatured": false,
     "category": {
@@ -1246,7 +1246,7 @@
     "qttymax": 4,
     "qttysteps": 1,
     "description": "Veg",
-    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pumpkin.jpg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pumkin.jpg",
     "price": 35,
     "isFeatured": false,
     "category": {
