@@ -1,0 +1,1810 @@
+[
+  {
+    "id": 56,
+    "name": "Portugal",
+    "entries": [
+      {
+        "id": 542,
+        "timestamp": "2020-03-09T07:09:40.207668Z",
+        "cases": 30,
+        "deaths": 0,
+        "recoveries": 30,
+        "country": {
+          "id": 56
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "USA",
+    "entries": [
+      {
+        "id": 541,
+        "timestamp": "2020-03-09T07:09:40.158943Z",
+        "cases": 554,
+        "deaths": 22,
+        "recoveries": 517,
+        "country": {
+          "id": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Maldives",
+    "entries": [
+      {
+        "id": 540,
+        "timestamp": "2020-03-09T07:09:40.148844Z",
+        "cases": 4,
+        "deaths": 0,
+        "recoveries": 4,
+        "country": {
+          "id": 113
+        }
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Czechia",
+    "entries": [
+      {
+        "id": 539,
+        "timestamp": "2020-03-09T07:09:40.145104Z",
+        "cases": 32,
+        "deaths": 0,
+        "recoveries": 32,
+        "country": {
+          "id": 63
+        }
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Iran",
+    "entries": [
+      {
+        "id": 538,
+        "timestamp": "2020-03-09T07:09:40.135408Z",
+        "cases": 6566,
+        "deaths": 194,
+        "recoveries": 4238,
+        "country": {
+          "id": 21
+        }
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Colombia",
+    "entries": [
+      {
+        "id": 537,
+        "timestamp": "2020-03-09T07:09:39.210737Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 110
+        }
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Paraguay",
+    "entries": [
+      {
+        "id": 535,
+        "timestamp": "2020-03-09T07:09:39.204419Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 112
+        }
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Albania",
+    "entries": [
+      {
+        "id": 536,
+        "timestamp": "2020-03-09T07:09:39.196478Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 109
+        }
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Faeroe Islands",
+    "entries": [
+      {
+        "id": 524,
+        "timestamp": "2020-03-09T07:09:39.182991Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 111
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sweden",
+    "entries": [
+      {
+        "id": 526,
+        "timestamp": "2020-03-09T07:09:39.182216Z",
+        "cases": 203,
+        "deaths": 0,
+        "recoveries": 202,
+        "country": {
+          "id": 7
+        }
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Denmark",
+    "entries": [
+      {
+        "id": 534,
+        "timestamp": "2020-03-09T07:09:39.177799Z",
+        "cases": 35,
+        "deaths": 0,
+        "recoveries": 34,
+        "country": {
+          "id": 28
+        }
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Egypt",
+    "entries": [
+      {
+        "id": 533,
+        "timestamp": "2020-03-09T07:09:39.176448Z",
+        "cases": 55,
+        "deaths": 1,
+        "recoveries": 53,
+        "country": {
+          "id": 37
+        }
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Lebanon",
+    "entries": [
+      {
+        "id": 530,
+        "timestamp": "2020-03-09T07:09:39.176137Z",
+        "cases": 32,
+        "deaths": 0,
+        "recoveries": 31,
+        "country": {
+          "id": 14
+        }
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Belarus",
+    "entries": [
+      {
+        "id": 532,
+        "timestamp": "2020-03-09T07:09:39.175013Z",
+        "cases": 6,
+        "deaths": 0,
+        "recoveries": 6,
+        "country": {
+          "id": 60
+        }
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Diamond Princess",
+    "entries": [
+      {
+        "id": 531,
+        "timestamp": "2020-03-09T07:09:39.173525Z",
+        "cases": 696,
+        "deaths": 7,
+        "recoveries": 444,
+        "country": {
+          "id": 78
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Norway",
+    "entries": [
+      {
+        "id": 529,
+        "timestamp": "2020-03-09T07:09:39.173303Z",
+        "cases": 176,
+        "deaths": 0,
+        "recoveries": 175,
+        "country": {
+          "id": 9
+        }
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Morocco",
+    "entries": [
+      {
+        "id": 528,
+        "timestamp": "2020-03-09T07:09:39.169072Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 69
+        }
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Andorra",
+    "entries": [
+      {
+        "id": 525,
+        "timestamp": "2020-03-09T07:09:39.167646Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 29
+        }
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Cameroon",
+    "entries": [
+      {
+        "id": 518,
+        "timestamp": "2020-03-09T07:09:39.166870Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 99
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "entries": [
+      {
+        "id": 522,
+        "timestamp": "2020-03-09T07:09:39.166826Z",
+        "cases": 93,
+        "deaths": 3,
+        "recoveries": 68,
+        "country": {
+          "id": 6
+        }
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Pakistan",
+    "entries": [
+      {
+        "id": 527,
+        "timestamp": "2020-03-09T07:09:39.166628Z",
+        "cases": 7,
+        "deaths": 0,
+        "recoveries": 6,
+        "country": {
+          "id": 49
+        }
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Saint Martin",
+    "entries": [
+      {
+        "id": 521,
+        "timestamp": "2020-03-09T07:09:39.165241Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 108
+        }
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Switzerland",
+    "entries": [
+      {
+        "id": 514,
+        "timestamp": "2020-03-09T07:09:39.163805Z",
+        "cases": 332,
+        "deaths": 2,
+        "recoveries": 327,
+        "country": {
+          "id": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Ukraine",
+    "entries": [
+      {
+        "id": 519,
+        "timestamp": "2020-03-09T07:09:39.163562Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 68
+        }
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Philippines",
+    "entries": [
+      {
+        "id": 512,
+        "timestamp": "2020-03-09T07:09:39.161645Z",
+        "cases": 10,
+        "deaths": 1,
+        "recoveries": 7,
+        "country": {
+          "id": 34
+        }
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Total:",
+    "entries": [
+      {
+        "id": 516,
+        "timestamp": "2020-03-09T07:09:39.161334Z",
+        "cases": 110098,
+        "deaths": 3831,
+        "recoveries": 43965,
+        "country": {
+          "id": 44
+        }
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Greece",
+    "entries": [
+      {
+        "id": 508,
+        "timestamp": "2020-03-09T07:09:39.160119Z",
+        "cases": 73,
+        "deaths": 0,
+        "recoveries": 73,
+        "country": {
+          "id": 26
+        }
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Bahrain",
+    "entries": [
+      {
+        "id": 523,
+        "timestamp": "2020-03-09T07:09:39.160029Z",
+        "cases": 85,
+        "deaths": 0,
+        "recoveries": 71,
+        "country": {
+          "id": 30
+        }
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Argentina",
+    "entries": [
+      {
+        "id": 515,
+        "timestamp": "2020-03-09T07:09:39.158992Z",
+        "cases": 12,
+        "deaths": 1,
+        "recoveries": 11,
+        "country": {
+          "id": 82
+        }
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "South Africa",
+    "entries": [
+      {
+        "id": 513,
+        "timestamp": "2020-03-09T07:09:39.158952Z",
+        "cases": 3,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 90
+        }
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Spain",
+    "entries": [
+      {
+        "id": 520,
+        "timestamp": "2020-03-09T07:09:39.158732Z",
+        "cases": 674,
+        "deaths": 17,
+        "recoveries": 625,
+        "country": {
+          "id": 33
+        }
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Bangladesh",
+    "entries": [
+      {
+        "id": 517,
+        "timestamp": "2020-03-09T07:09:39.157081Z",
+        "cases": 3,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 107
+        }
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Togo",
+    "entries": [
+      {
+        "id": 511,
+        "timestamp": "2020-03-09T07:09:39.156246Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 91
+        }
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Martinique",
+    "entries": [
+      {
+        "id": 507,
+        "timestamp": "2020-03-09T07:09:39.154593Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 105
+        }
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "name": "St. Barth",
+    "entries": [
+      {
+        "id": 504,
+        "timestamp": "2020-03-09T07:09:39.150576Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 104
+        }
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Moldova",
+    "entries": [
+      {
+        "id": 509,
+        "timestamp": "2020-03-09T07:09:39.149162Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 106
+        }
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Austria",
+    "entries": [
+      {
+        "id": 510,
+        "timestamp": "2020-03-09T07:09:39.148699Z",
+        "cases": 104,
+        "deaths": 0,
+        "recoveries": 102,
+        "country": {
+          "id": 50
+        }
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Qatar",
+    "entries": [
+      {
+        "id": 506,
+        "timestamp": "2020-03-09T07:09:39.146912Z",
+        "cases": 15,
+        "deaths": 0,
+        "recoveries": 15,
+        "country": {
+          "id": 22
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Taiwan",
+    "entries": [
+      {
+        "id": 500,
+        "timestamp": "2020-03-09T07:09:39.145905Z",
+        "cases": 45,
+        "deaths": 1,
+        "recoveries": 29,
+        "country": {
+          "id": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Hong Kong",
+    "entries": [
+      {
+        "id": 505,
+        "timestamp": "2020-03-09T07:09:39.141501Z",
+        "cases": 115,
+        "deaths": 3,
+        "recoveries": 53,
+        "country": {
+          "id": 46
+        }
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Jordan",
+    "entries": [
+      {
+        "id": 503,
+        "timestamp": "2020-03-09T07:09:39.140014Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 38
+        }
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Croatia",
+    "entries": [
+      {
+        "id": 499,
+        "timestamp": "2020-03-09T07:09:39.134535Z",
+        "cases": 12,
+        "deaths": 0,
+        "recoveries": 12,
+        "country": {
+          "id": 24
+        }
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Georgia",
+    "entries": [
+      {
+        "id": 502,
+        "timestamp": "2020-03-09T07:09:39.132606Z",
+        "cases": 15,
+        "deaths": 0,
+        "recoveries": 15,
+        "country": {
+          "id": 51
+        }
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Romania",
+    "entries": [
+      {
+        "id": 498,
+        "timestamp": "2020-03-09T07:09:39.131372Z",
+        "cases": 15,
+        "deaths": 0,
+        "recoveries": 10,
+        "country": {
+          "id": 47
+        }
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Cambodia",
+    "entries": [
+      {
+        "id": 501,
+        "timestamp": "2020-03-09T07:09:39.120808Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 39
+        }
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Vatican City",
+    "entries": [
+      {
+        "id": 496,
+        "timestamp": "2020-03-09T07:09:39.119465Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 96
+        }
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Vietnam",
+    "entries": [
+      {
+        "id": 497,
+        "timestamp": "2020-03-09T07:09:39.118623Z",
+        "cases": 30,
+        "deaths": 0,
+        "recoveries": 14,
+        "country": {
+          "id": 74
+        }
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Monaco",
+    "entries": [
+      {
+        "id": 492,
+        "timestamp": "2020-03-09T07:09:39.117289Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 64
+        }
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "France",
+    "entries": [
+      {
+        "id": 495,
+        "timestamp": "2020-03-09T07:09:39.117035Z",
+        "cases": 1209,
+        "deaths": 19,
+        "recoveries": 1178,
+        "country": {
+          "id": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Luxembourg",
+    "entries": [
+      {
+        "id": 494,
+        "timestamp": "2020-03-09T07:09:39.116122Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 42
+        }
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Malta",
+    "entries": [
+      {
+        "id": 491,
+        "timestamp": "2020-03-09T07:09:39.115687Z",
+        "cases": 3,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 103
+        }
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Indonesia",
+    "entries": [
+      {
+        "id": 493,
+        "timestamp": "2020-03-09T07:09:39.115341Z",
+        "cases": 6,
+        "deaths": 0,
+        "recoveries": 6,
+        "country": {
+          "id": 18
+        }
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Singapore",
+    "entries": [
+      {
+        "id": 490,
+        "timestamp": "2020-03-09T07:09:39.109476Z",
+        "cases": 150,
+        "deaths": 0,
+        "recoveries": 60,
+        "country": {
+          "id": 77
+        }
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Belgium",
+    "entries": [
+      {
+        "id": 489,
+        "timestamp": "2020-03-09T07:09:39.108275Z",
+        "cases": 200,
+        "deaths": 0,
+        "recoveries": 199,
+        "country": {
+          "id": 43
+        }
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "India",
+    "entries": [
+      {
+        "id": 488,
+        "timestamp": "2020-03-09T07:09:39.106220Z",
+        "cases": 42,
+        "deaths": 0,
+        "recoveries": 39,
+        "country": {
+          "id": 54
+        }
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Russia",
+    "entries": [
+      {
+        "id": 487,
+        "timestamp": "2020-03-09T07:09:39.105867Z",
+        "cases": 17,
+        "deaths": 0,
+        "recoveries": 14,
+        "country": {
+          "id": 45
+        }
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Lithuania",
+    "entries": [
+      {
+        "id": 486,
+        "timestamp": "2020-03-09T07:09:39.105636Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 65
+        }
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Brazil",
+    "entries": [
+      {
+        "id": 485,
+        "timestamp": "2020-03-09T07:09:39.103662Z",
+        "cases": 25,
+        "deaths": 0,
+        "recoveries": 25,
+        "country": {
+          "id": 40
+        }
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Italy",
+    "entries": [
+      {
+        "id": 484,
+        "timestamp": "2020-03-09T07:09:39.102754Z",
+        "cases": 7375,
+        "deaths": 366,
+        "recoveries": 6387,
+        "country": {
+          "id": 75
+        }
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Kuwait",
+    "entries": [
+      {
+        "id": 483,
+        "timestamp": "2020-03-09T07:09:39.029672Z",
+        "cases": 64,
+        "deaths": 0,
+        "recoveries": 63,
+        "country": {
+          "id": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Malaysia",
+    "entries": [
+      {
+        "id": 482,
+        "timestamp": "2020-03-09T07:09:39.027871Z",
+        "cases": 99,
+        "deaths": 0,
+        "recoveries": 75,
+        "country": {
+          "id": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Hungary",
+    "entries": [
+      {
+        "id": 480,
+        "timestamp": "2020-03-09T07:09:39.024092Z",
+        "cases": 7,
+        "deaths": 0,
+        "recoveries": 7,
+        "country": {
+          "id": 84
+        }
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Algeria",
+    "entries": [
+      {
+        "id": 478,
+        "timestamp": "2020-03-09T07:09:39.022496Z",
+        "cases": 20,
+        "deaths": 0,
+        "recoveries": 20,
+        "country": {
+          "id": 59
+        }
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "French Guiana",
+    "entries": [
+      {
+        "id": 477,
+        "timestamp": "2020-03-09T07:09:39.021780Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 102
+        }
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Nepal",
+    "entries": [
+      {
+        "id": 479,
+        "timestamp": "2020-03-09T07:09:39.021396Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 0,
+        "country": {
+          "id": 67
+        }
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Gibraltar",
+    "entries": [
+      {
+        "id": 481,
+        "timestamp": "2020-03-09T07:09:39.021248Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 0,
+        "country": {
+          "id": 98
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ecuador",
+    "entries": [
+      {
+        "id": 475,
+        "timestamp": "2020-03-09T07:09:39.019557Z",
+        "cases": 15,
+        "deaths": 0,
+        "recoveries": 15,
+        "country": {
+          "id": 4
+        }
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Bhutan",
+    "entries": [
+      {
+        "id": 476,
+        "timestamp": "2020-03-09T07:09:39.011661Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 95
+        }
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Iceland",
+    "entries": [
+      {
+        "id": 474,
+        "timestamp": "2020-03-09T07:09:39.011208Z",
+        "cases": 58,
+        "deaths": 0,
+        "recoveries": 57,
+        "country": {
+          "id": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "San Marino",
+    "entries": [
+      {
+        "id": 473,
+        "timestamp": "2020-03-09T07:09:39.009785Z",
+        "cases": 36,
+        "deaths": 1,
+        "recoveries": 35,
+        "country": {
+          "id": 20
+        }
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chile",
+    "entries": [
+      {
+        "id": 472,
+        "timestamp": "2020-03-09T07:09:38.985765Z",
+        "cases": 10,
+        "deaths": 0,
+        "recoveries": 10,
+        "country": {
+          "id": 81
+        }
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Serbia",
+    "entries": [
+      {
+        "id": 471,
+        "timestamp": "2020-03-09T07:09:38.982583Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 92
+        }
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Slovakia",
+    "entries": [
+      {
+        "id": 469,
+        "timestamp": "2020-03-09T07:09:38.978419Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 94
+        }
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Germany",
+    "entries": [
+      {
+        "id": 470,
+        "timestamp": "2020-03-09T07:09:38.976659Z",
+        "cases": 1040,
+        "deaths": 0,
+        "recoveries": 1022,
+        "country": {
+          "id": 27
+        }
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Senegal",
+    "entries": [
+      {
+        "id": 468,
+        "timestamp": "2020-03-09T07:09:38.974867Z",
+        "cases": 4,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 62
+        }
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Peru",
+    "entries": [
+      {
+        "id": 466,
+        "timestamp": "2020-03-09T07:09:38.972868Z",
+        "cases": 7,
+        "deaths": 0,
+        "recoveries": 7,
+        "country": {
+          "id": 93
+        }
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Nigeria",
+    "entries": [
+      {
+        "id": 467,
+        "timestamp": "2020-03-09T07:09:38.971371Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 73
+        }
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Guyana",
+    "entries": [
+      {
+        "id": 465,
+        "timestamp": "2020-03-09T07:09:38.969299Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 101
+        }
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Sri Lanka",
+    "entries": [
+      {
+        "id": 463,
+        "timestamp": "2020-03-09T07:09:38.968658Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 0,
+        "country": {
+          "id": 70
+        }
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "North Macedonia",
+    "entries": [
+      {
+        "id": 464,
+        "timestamp": "2020-03-09T07:09:38.968587Z",
+        "cases": 3,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 35
+        }
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Palestine",
+    "entries": [
+      {
+        "id": 462,
+        "timestamp": "2020-03-09T07:09:38.967263Z",
+        "cases": 19,
+        "deaths": 0,
+        "recoveries": 19,
+        "country": {
+          "id": 86
+        }
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Afghanistan",
+    "entries": [
+      {
+        "id": 461,
+        "timestamp": "2020-03-09T07:09:38.957028Z",
+        "cases": 4,
+        "deaths": 0,
+        "recoveries": 4,
+        "country": {
+          "id": 66
+        }
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Dominican Republic",
+    "entries": [
+      {
+        "id": 460,
+        "timestamp": "2020-03-09T07:09:38.956787Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 53
+        }
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Latvia",
+    "entries": [
+      {
+        "id": 459,
+        "timestamp": "2020-03-09T07:09:38.951752Z",
+        "cases": 6,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 57
+        }
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Bosnia and Herzegovina",
+    "entries": [
+      {
+        "id": 458,
+        "timestamp": "2020-03-09T07:09:38.946726Z",
+        "cases": 3,
+        "deaths": 0,
+        "recoveries": 3,
+        "country": {
+          "id": 89
+        }
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Liechtenstein",
+    "entries": [
+      {
+        "id": 457,
+        "timestamp": "2020-03-09T07:09:38.937938Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 80
+        }
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Macao",
+    "entries": [
+      {
+        "id": 456,
+        "timestamp": "2020-03-09T07:09:38.926126Z",
+        "cases": 10,
+        "deaths": 0,
+        "recoveries": 0,
+        "country": {
+          "id": 17
+        }
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Armenia",
+    "entries": [
+      {
+        "id": 455,
+        "timestamp": "2020-03-09T07:09:38.924510Z",
+        "cases": 1,
+        "deaths": 0,
+        "recoveries": 1,
+        "country": {
+          "id": 31
+        }
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Tunisia",
+    "entries": [
+      {
+        "id": 454,
+        "timestamp": "2020-03-09T07:09:38.924454Z",
+        "cases": 2,
+        "deaths": 0,
+        "recoveries": 2,
+        "country": {
+          "id": 71
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "S. Korea",
+    "entries": [
+      {
+        "id": 453,
+        "timestamp": "2020-03-09T07:09:38.899891Z",
+        "cases": 7382,
+        "deaths": 53,
+        "recoveries": 7163,
+        "country": {
+          "id": 5
+        }
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Canada",
+    "entries": [
+      {
+        "id": 452,
+        "timestamp": "2020-03-09T07:09:38.898554Z",
+        "cases": 67,
+        "deaths": 0,
+        "recoveries": 59,
+        "country": {
+          "id": 76
+        }
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Israel",
+    "entries": [
+      {
+        "id": 451,
+        "timestamp": "2020-03-09T07:09:38.895098Z",
+        "cases": 39,
+        "deaths": 0,
+        "recoveries": 36,
+        "country": {
+          "id": 16
+        }
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Costa Rica",
+    "entries": [
+      {
+        "id": 450,
+        "timestamp": "2020-03-09T07:09:38.884403Z",
+        "cases": 9,
+        "deaths": 0,
+        "recoveries": 9,
+        "country": {
+          "id": 97
+        }
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Japan",
+    "entries": [
+      {
+        "id": 449,
+        "timestamp": "2020-03-09T07:09:38.881348Z",
+        "cases": 502,
+        "deaths": 7,
+        "recoveries": 419,
+        "country": {
+          "id": 32
+        }
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Finland",
+    "entries": [
+      {
+        "id": 448,
+        "timestamp": "2020-03-09T07:09:38.872742Z",
+        "cases": 25,
+        "deaths": 0,
+        "recoveries": 24,
+        "country": {
+          "id": 72
+        }
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thailand",
+    "entries": [
+      {
+        "id": 447,
+        "timestamp": "2020-03-09T07:09:38.870740Z",
+        "cases": 50,
+        "deaths": 1,
+        "recoveries": 16,
+        "country": {
+          "id": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Ireland",
+    "entries": [
+      {
+        "id": 446,
+        "timestamp": "2020-03-09T07:09:38.870512Z",
+        "cases": 21,
+        "deaths": 0,
+        "recoveries": 21,
+        "country": {
+          "id": 19
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Iraq",
+    "entries": [
+      {
+        "id": 445,
+        "timestamp": "2020-03-09T07:09:38.869166Z",
+        "cases": 60,
+        "deaths": 6,
+        "recoveries": 53,
+        "country": {
+          "id": 11
+        }
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Mexico",
+    "entries": [
+      {
+        "id": 444,
+        "timestamp": "2020-03-09T07:09:38.868077Z",
+        "cases": 7,
+        "deaths": 0,
+        "recoveries": 6,
+        "country": {
+          "id": 61
+        }
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "UAE",
+    "entries": [
+      {
+        "id": 439,
+        "timestamp": "2020-03-09T07:09:38.830990Z",
+        "cases": 45,
+        "deaths": 0,
+        "recoveries": 38,
+        "country": {
+          "id": 88
+        }
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Bulgaria",
+    "entries": [
+      {
+        "id": 438,
+        "timestamp": "2020-03-09T07:09:38.819276Z",
+        "cases": 4,
+        "deaths": 0,
+        "recoveries": 4,
+        "country": {
+          "id": 100
+        }
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "New Zealand",
+    "entries": [
+      {
+        "id": 443,
+        "timestamp": "2020-03-09T07:09:38.810498Z",
+        "cases": 5,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 55
+        }
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "name": "UK",
+    "entries": [
+      {
+        "id": 442,
+        "timestamp": "2020-03-09T07:09:38.807991Z",
+        "cases": 278,
+        "deaths": 3,
+        "recoveries": 257,
+        "country": {
+          "id": 87
+        }
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Oman",
+    "entries": [
+      {
+        "id": 441,
+        "timestamp": "2020-03-09T07:09:38.805521Z",
+        "cases": 16,
+        "deaths": 0,
+        "recoveries": 14,
+        "country": {
+          "id": 41
+        }
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "name": "China",
+    "entries": [
+      {
+        "id": 436,
+        "timestamp": "2020-03-09T07:09:38.800998Z",
+        "cases": 80738,
+        "deaths": 3120,
+        "recoveries": 18994,
+        "country": {
+          "id": 79
+        }
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Slovenia",
+    "entries": [
+      {
+        "id": 440,
+        "timestamp": "2020-03-09T07:09:38.798654Z",
+        "cases": 16,
+        "deaths": 0,
+        "recoveries": 16,
+        "country": {
+          "id": 85
+        }
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Estonia",
+    "entries": [
+      {
+        "id": 437,
+        "timestamp": "2020-03-09T07:09:38.758794Z",
+        "cases": 10,
+        "deaths": 0,
+        "recoveries": 10,
+        "country": {
+          "id": 52
+        }
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Azerbaijan",
+    "entries": [
+      {
+        "id": 435,
+        "timestamp": "2020-03-09T07:09:38.742539Z",
+        "cases": 9,
+        "deaths": 0,
+        "recoveries": 9,
+        "country": {
+          "id": 36
+        }
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Netherlands",
+    "entries": [
+      {
+        "id": 434,
+        "timestamp": "2020-03-09T07:09:38.740550Z",
+        "cases": 265,
+        "deaths": 3,
+        "recoveries": 262,
+        "country": {
+          "id": 48
+        }
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Saudi Arabia",
+    "entries": [
+      {
+        "id": 433,
+        "timestamp": "2020-03-09T07:09:38.735809Z",
+        "cases": 15,
+        "deaths": 0,
+        "recoveries": 14,
+        "country": {
+          "id": 58
+        }
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Poland",
+    "entries": [
+      {
+        "id": 432,
+        "timestamp": "2020-03-09T07:09:38.730714Z",
+        "cases": 11,
+        "deaths": 0,
+        "recoveries": 11,
+        "country": {
+          "id": 83
+        }
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "U.K.",
+    "entries": [
+      {
+        "id": 192,
+        "timestamp": "2020-03-05T06:36:11.763983Z",
+        "cases": 87,
+        "deaths": 0,
+        "recoveries": 8,
+        "country": {
+          "id": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "U.A.E.",
+    "entries": [
+      {
+        "id": 163,
+        "timestamp": "2020-03-05T06:36:11.587661Z",
+        "cases": 28,
+        "deaths": 0,
+        "recoveries": 5,
+        "country": {
+          "id": 10
+        }
+      }
+    ]
+  }
+]
