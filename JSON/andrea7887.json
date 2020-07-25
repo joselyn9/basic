@@ -1,0 +1,23 @@
+{
+  "string": "hello",
+  "integer": 5,
+  "array": [
+    "one",
+    "two",
+    "three"
+  ],
+  "arrayofobjects": [
+    {
+      "key": "value"
+    },
+    {
+      "key": "value"
+    },
+    {
+      "key": "value"
+    }
+  ],
+  "object": {
+    "key": "value"
+  }
+}
