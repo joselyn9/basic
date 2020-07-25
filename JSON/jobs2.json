@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Apple",
+    "description": "job description",
+    "employmentType": "",
+    "id": 1,
+    "location": "Singapore",
+    "position": "Software Engineer",
+    "skillsRequired": ["ReactJS1", "Javascript1", "Webpack1"]
+  },
+  {
+    "company": "Google",
+    "description": "job description",
+    "employmentType": "",
+    "id": 2,
+    "location": "Hong Kong",
+    "position": "Software Engineering Manager",
+    "skillsRequired": ["https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/surfing-2212948_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/maldives-1993704_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/new-york-city-336475_640.jpg"]
+  },
+  {
+    "company": "Microsoft",
+    "description": "job description",
+    "employmentType": "",
+    "id": 3,
+    "location": "Singapore",
+    "position": "System Engineer",
+    "skillsRequired": ["https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sunset-675847_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/new-york-city-336475_640.jpg"]
+  },
+  {
+    "company": "DBS",
+    "description": "Expert in Excel",
+    "employmentType": "",
+    "id": 4,
+    "location": "Singapore",
+    "position": "Data Scientist",
+    "skillsRequired": ["https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sea-2470908_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/plouzane-1758197_640.jpg"]
+  },
+  {
+    "company": "Smart",
+    "description": "Willing to do improve the UI",
+    "employmentType": "Fulltime",
+    "id": 0,
+    "location": "Philippines",
+    "position": "ReactJS Developer",
+    "skillsRequired": ["https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/surfing-2212948_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/plouzane-1758197_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sea-2470908_640.jpg"]
+  }
+]
