@@ -6,7 +6,7 @@
     "id": 1,
     "location": "Singapore",
     "position": "Software Engineer",
-    "skillsRequired": ["ReactJS1", "Javascript1", "Webpack1"]
+    "skillsRequired": ["https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg", "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg"]
   },
   {
     "company": "Google",
