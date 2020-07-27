@@ -1,0 +1,14 @@
+{
+  "id":1,
+  "name":"ProductName",
+  "images":[
+    {
+      "id":11,
+      "imageName":"https://farm8.staticflickr.com/7603/16648925347_769a6009c7_o.jpg"
+    },
+    {
+      "id":31,
+      "imageName":"https://farm9.staticflickr.com/8687/16789027675_cde1bd098a_o.jpg"
+    }
+  ]
+}
