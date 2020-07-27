@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "BloodShot",
+    "plot": "plottext",
+    "year": 2020,
+    "rating": 7.3,
+    "criticsReview": 50,
+    "metascoreRating": 76,
+    "genra": [
+      "Action",
+      "Drama"
+    ],
+    "cast": [
+      {
+        "orginalName": "James Mangold",
+        "movieName": "Director",
+        "image": "assets/images/actor_1.png"
+      },
+      {
+        "orginalName": "Matt Damon",
+        "movieName": "Carroll",
+        "image": "assets/images/actor_2.png"
+      },
+      {
+        "orginalName": "Christian Bale",
+        "movieName": "Ken Miles",
+        "image": "assets/images/actor_3.png"
+      },
+      {
+        "orginalName": "Caitriona Balfe",
+        "movieName": "Mollie",
+        "image": "assets/images/actor_4.png"
+      }
+    ],
+    "poster": "assets/images/poster_1.jpg",
+    "backdrop": "assets/images/backdrop_1.jpg",
+    "numOfRatings": 150212
+  },
+  {
+    "id": 2,
+    "title": "BloodShot2",
+    "plot": "plottext2",
+    "year": 2022,
+    "rating": 7.2,
+    "criticsReview": 52,
+    "metascoreRating": 72,
+    "genra": [
+      "Action",
+      "Drama",
+      "Biography"
+    ],
+    "cast": [
+      {
+        "orginalName": "James 2",
+        "movieName": "Director",
+        "image": "assets/images/actor_1.png"
+      },
+      {
+        "orginalName": "Matt Damon 2",
+        "movieName": "Carroll",
+        "image": "assets/images/actor_2.png"
+      },
+      {
+        "orginalName": "Christian Bale 2",
+        "movieName": "Ken Miles",
+        "image": "assets/images/actor_3.png"
+      },
+      {
+        "orginalName": "Caitriona Balfe 2",
+        "movieName": "Mollie",
+        "image": "assets/images/actor_4.png"
+      }
+    ],
+    "poster": "assets/images/poster_1.jpg",
+    "backdrop": "assets/images/backdrop_1.jpg",
+    "numOfRatings": 215
+  },
+  {
+    "id": 3,
+    "title": "Onward",
+    "plot": "plottext3",
+    "year": 2023,
+    "rating": 7.3,
+    "criticsReview": 53,
+    "metascoreRating": 73,
+    "genra": [
+      "Action",
+      "Biography"
+    ],
+    "cast": [
+      {
+        "orginalName": "James 3",
+        "movieName": "Director",
+        "image": "assets/images/actor_1.png"
+      },
+      {
+        "orginalName": "Matt Damon 3",
+        "movieName": "Carroll",
+        "image": "assets/images/actor_2.png"
+      },
+      {
+        "orginalName": "Christian Bale 3",
+        "movieName": "Ken Miles",
+        "image": "assets/images/actor_3.png"
+      }
+    ],
+    "poster": "assets/images/poster_1.jpg",
+    "backdrop": "assets/images/backdrop_1.jpg",
+    "numOfRatings": 888
+  }
+]
