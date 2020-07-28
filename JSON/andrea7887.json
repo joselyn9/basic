@@ -2,9 +2,9 @@
   "string": "hello",
   "integer": 5,
   "array": [
-    "https:\/\/farm1.staticflickr.com\/745\/32394687645_a9c54a34ef_b.jpg",
-    "https:\/\/imgur.com\/azYafd8.jpg",
-    "https:\/\/imgur.com\/DaCfMsj.jpg"
+    "jpg",
+    "azYafd8.jpg",
+    "DaCfMsj.jpg"
   ],
   "arrayofobjects": [
     {
