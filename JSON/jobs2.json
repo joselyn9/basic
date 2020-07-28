@@ -7,6 +7,13 @@
     "location": "Singapore",
     "position": "Software Engineer",
     "skillsRequired": [
+      "ReactJS2", 
+      "Javascript2", 
+      "Webpack2", 
+      "HTML2", 
+      "HTML22"
+    ],
+    "skillsImages": [
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/empire-state-building-1081929_640.jpg"
@@ -20,6 +27,10 @@
     "location": "Hong Kong",
     "position": "Software Engineering Manager",
     "skillsRequired": [
+      "ReactJS2",
+      "HTML22"
+    ],
+    "skillsImages": [
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/beach-84533_640.jpg", 
@@ -35,6 +46,11 @@
     "location": "Singapore",
     "position": "System Engineer",
     "skillsRequired": [
+      "Webpack2", 
+      "HTML2", 
+      "HTML22"
+    ],
+    "skillsImages": [
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sunset-675847_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sunset-675847_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/new-york-city-336475_640.jpg"
@@ -48,6 +64,10 @@
     "location": "India",
     "position": "Data Scientist",
     "skillsRequired": [
+      "ReactJS2", 
+      "HTML22"
+    ],
+    "skillsImages": [
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sea-2470908_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sea-2470908_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/sea-2470908_640.jpg"
@@ -61,6 +81,12 @@
     "location": "Philippines",
     "position": "ReactJS Developer",
     "skillsRequired": [
+      "ReactJS2", 
+      "Javascript2", 
+      "Webpack2",
+      "HTML22"
+    ],
+    "skillsImages": [
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/surfing-2212948_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/surfing-2212948_640.jpg", 
       "https://kaleidosblog.s3-eu-west-1.amazonaws.com/flutter_gallery/surfing-2212948_640.jpg", 
