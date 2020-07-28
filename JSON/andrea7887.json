@@ -2,9 +2,9 @@
   "string": "hello",
   "integer": 5,
   "array": [
-    "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max",
-    "https://images.unsplash.com/photo-1470229829430-b357bca1f901?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80",
-    "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=400&fit=max"
+    "https://farm1.staticflickr.com/745/32394687645_a9c54a34ef_b.jpg",
+    "https://imgur.com/azYafd8.jpg",
+    "https://imgur.com/DaCfMsj.jpg"
   ],
   "arrayofobjects": [
     {
