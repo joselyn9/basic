@@ -2,22 +2,22 @@
   "string": "hello",
   "integer": 5,
   "array": [
-    "jpg",
-    "azYafd8.jpg",
-    "DaCfMsj.jpg"
+    "one",
+    "two",
+    "three"
   ],
   "arrayofobjects": [
     {
-      "key": "value1"
+      "key": "value"
     },
     {
-      "key": "value22"
+      "key": "value"
     },
     {
-      "key": "value3"
+      "key": "value"
     }
   ],
   "object": {
-    "key": "value11"
+    "key": "value"
   }
 }
