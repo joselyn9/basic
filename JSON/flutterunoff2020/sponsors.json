@@ -1,0 +1,618 @@
+[
+  {
+    "id": "7",
+    "plan": "PLATINUM",
+    "planDetail": "N_A",
+    "companyUrl": "https://corp.zozo.com/",
+    "companyName": {
+      "ja": "株式会社ZOZOテクノロジーズ",
+      "en": "ZOZO Technologies, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/7.png",
+    "twitterAccount": "@zozotech",
+    "hasBooth": true,
+    "sort": 1
+  },
+  {
+    "id": "21",
+    "plan": "PLATINUM",
+    "planDetail": "N_A",
+    "companyUrl": "https://yappli.co.jp/",
+    "companyName": {
+      "ja": "株式会社ヤプリ",
+      "en": "yappli, inc"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/21.png",
+    "twitterAccount": "@yappli_jp",
+    "hasBooth": true,
+    "sort": 2
+  },
+  {
+    "id": "34",
+    "plan": "PLATINUM",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.yumemi.co.jp/ja",
+    "companyName": {
+      "ja": "株式会社ゆめみ",
+      "en": "YUMEMI, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/34.png",
+    "twitterAccount": "@yumemiinc",
+    "hasBooth": true,
+    "sort": 3
+  },
+  {
+    "id": "55",
+    "plan": "GOLD",
+    "planDetail": "N_A",
+    "companyUrl": "https://developers.google.com/",
+    "companyName": {
+      "ja": "Google合同会社",
+      "en": "Google LLC"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/55.png",
+    "twitterAccount": "@googledevjp",
+    "hasBooth": true,
+    "sort": 4
+  },
+  {
+    "id": "11",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://mixi.co.jp/recruit/",
+    "companyName": {
+      "ja": "株式会社ミクシィ",
+      "en": "mixi, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/11.png",
+    "twitterAccount": "@mixi_engineers",
+    "hasBooth": true,
+    "sort": 5
+  },
+  {
+    "id": "47",
+    "plan": "GOLD",
+    "planDetail": "LUNCH",
+    "companyUrl": "https://twitter.com/mercaridevjp",
+    "companyName": {
+      "ja": "株式会社メルカリ",
+      "en": "Mercari, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/47.png",
+    "twitterAccount": "@mercaridevjp",
+    "hasBooth": true,
+    "sort": 6
+  },
+  {
+    "id": "8",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://corp.moneyforward.com/",
+    "companyName": {
+      "ja": "株式会社マネーフォワード",
+      "en": "Money Forward, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/8.png",
+    "twitterAccount": "@moneyforward",
+    "hasBooth": true,
+    "sort": 7
+  },
+  {
+    "id": "9",
+    "plan": "GOLD",
+    "planDetail": "NETWORK",
+    "companyUrl": "https://iridge.jp/",
+    "companyName": {
+      "ja": "株式会社アイリッジ",
+      "en": "iRidge, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/9.png",
+    "twitterAccount": null,
+    "hasBooth": true,
+    "sort": 8
+  },
+  {
+    "id": "17",
+    "plan": "GOLD",
+    "planDetail": "LUNCH",
+    "companyUrl": "https://buildersbox.corp-sansan.com/",
+    "companyName": {
+      "ja": "Sansan株式会社",
+      "en": "Sansan, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/17.png",
+    "twitterAccount": "@sansanjapan",
+    "hasBooth": true,
+    "sort": 9
+  },
+  {
+    "id": "19",
+    "plan": "GOLD",
+    "planDetail": "LUNCH",
+    "companyUrl": "https://www.yahoo.co.jp",
+    "companyName": {
+      "ja": "ヤフー株式会社",
+      "en": "Yahoo Japan Corporation"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/19.png",
+    "twitterAccount": "@yahoo_career_jp",
+    "hasBooth": true,
+    "sort": 10
+  },
+  {
+    "id": "25",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://diverse-inc.co.jp/",
+    "companyName": {
+      "ja": "株式会社Diverse",
+      "en": "Diverse, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/25.png",
+    "twitterAccount": "@diverse_inc",
+    "hasBooth": true,
+    "sort": 11
+  },
+  {
+    "id": "27",
+    "plan": "GOLD",
+    "planDetail": "UNIQUE",
+    "companyUrl": "https://bitflyer.com/ja-jp/Recruit",
+    "companyName": {
+      "ja": "株式会社 bitFlyer",
+      "en": "bitFlyer, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/27.png",
+    "twitterAccount": "@bitFlyer",
+    "hasBooth": true,
+    "sort": 12
+  },
+  {
+    "id": "28",
+    "plan": "GOLD",
+    "planDetail": "LUNCH",
+    "companyUrl": "https://www.cyberagent.co.jp",
+    "companyName": {
+      "ja": "株式会社サイバーエージェント",
+      "en": "CyberAgent, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/28.png",
+    "twitterAccount": "@CyberAgent_PR",
+    "hasBooth": true,
+    "sort": 13
+  },
+  {
+    "id": "29",
+    "plan": "GOLD",
+    "planDetail": "AC",
+    "companyUrl": "https://info.cookpad.com/careers/",
+    "companyName": {
+      "ja": "クックパッド株式会社",
+      "en": "Cookpad Inc"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/29.png",
+    "twitterAccount": "@cookpad_tech",
+    "hasBooth": true,
+    "sort": 14
+  },
+  {
+    "id": "32",
+    "plan": "GOLD",
+    "planDetail": "DRINK",
+    "companyUrl": "https://dmm-corp.com/",
+    "companyName": {
+      "ja": "合同会社DMM.com",
+      "en": "DMM.com Group"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/32.png",
+    "twitterAccount": "@DMM_com",
+    "hasBooth": true,
+    "sort": 15
+  },
+  {
+    "id": "35",
+    "plan": "GOLD",
+    "planDetail": "UNIQUE",
+    "companyUrl": "https://roomclip.jp/",
+    "companyName": {
+      "ja": "ルームクリップ株式会社",
+      "en": "RoomClip Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/35.png",
+    "twitterAccount": "@RoomClipJP",
+    "hasBooth": true,
+    "sort": 16
+  },
+  {
+    "id": "36",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://eure.jp/",
+    "companyName": {
+      "ja": "株式会社エウレカ",
+      "en": "eureka, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/36.png",
+    "twitterAccount": "@eureka_inc",
+    "hasBooth": true,
+    "sort": 17
+  },
+  {
+    "id": "41",
+    "plan": "GOLD",
+    "planDetail": "DRINK",
+    "companyUrl": "https://engineer.recruit-lifestyle.co.jp/recruiting/",
+    "companyName": {
+      "ja": "株式会社リクルートライフスタイル",
+      "en": "Recruit Lifestyle Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/41.png",
+    "twitterAccount": "@RLS_HR",
+    "hasBooth": true,
+    "sort": 18
+  },
+  {
+    "id": "42",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://jobs.m3.com/engineer/",
+    "companyName": {
+      "ja": "エムスリー株式会社",
+      "en": "M3, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/42.png",
+    "twitterAccount": "@m3_engineering",
+    "hasBooth": true,
+    "sort": 19
+  },
+  {
+    "id": "45",
+    "plan": "GOLD",
+    "planDetail": "UNIQUE",
+    "companyUrl": "https://engineering.linecorp.com/ja/",
+    "companyName": {
+      "ja": "LINE株式会社",
+      "en": "LINE Corporation"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/45.png",
+    "twitterAccount": "@LINE_DEV",
+    "hasBooth": true,
+    "sort": 20
+  },
+  {
+    "id": "46",
+    "plan": "GOLD",
+    "planDetail": "UNIQUE",
+    "companyUrl": "https://dena.com",
+    "companyName": {
+      "ja": "株式会社ディー・エヌ・エー",
+      "en": "DeNA Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/46.png",
+    "twitterAccount": "@denaxtech",
+    "hasBooth": true,
+    "sort": 21
+  },
+  {
+    "id": "48",
+    "plan": "GOLD",
+    "planDetail": "SNACK",
+    "companyUrl": "https://japantaxi.co.jp/",
+    "companyName": {
+      "ja": "JapanTaxi株式会社",
+      "en": "JapanTaxi Co.,Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/48.png",
+    "twitterAccount": "@andonlabo",
+    "hasBooth": true,
+    "sort": 22
+  },
+  {
+    "id": "49",
+    "plan": "GOLD",
+    "planDetail": "DRINK",
+    "companyUrl": "https://www.team-lab.com/",
+    "companyName": {
+      "ja": "チームラボ株式会社",
+      "en": "teamLab Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/49.png",
+    "twitterAccount": "@teamlab_news",
+    "hasBooth": true,
+    "sort": 23
+  },
+  {
+    "id": "51",
+    "plan": "GOLD",
+    "planDetail": "AC",
+    "companyUrl": "https://corp.rakuten.co.jp/",
+    "companyName": {
+      "ja": "楽天株式会社",
+      "en": "Rakuten, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/51.png",
+    "twitterAccount": "@RakutenJP",
+    "hasBooth": true,
+    "sort": 24
+  },
+  {
+    "id": "26",
+    "plan": "GOLD",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.wantedly.com/companies/nissanmotor",
+    "companyName": {
+      "ja": "日産自動車株式会社",
+      "en": "Nissan Motor Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/26.png",
+    "twitterAccount": "@NissanJP",
+    "hasBooth": false,
+    "sort": 25
+  },
+  {
+    "id": "20",
+    "plan": "GOLD",
+    "planDetail": "N_A",
+    "companyUrl": "https://plaid.co.jp/?source=droidkaigi2020",
+    "companyName": {
+      "ja": "株式会社プレイド",
+      "en": "PLAID, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/20.png",
+    "twitterAccount": "@PLAID_Info",
+    "hasBooth": false,
+    "sort": 26
+  },
+  {
+    "id": "54",
+    "plan": "GOLD",
+    "planDetail": "N_A",
+    "companyUrl": "https://twitter.com/mercaridevjp",
+    "companyName": {
+      "ja": "株式会社メルペイ",
+      "en": "Merpay, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/54.png",
+    "twitterAccount": "@mercaridevjp",
+    "hasBooth": false,
+    "sort": 27
+  },
+  {
+    "id": "10",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://pepabo.com/",
+    "companyName": {
+      "ja": "GMOペパボ株式会社",
+      "en": "GMO Pepabo, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/10.png",
+    "twitterAccount": "@pepabo",
+    "hasBooth": true,
+    "sort": 28
+  },
+  {
+    "id": "12",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://tabelog.com/",
+    "companyName": {
+      "ja": "株式会社カカクコム",
+      "en": "Kakaku.com, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/12.png",
+    "twitterAccount": "@Kakakucom_Group",
+    "hasBooth": false,
+    "sort": 29
+  },
+  {
+    "id": "13",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://andfactory.co.jp/",
+    "companyName": {
+      "ja": "and factory株式会社",
+      "en": "and factory,inc"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/13.png",
+    "twitterAccount": "@andfactory_jp",
+    "hasBooth": false,
+    "sort": 30
+  },
+  {
+    "id": "14",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.quipper.com/jp/",
+    "companyName": {
+      "ja": "Quipper Limited",
+      "en": "Quipper Limited"
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/14.png",
+    "twitterAccount": null,
+    "hasBooth": false,
+    "sort": 31
+  },
+  {
+    "id": "18",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://hatena.ne.jp",
+    "companyName": {
+      "ja": "株式会社はてな",
+      "en": "Hatena Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/18.png",
+    "twitterAccount": "@hatenapr",
+    "hasBooth": false,
+    "sort": 32
+  },
+  {
+    "id": "24",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://connehito.com",
+    "companyName": {
+      "ja": "コネヒト株式会社",
+      "en": "Connehito Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/24.png",
+    "twitterAccount": "@connehitomarche",
+    "hasBooth": false,
+    "sort": 33
+  },
+  {
+    "id": "30",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://info.excite.co.jp",
+    "companyName": {
+      "ja": "エキサイト株式会社",
+      "en": "Excite Japan Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/30.png",
+    "twitterAccount": "@excite__pr",
+    "hasBooth": false,
+    "sort": 34
+  },
+  {
+    "id": "31",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://deploygate.com/",
+    "companyName": {
+      "ja": "株式会社デプロイゲート",
+      "en": "DeployGate Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/31.png",
+    "twitterAccount": "@DeployGate_ja",
+    "hasBooth": false,
+    "sort": 35
+  },
+  {
+    "id": "33",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.pixiv.co.jp/",
+    "companyName": {
+      "ja": "ピクシブ株式会社",
+      "en": "pixiv Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/33.png",
+    "twitterAccount": "@pixiv_corp",
+    "hasBooth": false,
+    "sort": 36
+  },
+  {
+    "id": "37",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.furyu.jp/",
+    "companyName": {
+      "ja": "フリュー株式会社",
+      "en": "FURYU Corporation."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/37.png",
+    "twitterAccount": "@furyu_pr",
+    "hasBooth": false,
+    "sort": 37
+  },
+  {
+    "id": "39",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://info.studyplus.co.jp/",
+    "companyName": {
+      "ja": "スタディプラス株式会社",
+      "en": "Studyplus, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/39.png",
+    "twitterAccount": "@studyplusjp",
+    "hasBooth": false,
+    "sort": 38
+  },
+  {
+    "id": "40",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://caraquri.com",
+    "companyName": {
+      "ja": "からくり株式会社",
+      "en": "Caraquri Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/40.png",
+    "twitterAccount": "@caraquri",
+    "hasBooth": false,
+    "sort": 39
+  },
+  {
+    "id": "44",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.quocard.com/",
+    "companyName": {
+      "ja": "株式会社クオカード",
+      "en": "QUO CARD Co.,Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/44.png",
+    "twitterAccount": "@quocardofficial",
+    "hasBooth": false,
+    "sort": 40
+  },
+  {
+    "id": "50",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.recruit-mp.co.jp/career_engineer/",
+    "companyName": {
+      "ja": "株式会社リクルートマーケティングパートナーズ",
+      "en": "Recruit Marketing Partners Co., Ltd."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/50.png",
+    "twitterAccount": null,
+    "hasBooth": false,
+    "sort": 41
+  },
+  {
+    "id": "6",
+    "plan": "COMMITTEE_SUPPORT",
+    "planDetail": "N_A",
+    "companyUrl": "https://kdx.co.jp",
+    "companyName": {
+      "ja": "株式会社KADOKAWAConnected",
+      "en": "KADOKAWA Connected Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/6.png",
+    "twitterAccount": null,
+    "hasBooth": false,
+    "sort": 42
+  },
+  {
+    "id": "52",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://medpeer.co.jp/",
+    "companyName": {
+      "ja": "メドピア株式会社",
+      "en": "MedPeer,Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/52.png",
+    "twitterAccount": "@medpeer_post",
+    "hasBooth": false,
+    "sort": 43
+  },
+  {
+    "id": "53",
+    "plan": "SUPPORTER",
+    "planDetail": "N_A",
+    "companyUrl": "https://www.i3-systems.com/",
+    "companyName": {
+      "ja": "株式会社アイキューブドシステム",
+      "en": "i³ Systems, Inc."
+    },
+    "companyLogoUrl": "https://api.droidkaigi.jp/images/2020/sponsors/53.png",
+    "twitterAccount": "@i3systems",
+    "hasBooth": false,
+    "sort": 44
+  }
+]
