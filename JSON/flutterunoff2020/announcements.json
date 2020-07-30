@@ -1,0 +1,20 @@
+[
+  {
+    "id": 83,
+    "title": "DroidKaigi 2020 へようこそ!",
+    "content": "DroidKaigiはエンジニアが主役のAndroidカンファレンスです。このアプリも皆さんの支援によって作られました。2月20日から21日の2日間、皆さんとお会い出来ることを運営メンバー一同楽しみにしています！",
+    "type": "NOTIFICATION",
+    "publishedAt": "2020-02-15T22:30:04+09:00",
+    "language": "JAPANESE",
+    "isWithdrawn": false
+  },
+  {
+    "id": 87,
+    "title": "DroidKaigi 2020 2/20-21 開催中止のお知らせ",
+    "content": "DroidKaigi実行委員会です\n\nDroidKaigi 2020 につきまして、開催可否の検討を続けてまいりましたが、\n現在の状況での開催は困難であるとの結論に達しました。\n非常に残念ではあるのですが、2/20,21での開催は現時点をもって中止とさせていただきます。\n延期等につきましては検討中となります。\n\n詳細につきましては Medium 記事内の本日の更新内容をご参照ください。\nhttps://link.medium.com/69m2oLJAG3\n返金等の対応に関しても上記 Medium 記事中にありますので、合わせてご確認ください。\n\n楽しみにしてくださっていた皆様、申し訳ありません。\nまたお会いできる日を、我々も楽しみにしています。",
+    "type": "ALERT",
+    "publishedAt": "2020-02-16T14:41:42+09:00",
+    "language": "JAPANESE",
+    "isWithdrawn": false
+  }
+]
