@@ -36,6 +36,26 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
