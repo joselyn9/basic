@@ -205,6 +205,12 @@
       ],
       "enum": [
         "fruit"
+      ],
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "citrus"
       ]
     },
     "pricetype": "Per Kg",
@@ -245,6 +251,12 @@
       ],
       "enum": [
         "home"
+      ],
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "citrus"
       ]
     },
     "pricetype": "Per Kg",
