@@ -204,7 +204,7 @@
         "string"
       ],
       "enum": [
-        "Fruit"
+        "Categories.fruit"
       ]
     },
     "pricetype": "Per Kg",
