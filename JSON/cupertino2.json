@@ -124,7 +124,8 @@
         "string"
       ],
       "enum": [
-        "accessories"
+        "accessories",
+        "flower"
       ]
     },
     "pricetype": "Per Kg",
@@ -164,7 +165,8 @@
         "string"
       ],
       "enum": [
-        "home"
+        "home",
+        "accessories"
       ]
     },
     "pricetype": "Per Dozen",
