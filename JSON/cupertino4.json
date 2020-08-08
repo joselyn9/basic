@@ -11,7 +11,7 @@
     "isFeatured": false,
     "pricetype": "PerDozen",
     "category1": "fruit",
-    "category": "all",
+    "category": {"all"},
     "quantities": [
       "1",
       "2",
@@ -73,7 +73,7 @@
     "isFeatured": false,
     "pricetype": "PerDozen",
     "category1": "fruit",
-    "category": "home",
+    "category": {"home"},
     "quantities": [
       "1",
       "2",
@@ -137,7 +137,7 @@
     "isFeatured": false,
     "pricetype": "PerKg",
     "category1": "fruit",
-    "category": "accessories",
+    "category": {"accessories"},
     "quantities": [
       "1",
       "2",
@@ -194,7 +194,7 @@
     "price": 400,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": "home",
+    "category": {"home"},
     "quantities": [
       "1",
       "2",
@@ -251,7 +251,7 @@
     "price": 400,
     "isFeatured": false,
     "pricetype": "PerKg",
-    "category": "clothing",
+    "category": {"clothing"},
     "quantities": [
       "1",
       "2",
@@ -308,7 +308,7 @@
     "price": 105,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": "clothing",
+    "category": {"clothing"},
     "quantities": [
       "1",
       "2",
@@ -364,7 +364,7 @@
     "price": 106,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": "accessories",
+    "category": {"accessories"},
     "quantities": [
       "1",
       "2",
@@ -421,12 +421,7 @@
     "price": 106,
     "isFeatured": false,
     "category": {
-      "enum": [
-        "fruit"
-      ],
-      "type": [
-        "string"
-      ]
+      "home",
     },
     "pricetype": "PerKg",
     "quantities": [
