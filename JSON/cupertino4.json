@@ -11,7 +11,8 @@
     "isFeatured": false,
     "pricetype": "PerDozen",
     "category1": "fruit",
-    "category": {"all"},
+    "category": 
+      "all",
     "quantities": [
       "1",
       "2",
@@ -73,7 +74,7 @@
     "isFeatured": false,
     "pricetype": "PerDozen",
     "category1": "fruit",
-    "category": {"home"},
+    "category": "home",
     "quantities": [
       "1",
       "2",
@@ -137,7 +138,7 @@
     "isFeatured": false,
     "pricetype": "PerKg",
     "category1": "fruit",
-    "category": {"accessories"},
+    "category": "accessories",
     "quantities": [
       "1",
       "2",
@@ -194,7 +195,7 @@
     "price": 400,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": {"home"},
+    "category": "home",
     "quantities": [
       "1",
       "2",
@@ -251,7 +252,7 @@
     "price": 400,
     "isFeatured": false,
     "pricetype": "PerKg",
-    "category": {"clothing"},
+    "category": "clothing",
     "quantities": [
       "1",
       "2",
@@ -308,7 +309,7 @@
     "price": 105,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": {"clothing"},
+    "category": "clothing",
     "quantities": [
       "1",
       "2",
@@ -364,7 +365,7 @@
     "price": 106,
     "isFeatured": false,
     "pricetype": "PerDozen",
-    "category": {"accessories"},
+    "category": "accessories",
     "quantities": [
       "1",
       "2",
@@ -420,9 +421,7 @@
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/orange.jpg",
     "price": 106,
     "isFeatured": false,
-    "category": {
-      "home",
-    },
+    "category": "home",
     "pricetype": "PerKg",
     "quantities": [
       "1",
