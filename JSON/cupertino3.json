@@ -43,6 +43,10 @@
         "id": "2"
       }
     ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
     "trivia": [
       {
         "correctAnswerIndex": 1,
@@ -109,6 +113,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1apricot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2apricot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -151,6 +179,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1avacado",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2avacado",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -192,6 +244,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1banana",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2banana",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -232,6 +308,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1grapes",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2grapes",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -270,6 +370,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lemon",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2lemon",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -311,6 +435,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lime",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2lime",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -350,6 +498,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1orange",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2orange",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -391,6 +563,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1papaya",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2papaya",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -430,6 +626,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1pineapple",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2pineapple",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -471,6 +691,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Pomegranate",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Pomegranate",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -510,6 +754,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Strawberry",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Strawberry",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -551,6 +819,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1WaterMelon",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2WaterMelon",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -590,6 +882,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Plum",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Plum",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -631,6 +947,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Beetroot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Beetroot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -670,6 +1010,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cabbage",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cabbage",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -711,6 +1075,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Carrot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Carrot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -750,6 +1138,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -791,6 +1203,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -830,6 +1266,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -871,6 +1331,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -910,6 +1394,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -951,6 +1459,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -990,6 +1522,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -1031,6 +1587,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -1070,6 +1650,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -1111,6 +1715,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -1150,6 +1778,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -1191,6 +1843,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -1230,6 +1906,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -1271,6 +1971,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -1310,6 +2034,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   },
@@ -1351,6 +2099,30 @@
         "values": "2",
         "id": "2"
       }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
     ]
   },
   {
@@ -1390,6 +2162,30 @@
       {
         "values": "2",
         "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.9060,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
       }
     ]
   }
