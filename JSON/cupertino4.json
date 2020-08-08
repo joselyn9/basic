@@ -1,0 +1,477 @@
+[
+  {
+    "product": "Apple",
+    "name": "Apple",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apple.jpg",
+    "description": "Fruit",
+    "qttymax": 2,
+    "qttysteps": 1,
+    "id": 0,
+    "price": 100,
+    "isFeatured": false,
+    "pricetype": "PerDozen",
+    "category1": "fruit",
+    "category": "all",
+    "quantities": [
+      "1",
+      "2",
+      "3"
+    ],
+    "images": [
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "Apricot",
+    "name": "Apricot",
+    "description": "Fruit",
+    "qttysteps": 1,
+    "qttymax": 3,
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apricot.jpg",
+    "id": 1,
+    "price": 101,
+    "isFeatured": false,
+    "pricetype": "PerDozen",
+    "category1": "fruit",
+    "category": "home",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "images": [
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1apricot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2apricot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "price": 300,
+    "product": "Avacado",
+    "qttymax": 3,
+    "name": "Avacado",
+    "qttysteps": 1,
+    "description": "Avacado",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/avacado.jpg",
+    "isFeatured": false,
+    "pricetype": "PerKg",
+    "category1": "fruit",
+    "category": "accessories",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1avacado",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2avacado",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "product": "Banana",
+    "name": "Banana",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/banana.jpg",
+    "price": 400,
+    "isFeatured": false,
+    "pricetype": "PerDozen",
+    "category": "home",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1banana",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2banana",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "product": "Grapes",
+    "name": "Grapes",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/grapes.jpg",
+    "price": 400,
+    "isFeatured": false,
+    "pricetype": "PerKg",
+    "category": "clothing",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1grapes",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2grapes",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "product": "Lemon",
+    "name": "Lemon",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/lemon.jpg",
+    "price": 105,
+    "isFeatured": false,
+    "pricetype": "PerDozen",
+    "category": "clothing",
+    "quantities": [
+      "1",
+      "2",
+      "3"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lemon",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2lemon",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "product": "Lime",
+    "name": "Lime",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/lime.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "pricetype": "PerDozen",
+    "category": "accessories",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lime",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2lime",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "product": "Orange",
+    "name": "Orange",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/orange.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1orange",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2orange",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  }
+]
