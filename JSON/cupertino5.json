@@ -1,0 +1,2566 @@
+[
+  {
+    "product": "Apple",
+    "name": "Apple",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apple.jpg",
+    "description": "Fruit",
+    "qttymax": 2,
+    "qttysteps": 1,
+    "id": 0,
+    "price": 100,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "all"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "category1": "fruit",
+    "quantities": [
+      "1",
+      "2",
+      "3"
+    ],
+    "images": [
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile3.jpg"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "product": "Apricot",
+    "name": "Apricot",
+    "description": "Fruit",
+    "qttysteps": 1,
+    "qttymax": 3,
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apricot.jpg",
+    "id": 1,
+    "price": 101,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "clothing"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "category1": "fruit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "images": [
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1apricot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2apricot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "price": 300,
+    "product": "Avacado",
+    "qttymax": 3,
+    "name": "Avacado",
+    "qttysteps": 1,
+    "description": "Avacado",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/avacado.jpg",
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "accessories",
+        "flower"
+      ]
+    },
+    "pricetype": "PerKg",
+    "category1": "fruit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1avacado",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2avacado",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "product": "Banana",
+    "name": "Banana",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/banana.jpg",
+    "price": 400,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "home",
+        "accessories"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1banana",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2banana",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "product": "Grapes",
+    "name": "Grapes",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/grapes.jpg",
+    "price": 400,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "citrus"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1grapes",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2grapes",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "product": "Lemon",
+    "name": "Lemon",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/lemon.jpg",
+    "price": 105,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "citrus"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "quantities": [
+      "1",
+      "2",
+      "3"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lemon",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2lemon",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "product": "Lime",
+    "name": "Lime",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/lime.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "all"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1lime",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2lime",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "product": "Orange",
+    "name": "Orange",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/orange.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1orange",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2orange",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "product": "Papaya",
+    "name": "Papaya",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/papaya.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "home"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1papaya",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2papaya",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "product": "Pineapple",
+    "name": "Pineapple",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pineapple.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1pineapple",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2pineapple",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "product": "Pomegranate",
+    "name": "Pomegranate",
+    "qttymax": 6,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pomegranate.jpg",
+    "price": 106,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Pomegranate",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Pomegranate",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "product": "Strawberry",
+    "name": "Strawberry",
+    "qttymax": 6,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/strawberry.jpg",
+    "price": 111,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Strawberry",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Strawberry",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "product": "WaterMelon",
+    "name": "Watermelon",
+    "qttymax": 6,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/watermelon.jpg",
+    "price": 112,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1WaterMelon",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2WaterMelon",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "product": "Plum",
+    "name": "Plum",
+    "qttymax": 10,
+    "qttysteps": 1,
+    "description": "Fruit",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/plum.jpg",
+    "price": 112,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "fruit"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Plum",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Plum",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "product": "Beetroot",
+    "name": "Beetroot",
+    "qttymax": 10,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/beetroot.jpg",
+    "price": 112,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "vegetable"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Beetroot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Beetroot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "product": "Cabbage",
+    "name": "Cabbage",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/cabbage.jpg",
+    "price": 112,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "vegetable"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cabbage",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cabbage",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "product": "Carrot",
+    "name": "Carrot",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/carrot.jpg",
+    "price": 112,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "vegetable"
+      ],
+      "type": [
+        "string"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Carrot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Carrot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "product": "Cauliflower",
+    "name": "Cauliflower",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/cauliflower.jpg",
+    "price": 118,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "product": "Cucumber / Kakdi",
+    "name": "Cucumber / Kakdi",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/cucumber.jpg",
+    "price": 8,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "product": "Dhoodhi /\n Bottle gourd ",
+    "name": "Dhoodhi/\n Bottle gourd",
+    "qttymax": 3,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/dhoodhi.jpg",
+    "price": 15,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "product": "Baigan/ Eggplant ",
+    "name": "Baigan/ Eggplant ",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/eggplant.jpg",
+    "price": 22,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "product": "Methi / Fenugreek",
+    "name": "Methi / Fenugreek",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/fenugreek_methi.jpg",
+    "price": 32,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "product": "Muli / Radish",
+    "name": "Muli / Radish",
+    "qttymax": 8,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/muli.jpg",
+    "price": 30,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "product": "Mushroom",
+    "name": "Mushroom",
+    "qttymax": 8,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/mushroom.jpg",
+    "price": 36,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "product": "Okra/Bhendi",
+    "name": "Okra/Bhendi",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/okra-bhendi.jpg",
+    "price": 33,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "product": "Onion/ Kandha",
+    "name": "Onion/ Kandha",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/onion.jpg",
+    "price": 30,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "product": "Peas/Mattar",
+    "name": "Peas/Matter",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pea.jpg",
+    "price": 30,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "product": "Pear",
+    "name": "Pear",
+    "qttymax": 4,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pear.jpg",
+    "price": 30,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "product": "Pepper Green/ Shimla Mirchi",
+    "name": "Pepper Green/ Shimla Mirchi",
+    "qttymax": 4,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pepper-green.jpg",
+    "price": 30,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "product": "Pepper Red/ Shimla Mirchi",
+    "name": "Pepper Red/ Shimla Mirchi",
+    "qttymax": 4,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pepper-red.jpg",
+    "price": 34,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerPiece",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "product": "Potato / Aloo",
+    "name": "Potato / Aloo",
+    "qttymax": 4,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/potato.jpg",
+    "price": 34,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "product": "Pumpkin",
+    "name": "Pumpkin",
+    "qttymax": 4,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/pumkin.jpg",
+    "price": 35,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "product": "Spinach / Palak",
+    "name": "Spinach / Palak",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/spinach.jpg",
+    "price": 45,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "enum": [
+        "home"
+      ],
+      "type": [
+        "vegetable"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "product": "Tomato",
+    "name": "Tomato",
+    "qttymax": 5,
+    "qttysteps": 1,
+    "description": "Veg",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/tomato.jpg",
+    "price": 22,
+    "isFeatured": false,
+    "accentColor": "Color(0x40de8c66)",
+    "seasons": [
+      "Season.winter",
+      "Season.spring",
+      "Season.summer",
+      "Season.autumn"
+    ],
+    "vitaminAPercentage": 2,
+    "vitaminCPercentage": 8,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 130,
+    "category": {
+      "type": [
+        "vegetable"
+      ],
+      "enum": [
+        "home"
+      ]
+    },
+    "pricetype": "PerKg",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 72.906,
+      "latitude": 19.1176
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 3,
+        "question": "question1Cauliflower",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 2,
+        "question": "question2Cauliflower",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  }
+]
