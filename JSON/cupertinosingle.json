@@ -11,10 +11,10 @@
     "isFeatured": false,
     "accentColor": "Color(0x40de8c66)",
     "seasons": [
-      "Season.winter",
-      "Season.spring",
-      "Season.summer",
-      "Season.autumn"
+      "winter",
+      "spring",
+      "summer",
+      "autumn"
     ],
     "vitaminAPercentage": 2,
     "vitaminCPercentage": 8,
@@ -91,10 +91,10 @@
     "isFeatured": false,
     "accentColor": "Color(0x40de8c66)",
     "seasons": [
-      "Season.winter",
-      "Season.spring",
-      "Season.summer",
-      "Season.autumn"
+      "winter",
+      "spring",
+      "summer",
+      "autumn"
     ],
     "vitaminAPercentage": 2,
     "vitaminCPercentage": 8,
