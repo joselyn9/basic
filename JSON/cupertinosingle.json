@@ -80,6 +80,150 @@
     ]
   },
   {
+    "product": "Apricot",
+    "name": "Apricot",
+    "description": "Fruit",
+    "qttysteps": 1,
+    "qttymax": 3,
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/apricot.jpg",
+    "id": 1,
+    "price": 101,
+    "isFeatured": false,
+    "seasons": [
+      "Season.winter"
+    ],
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "clothing"
+      ]
+    },
+    "pricetype": "PerDozen",
+    "category1": "fruit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "images": [
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg",
+      "http://gardenpaper.in/wp-content/uploads/flutter/profile2.jpg"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1apricot",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2apricot",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "price": 300,
+    "product": "Avacado",
+    "qttymax": 3,
+    "name": "Avacado",
+    "qttysteps": 1,
+    "description": "Avacado",
+    "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/avacado.jpg",
+    "isFeatured": false,
+    "seasons": [
+      "Season.winter",
+      "Season.autumn"
+    ],
+    "category": {
+      "type": [
+        "string"
+      ],
+      "enum": [
+        "accessories",
+        "flower"
+      ]
+    },
+    "pricetype": "PerKg",
+    "category1": "fruit",
+    "quantities": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "quantity": {
+      "t1": "2",
+      "t2": "2"
+    },
+    "qtty": [
+      {
+        "values": "1",
+        "id": "1"
+      },
+      {
+        "values": "2",
+        "id": "2"
+      }
+    ],
+    "coordinates": {
+      "longitude": 82.1943,
+      "latitude": 26.7956
+    },
+    "trivia": [
+      {
+        "correctAnswerIndex": 1,
+        "question": "question1avacado",
+        "answers": [
+          "answer1",
+          "answer2",
+          "answer3"
+        ]
+      },
+      {
+        "correctAnswerIndex": 1,
+        "question": "question2avacado",
+        "answers": [
+          "answer21",
+          "answer22",
+          "answer23"
+        ]
+      }
+    ]
+  },
+  {
     "id": 33,
     "product": "Tomato",
     "name": "Tomato",
