@@ -89,7 +89,7 @@
     "id": 1,
     "price": 101,
     "isFeatured": false,
-    "accentColor": "0x40de8c77"
+    "accentColor": "0x40de8c77",
     "seasons": [
       "Season.winter"
     ],
@@ -164,7 +164,7 @@
     "description": "Avacado",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/avacado.jpg",
     "isFeatured": false,
-    "accentColor": "0x40de8866"
+    "accentColor": "0x40de8866",
     "seasons": [
       "Season.winter",
       "Season.autumn"
