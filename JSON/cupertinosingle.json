@@ -9,7 +9,7 @@
     "id": 0,
     "price": 100,
     "isFeatured": false,
-    "accentColor": "Color(0x40de8c66)",
+    "accentColor": "0x40de8c66",
     "seasons": [
       "Season.winter",
       "Season.spring",
@@ -89,6 +89,7 @@
     "id": 1,
     "price": 101,
     "isFeatured": false,
+    "accentColor": "0x40de8c77"
     "seasons": [
       "Season.winter"
     ],
@@ -163,6 +164,7 @@
     "description": "Avacado",
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/avacado.jpg",
     "isFeatured": false,
+    "accentColor": "0x40de8866"
     "seasons": [
       "Season.winter",
       "Season.autumn"
@@ -233,7 +235,7 @@
     "imageUrl": "http://gardenpaper.in/wp-content/uploads/app_grocery/tomato.jpg",
     "price": 22,
     "isFeatured": false,
-    "accentColor": "Color(0x40de8c66)",
+    "accentColor": "0x40de8c11",
     "seasons": [
       "Season.winter",
       "Season.spring",
