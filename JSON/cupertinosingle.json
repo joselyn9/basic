@@ -103,6 +103,10 @@
     },
     "pricetype": "PerDozen",
     "category1": "fruit",
+    "vitaminAPercentage": 22,
+    "vitaminCPercentage": 28,
+    "servingSize": "One large apricot",
+    "caloriesPerServing": 230,
     "quantities": [
       "1",
       "2",
@@ -180,6 +184,10 @@
     },
     "pricetype": "PerKg",
     "category1": "fruit",
+    "vitaminAPercentage": 32,
+    "vitaminCPercentage": 38,
+    "servingSize": "One large apple",
+    "caloriesPerServing": 330,
     "quantities": [
       "1",
       "2",
@@ -254,6 +262,10 @@
       ]
     },
     "pricetype": "PerKg",
+    "vitaminAPercentage": 42,
+    "vitaminCPercentage": 48,
+    "servingSize": "One large tomato",
+    "caloriesPerServing": 430,
     "quantities": [
       "1",
       "2",
