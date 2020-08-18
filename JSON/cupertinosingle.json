@@ -25,7 +25,7 @@
         "string"
       ],
       "enum": [
-        "all"
+        "Category.all"
       ]
     },
     "pricetype": "PerDozen",
@@ -98,7 +98,7 @@
         "string"
       ],
       "enum": [
-        "clothing"
+        "Category.fruit"
       ]
     },
     "pricetype": "PerDozen",
@@ -174,8 +174,8 @@
         "string"
       ],
       "enum": [
-        "accessories",
-        "flower"
+        "Category.vegetable",
+        "Category.flower"
       ]
     },
     "pricetype": "PerKg",
@@ -250,7 +250,7 @@
         "vegetable"
       ],
       "enum": [
-        "home"
+        "Category.fruit"
       ]
     },
     "pricetype": "PerKg",
