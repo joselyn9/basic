@@ -1,0 +1,660 @@
+[{
+	"id": "1eEWxQITulnEsg5h4c4vOG",
+	"title": "Testing Flutter Applications",
+	"authors": [{
+		"id": "igxfbZXlMRp57MUsTpLq9",
+		"name": "Rafał Ślósarz",
+		"longBio": "Rafał is an Android and Flutter developer with a strong hardware background. He has experience with leading big scale projects. Lastly, he jumped into fresh area of car-sharing and become CTO of \nTake&Drive\n. He is also strongly involved in the development of the Flutter community being the founder of Poznan Flutter Developer Group. In his free time, he loves sailing. His biggest dream is to sail around the world and take part in Sydney-Hobart Yacht Race.\n",
+		"occupation": "Mobile Engineer at Allegro\n",
+		"twitter": null,
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/18jZaO3ATGfgXa9f3IjcPW/cc415a9941df3f8fa66a53807e8e5ce0/Rafa__.png"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter provides us with a well-designed testing framework. Without adding a lot of dependencies we get a convenient setup to cover most of our everyday use cases. With this talk, we will see how this environment works under the hood. We will also get a better understanding of our testing toolset, seeing how it interacts with the framework.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/vl0CbG_-Ny8",
+	"startTime": "2020-01-24T10:30:00.000",
+	"endTime": "2020-01-24T11:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "1UCIT3NfQVIdlFJtjf54P0",
+	"title": "Lessons learned building the Invoice Ninja Flutter app",
+	"authors": [{
+		"id": "6E8EL8mVBkBsjA5qtwWp4F",
+		"name": "Hillel Coren",
+		"longBio": "Hillel is a co-founder of Invoice Ninja, the leading open-source invoicing solution. He's also a devoted husband and father, has a deep love of music and is a Google Developer Expert for Flutter.\n",
+		"occupation": "Co-Founder at Invoice Ninja\n",
+		"twitter": "https://twitter.com/hillelcoren",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/2gq9BoTA8ie3Lsq4souy1i/774d7e95344f1d0805384039f7872064/hillel.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"What's the best way to learn Flutter? It's practice. During the development of Invoice Ninja app I had an opportunity to gain a lot of experience and now I will gladly share it with you.\\nSome of the topics covered will include:\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Comparing Redux to other state management options\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Best practices for structuring the codebase\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Supporting responsive/tablet layouts\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Handling app persistence\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Managing forms\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Common pitfalls and gotchas\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"},{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Using a code generator to reduce boilerplate code\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"list-item\"}],\"nodeType\":\"unordered-list\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/G30K5wm7j_M",
+	"startTime": "2020-01-24T10:30:00.000",
+	"endTime": "2020-01-24T11:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "7AvXasDkFkhg3KzXqMIvyn",
+	"title": "Augmented Reality in Flutter",
+	"authors": [{
+		"id": "1hyfQeYQHFhQTuft3c1vob",
+		"name": "Oleksandr Leuschenko",
+		"longBio": "Oleksandr is the Head of Mobile department in Ciklum. He started a cross-platform mobile developer career back in 2012, for 4+ years worked as a Xamarin team technical leader. For the last 1.5 years he popularizes Flutter in Ukraine. Oleksandr is a public speaker, lecturer, AR enthusiast, and a mobile developer.\n",
+		"occupation": "Head of Mobile department at Ciklum\n",
+		"twitter": "https://twitter.com/olexale",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/4Sj8vHELeyDusjNyYZc6To/117f2169864cca40340385d4f833b8fa/ava_big.png"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Augmented Reality is the future of mobile. While big companies invest in hardware development, enthusiasts and artists all over the world work hard creating things which never existed and can't even exist physically! On the other hand, AR is not only about art. It is designed to be practical. From visualizing furniture in your flat during internet shopping to beautiful AR guides and assistant interfaces, AR may enrich your Flutter app right away! In this talk I will show you how!\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/lmiRYar996w",
+	"startTime": "2020-01-24T09:30:00.000",
+	"endTime": "2020-01-24T10:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "4bvttzAxM5ImmkdMiHJOHX",
+	"title": "The Tale of RxDart",
+	"authors": [{
+		"id": "2Pog2FfQJ46zHHGk4YzJz9",
+		"name": "Brian Egan",
+		"longBio": "Brian Egan is a Montana boy living in Berlin, Germany. He previously worked on popular web and Android applications for SoundCloud and Zappos. He now spends his time writing open source Dart code, developing his business, and scuba diving as often as possible.\nHe is the author of and contributor to several Dart libraries, including RxDart, redux, flutter_redux, and flutter_architecture_samples.\nYou can find his work at github.com/brianegan.\n",
+		"occupation": "Flutter Fanboy • Co-author of the Flutter Cookbook\n",
+		"twitter": "https://twitter.com/brianegan",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/6DkZi0n6pGOYcsXchSVDpw/1b75768ff4beb9030c20d87106fc91fe/Brian_Egan.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We’ll start in the early days of Flutter, in the time before any state management packages were published, StreamBuilder was nowhere to be found, and Gitter was still a viable chat solution. In this Wild West, how could folks architect their apps? What kind of challenges did early adopters face and how did we attempt to solve those challenges?\\nIn this talk, we’ll hone in on one of those potential solutions: RxDart. Through story telling and practical examples, we’ll walk through the problems I was attempting to solve and why RxDart was an interesting avenue for exploration. \\nSometimes, the journey teaches you more than the end result.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/Wfc5LMgWaRA",
+	"startTime": "2020-01-24T09:30:00.000",
+	"endTime": "2020-01-24T10:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "1FX8h8jMYEii1DcKn8xT2x",
+	"title": "Strategic Domain-Driven Design for Improving Flutter architecture",
+	"authors": [{
+		"id": "8MfYDq8udIIoIbKcAJaVc",
+		"name": "Majid Hajian",
+		"longBio": "Majid Hajian is a passionate software developer with years of developing and architecting complex web and mobile applications. He is passionate about web platform especially flutter, IoT, PWAs, and performance. He loves sharing his knowledge with the community by writing and speaking, contributing to open source and organizing meetups and events. Majid is the author of \"Progressive web app with Angular\" book by Apress and \"Progressive Web Apps\" video course by PacktPub and Udemy. He is (co)organizer of a few mobile and web meetups in Norway as well as Nordic conferences for mobile and Angular, Mobile Era and ngVikings.\n",
+		"occupation": "Head of Engineering at Softiware AS\n",
+		"twitter": "https://twitter.com/mhadaily",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/63SPUHjhsAdAhfUakTaQX2/a91c0da0e617cbe690c49eea9f55f6bd/majid.jpeg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Architecting software, especially on a large-scale where it needs to meet the business requirements is always a challenge and Flutter apps are not an exception. \\n\\nStrategic Domain-Driven Design techniques ensure your application is optimized to support business goals while identifying cohesive modules, known as bounded context which creates a maintainable, comprehensible codebase by isolating dependencies and describe business value.\\n\\nIn this talk, I explore the idea of the ubiquitous language, bounded context, sub-domains while they are being implemented in a real application. All in all, You'll learn how I attempted to architect a (large-scale) Flutter application by technical solutions and appropriate methodology in order to have a sustainable app.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/lGv6KV5u75k",
+	"startTime": "2020-01-23T16:45:00.000",
+	"endTime": "2020-01-23T17:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "2oxRSBcnR6QqMwhR65VnyY",
+	"title": "Everything you need to know about Provider",
+	"authors": [{
+		"id": "6pNBnaebES8WlSp6eR7qeo",
+		"name": "Rémi Rousselet",
+		"longBio": "A software engineer passionated in Flutter. Maintainer of 'provider' & 'flutter_hooks'.\nDeeply in love with Flutter, Remi spends a lot of time exchanging with the flutterverse. He particularly stands out with his presence on StackOverflow, with well over 800 answers to Flutter questions.\n",
+		"occupation": "Maintainer of 'provider' & 'flutter_hooks'.\n",
+		"twitter": "https://twitter.com/@remi_rousselet",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/1U6O9EDmtUFtiH0rBWvbZm/67b175a0d96f4ef1a052d2b846696b6f/remi.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Since the latest Google IO talk about state management, the package \\\"provider\\\"\\nis rapidly gaining in popularity.\\n\\nIn this talk, we will first see what provider is and what are the benefits of\\nusing it. Then we will see simple examples of how to implement common use-cases.\\n\\nThis talk is for newcomers to Flutter/provider. Prior experience in Flutter is\\nappreciated but not required.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/BulIREvHBWg",
+	"startTime": "2020-01-23T16:45:00.000",
+	"endTime": "2020-01-23T17:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "CZLGQi5gfwlYuPFOIqi9F",
+	"title": "Implementing complex UI with Flutter",
+	"authors": [{
+		"id": "4xOmSrR0ZYMq4rq5IWwjwB",
+		"name": "Marcin Szałek",
+		"longBio": "In love with Flutter since alpha release in 2017. Founder of Fidev - a software company specialized in Flutter. Co-organizer and speaker on Flutter Lodz Meetup. Enjoys sharing Flutter knowledge on blog \nfidev.io\n and on @FlutterCommunity. Proud collaborator of Material Design and Firebase packages. In free time he likes to find beautiful mobile designs on dribbble and implement them.\n",
+		"occupation": "Flutter developer and blogger\n",
+		"twitter": "https://twitter.com/marcin_szalek",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/7zpz3wOH9yFRCR1OccyFjh/879db3587fdb5ad55b670c493aa9cc4a/Marcin.png"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter was created to make beautiful apps but do we really know how to use it? When coming across complex designs we might think that they are impossible to implement or too difficult to handle without weeks of development. In this talk, I will show you how you can approach complex designs and translate them into widgets. We will look closely at some mobile designs, break them down and figure out how to code them.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/FCyoHclCqc8",
+	"startTime": "2020-01-23T15:45:00.000",
+	"endTime": "2020-01-23T16:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "3Fbe8Bw4VDIAu57Ecrv4qV",
+	"title": "Server-Side Steroids for your Flutter App!",
+	"authors": [{
+		"id": "34X7VMjCelsVFyHMF16obD",
+		"name": "Chirag Shenoy",
+		"longBio": "Chirag Shenoy works as a senior mobile developer at ShareChat, which is India's largest vernacular social media platform with over 100 Million downloads on the Google Play Store. He is extremely passionate about mobile technology and has worked on both Android and iOS for over 4 years, before falling in love with Flutter. He also he believes in the power of Internet, Software, Design thinking and a Whiteboard in solving some of the problems existing around us – Be it behavioural problems like procrastination or complex problems such as water scarcity or illiteracy.\n",
+		"occupation": "Senior Mobile Developer at ShareChat\n",
+		"twitter": null,
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/6h3secYFFPhM6T7FIgxpDS/422ecd05a82ddc53891e8ee8e485adf8/chirag.JPG"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How cool would it be to have an app which is completely controlled by the backend ? No, I don't mean A/B tests or deciding which colour a button should be, or what set of features should be available for a certain user.\\n\\nI mean EVERYTHING being controlled from the backend. Be it all your app layouts, handling click events, what API calls to make, maintaining local databases, deciding how to display content on different devices, or even what screen to show next ! Customisation and flexibility on Steroids.\\n\\nThis enables us teams to build, test and iterate on fully native Flutter applications - instantly.\\n\\nUsing this, it is now possible to build and push new features and screens without updating your app from the PlayStore/AppStore !\\n\\nAnd no, this is NOT using web views, or a PWA, or an inbuilt browser.\\nJUST - PURE - FLUTTER.\\n\\nJoin me, as we discuss how to architect a truly server side controlled app, building our own Markup and Parser using Flutter, creating reusable generic Widgets and Functions, which give you the ultimate flexibility to let your backend be your master and control your app !\\n\\nNo more app updates required !\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/Wi5pXmrMXyw",
+	"startTime": "2020-01-23T15:45:00.000",
+	"endTime": "2020-01-23T16:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "wvoqqlLsqUJoQw2tEtBC1",
+	"title": "Flutter at work",
+	"authors": [{
+		"id": "6vkd3mB5TII5oktcZ3OBzT",
+		"name": "Swav Kulinski",
+		"longBio": "Leading Android development team at one of the most recognized mobile agencies traded his skills for Flutter. Now, as Flutter Lead and Flutter GDE has a number of apps made for commercial clients.\n",
+		"occupation": "Lead Flutter Developer at TAB, Flutter GDE\n",
+		"twitter": "https://twitter.com/robotoasterdev",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/1yanbgcNW44fukJHgIXkCu/d268c05005357bc5c5bdbb6a9d75d237/swav.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Playing with Flutter is fun. Making a commercial app is another matter. For two years I am building Flutter apps for commercial clients. What is important? How to convince the client to use Flutter? What benefits Flutter can give me? What should I avoid when building Flutter apps?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/RUpE9qsLIFQ",
+	"startTime": "2020-01-23T13:45:00.000",
+	"endTime": "2020-01-23T14:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "6BYP069Mxz8kr6WL3a0GyS",
+	"title": "Is Flutter ready for enterprise-grade applications?",
+	"authors": [{
+		"id": "3kz1244lC9UKkWA7mkzyjm",
+		"name": "Kacper Branicki",
+		"longBio": "Kacper is a Mobile Technology Leader at DXC Technology for nearly 3 years. He is responsible for leading the development of IKO, mobile banking application at PKO BP, the biggest bank in Poland. Application IKO was voted twice in a row in 2018 and 2019 the best mobile banking application in the world, by banking magazine Retail Banker International.\nPreviously Kacper was developing the Windows Phone application of IKO for nearly 2 years and leading the development of application PKO Junior, which is mobile banking application designed for children under 13 years old.\nIn his free time, he is developing his secret startup project in Flutter with .Net Core.\n",
+		"occupation": "Mobile Technology Leader at DXC Technology\n",
+		"twitter": "kacperbranicki",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/2qGVBINzSY7PQnM0lgSxme/53bb2b71762abfbfe368f1e974542189/KacperBranicki.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This talk is a story of how to convince a corporate client to select Flutter as a next-gen framework to develop business mobile applications, which are used by millions of people.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/rL9piXwxpWw",
+	"startTime": "2020-01-23T13:45:00.000",
+	"endTime": "2020-01-23T14:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "5OMXsHxN3DBa3dKaBHIxGU",
+	"title": "Multiplatform Flutter. Building Adaptive UI",
+	"authors": [{
+		"id": "e9Qbu0EwPPgvWalmRC81c",
+		"name": "Alexandr Denisov",
+		"longBio": "Aleksander is experienced a lot in enterprise development, in IT for more than 15 years. He worked in the field of science, taxation, telecom and etc. Recently, he specialized mainly in a microservice architecture, but now his main interest is Flutter. Aleksandr is a Flutter enthusiast and Co-Head of Flutter Competency in EPAM, organizer of GDG Nizhny Novgorod community, host of podcasts Mobile People Talks and Flutter Dev Podcast.\n",
+		"occupation": "Co-Head of Flutter Competency at EPAM Systems\n",
+		"twitter": "https://twitter.com/shuregdenisov",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/35fhQD6GqKi5RzTylQfSK5/913af81aca455e66291476ab67a633b6/denisov1a.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter is a new multiplatform framework by Google. It allows you to create applications for different platforms (iOS, Android, Web, Desktop) with the same code base. But different platforms have different screen sizes, different guidelines, different methods of user interaction. How to make UI that looks great on any of the platforms? In his talk, Alexander will tell you how to create an adaptive responsive UI in a Flutter application.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/2pzzm_PWhmI",
+	"startTime": "2020-01-23T14:45:00.000",
+	"endTime": "2020-01-23T15:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "2pxLChHkFAEEBKzmtsRgVu",
+	"title": "Performance: Optimizing your Flutter app",
+	"authors": [{
+		"id": "I9dhktuXOLGeRtV51lY1x",
+		"name": "Filip Hráček",
+		"longBio": "Filip is a Developer Advocate on the Flutter team. In this role, he specializes in architectural guidance, performance tips, and deep dives.\nPrior to Google, Filip was an independent IT instructor. In his spare time, he builds games, reads books, and occasionally enjoys many pancakes.\n",
+		"occupation": "Developer Advocate on the Flutter team\n",
+		"twitter": "https://twitter.com/@filiphracek",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/69waF4XeCmUskeWXZ92GK4/746207ccd01460cb78c9693ce36b6d1a/filip_4x.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter apps are fast by default, but that doesn't mean you're completely off the hook. This talk will efficiently walk you through some of the usual pitfalls, and give you the tools you need to make your app execute fast, without jank, consume less memory, and drain less battery.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/SQcmrl_NkqY",
+	"startTime": "2020-01-23T14:45:00.000",
+	"endTime": "2020-01-23T15:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "3cizxSdpuoAidnlvgVO4jd",
+	"title": "Building Voice-First Flutter apps",
+	"authors": [{
+		"id": "3RF0xLR1VoqWA6o16Puqrq",
+		"name": "Elaine Dias Batista",
+		"longBio": "Elaine is a Team Leader and Developer Advocate at SFEIR, where she works on projects consisting of mobile and voice technologies. She's passionate about the new interactions that we can have with technology. She's a GDE for the Google Assistant.\n",
+		"occupation": "Developer Advocate & Team Leader at SFEIR\n",
+		"twitter": "https://twitter.com/elainedbatista",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/7gxfZZ1jxf6WL3pYWTPX1d/c5f5979ad2bedf511e2f3b6683dbf60b/elaine.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Thanks to the latest advancements in Machine Learning, we're now capable of interacting with machines through natural language. The age of voice assistants is here with Alexa, the Google Assistant and others. But, as an Android developer, what can I do on my existing app in relation to conversational features?\\n\\nWhen we think about developing features that are voice-forward, we think about existing voice assistants such as Alexa and the Google Assistant. What about the fully-capable computers that we have with us all the time, our smartphones? Some moments on our day to day lives are very well suited for voice interactions: while in a car or cooking for example. Let's not forget that voice interactions are extremely accessible, not only in a physical way (for people with dexterity or motion impediments) but also in a cognitive way (I think we all have a loved one in our lives that really struggles with technology, and people from some emerging countries have very limited access to computers and are not at ease with technology).\\n\\nIn this talk, I'll explain what integrations can be done on Flutter apps:\\n- Flutter Packages that take advantage of APIs provided by Google or Apple\\n- Other packages that integrate with other solutions such as ML Kit, TensorFlow and Dialogflow\\n- 3rd-party solutions such as Porcupine, Snips, Amazon Lex, Snowboy and PocketSphinx\\n- On Android: Integration with the Google Assistant via App Actions\\n- On iOS: Integration with Siri (SiriKit, Siri Shortcuts)\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/L-c-ZyX-KtY",
+	"startTime": "2020-01-23T11:45:00.000",
+	"endTime": "2020-01-23T12:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "4qWK0jtf4Gj2k0G6UFKtnw",
+	"title": "Navigator and Routes and Transitions... Oh, My!",
+	"authors": [{
+		"id": "1K75rU3asRsLz5dJCHce3Y",
+		"name": "Simon Lightfoot",
+		"longBio": "Simon loves Flutter and believes its the future of Mobile development. Co-founder Flutter Study Group on Slack, HumpdayQandA and Flutter Community Lead. He's been writing code for 18+ years, of which the last 10 years has been professional Android development. He discovered Flutter in Oct 2017 and since then has not looked back.\n",
+		"occupation": "CTO at DevAngels\n",
+		"twitter": "https://twitter.com/devangelslondon",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/4ACMGEO2pQKqkeHDs3UySg/b56995794b07134509121dcaeb33fe05/Simon_Lightfoot.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"If you’ve ever tried Flutter then you’ll have tried Navigator. You also might be confused with how it works. Simon will explain how Navigator, Routes, Transitions work, and give advice and practical use cases of how to use them. What is the future of Navigator on Flutter?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/4CYTTW6PMoc",
+	"startTime": "2020-01-23T11:45:00.000",
+	"endTime": "2020-01-23T12:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "1ih3vYxjUUN9lOR5E0PEMF",
+	"title": "Flutter, what are Widgets, RenderObjects and Elements?",
+	"authors": [{
+		"id": "2cCYlQeT9x8bdDxDBQZOiM",
+		"name": "Norbert Kozsir",
+		"longBio": "Norbert is a Flutter developer and computer science student.\n",
+		"occupation": "Flutter dev\n",
+		"twitter": "https://twitter.com/norbertkozsir",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/31Z8Gw6KXEOV330xcbJVK7/e8bbe2007c9d7a393509f8466afb85f4/norbert.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"How does Flutter turn widgets into pixels? Taking a look at the inner workings of Flutter and understanding the layers beyond the widgets-layer.\\n\\nWe first take a look at how building an app using bare dart.ui looks like and how that relates to operations in OpenGL. After that, we introduce the first layer of abstraction, the RenderObjects.\\n\\nWe then take a look at different RenderObjects inside the framework and understand how they work.\\nLastly, we investigate the connection between the well-known widgets and RenderObjects, the so-called Elements. We learn what the BuildContext actually is and how everything is connected.\\n\\nAfter gaining a good overview of the field, we write our very own RenderObject which implements some custom layout and paint algorithm.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": "https://youtu.be/PnWxW21vDak",
+	"startTime": "2020-01-23T10:45:00.000",
+	"endTime": "2020-01-23T11:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "6YNhxcF5BtwHrde85eELMI",
+	"title": "Flutter for desktop - what is it good for?",
+	"authors": [{
+		"id": "2mSuFkcgM8uhytwxwVk9Te",
+		"name": "Dominik Roszkowski",
+		"longBio": "Dominik is a Flutter developer, coorganizer of Flutter Warsaw Meetup and blogger at roszkowski.dev. He is a deputy manager of PW-Sat2 student satellite project. The PW-Sat2 satellite was sent into orbit on-board Falcon 9 rocket in December 2018 and till now is still operational.\nHe likes ramen.\n",
+		"occupation": "Flutter Developer\n",
+		"twitter": "https://twitter.com/OrestesGaolin",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/5Nn8IhvPNlQT1BT144ufHh/1fb0d17fd400c2f9ab3743f92f3afc2e/0166_DSC6390.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter is capable to run on multiple form factors and operating systems. Although desktop support is still in experimental phase, there are some use cases where Flutter for desktop may be viable option for greenfield projects.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"In this talk you'll learn what is the current state of the Flutter desktop embedding project, how to configure simple cross-platform desktop app and create your own plugin. Dominik will show what are the most serious limitations and what to expect in upcoming months.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": "https://youtu.be/ri4V8CjCKbY",
+	"startTime": "2020-01-23T10:45:00.000",
+	"endTime": "2020-01-23T11:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "iFZ4byHpcuezjObe8ZIuT",
+	"title": "Closing keynote",
+	"authors": [{
+		"id": "7y4DXuEA3uimb4t5oEiHMs",
+		"name": "Dylan Beattie",
+		"longBio": "Dylan Beattie is a consultant, software developer and international keynote speaker. He’s been building web applications since the 1990s, and works primarily on Microsoft .NET, HTTP APIs, UX design, and distributed systems.\nDylan lives and works in London and when he’s not writing code he plays guitar and writes songs.\n",
+		"occupation": "Hi there. I'm Dylan.\n",
+		"twitter": "https://twitter.com/dylanbeattie",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/1XXiH4xT0jNfvrzmk5paq0/951c65d04b7e3b2c9d1727727dce8768/dylanbeattie_by_reverentgeek.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"I do interesting things with computers, code, comedy, music and video – then I travel all over the world and tell people about it. I've given keynote talks at software conferences on four continents, I invented a joke programming language that made it into Classic Rock magazine, and I own the \",\"nodeType\":\"text\"},{\"data\":{\"uri\":\"http://ibless.therains.downin.africa/\"},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"best web address in the history of the internet\",\"nodeType\":\"text\"}],\"nodeType\":\"hyperlink\"},{\"data\":{},\"marks\":[],\"value\":\".\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T17:45:00.000",
+	"endTime": "2020-01-24T18:30:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "25wyjv5N6UKOcY3822P6dP",
+	"title": "How to convince business to Flutter? Real-life cases",
+	"authors": [{
+		"id": "23beyLJDDpjXmi5czMMf25",
+		"name": "Łukasz Kosman",
+		"longBio": "Łukasz is cofounder & Managing Partner @LeanCode, Flutter Software Studio based at Warsaw, Poland, Cofounder @FlutterWarsaw and @FlutterEurope. Experienced Product Owner and UX Designer. Formerly CEO @Audioteka, founder in several startups (with exits) and active advisor for digital products. At Flutter Europe responsible for Partners, Sponsorships and Finance. Before breaking an ankle used to be a squash coach, now seeking comfort in tennis.\nHe seems to know how to count the money so we use his extraordinary skills, not to went bankrupt.\n",
+		"occupation": "Cofounder & Managing partner at LeanCode\n",
+		"twitter": "https://twitter.com/lukaszkosman",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/5DCfFWnylvEJ8exwON7cDU/854a70e2635a7937ae9ac5edbe0d0981/0058_DSC6384.jpg"
+	}, {
+		"id": "2BX2yGFsBk8708jdTdx57L",
+		"name": "Mateusz Wojtczak",
+		"longBio": "Charmed with Flutter from early beta, Mateusz builds Widgets in his day-to-day work. He hopes that one day his struggle for finding the perfect state management solution will end.\n",
+		"occupation": "Mobile Developer at LeanCode\n",
+		"twitter": "https://twitter.com/matiwojt",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/64Z562QRODH4qV3BYsufED/dd93c17d43b2c40c82af8a278d25978e/0p39v6BB_400x400.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"We will give you solid, experienced based arguments, which you can use to convince Product Owner and your CEO to use Flutter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T16:30:00.000",
+	"endTime": "2020-01-24T17:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "419BmJZwnKqNQTOE7nKlNg",
+	"title": "Afterparty at Klub Park!",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T20:30:00.000",
+	"endTime": "2020-01-23T03:00:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "5xcCg468LZERgn9qCWXGaB",
+	"title": "Forms with Flutter",
+	"authors": [{
+		"id": "6276ugLrfMzcYtX6itsaoY",
+		"name": "Roberta Goodhead",
+		"longBio": "Roberta is a Software Engineer working at the TAB (The App Business). Starting off with the .NET stack, she also has experience with AngularJS, React and Node.js, amongst others, with Flutter being the latest in her skillset. She has also dabbled with Xamarin, React Native and Ionic in her spare time.\nOutside of tech her hobbies include going to the cinema, travel, illustration and learning how to sew.\n",
+		"occupation": "Software Engineer at TAB\n",
+		"twitter": null,
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/2lHylP8wpSnr3pGvp5nArh/58ddad072ee89d34289a07cca39dba70/Roberta.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"This talk will be an overview of creating forms with Flutter. From the basics, including validation, focus behaviour and styling to the more advanced including integrating any type of widget into Flutter's Form system.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T13:30:00.000",
+	"endTime": "2020-01-24T14:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "3rmrLndX7WuMusMwIQIzgp",
+	"title": "Bring Flutter to web",
+	"authors": [{
+		"id": "17xrPTU7Y3TW0Kp0J64EZI",
+		"name": "Rihanna Kedir",
+		"longBio": "Rihanna is a software engineer, maker, and new tech enthusiast. She is Google Developer Expert in Web Technologies, a Women TechMakers Ambassador, co-leader GDG Rome, CoderDojoSpqr and CodeYourFuture Rome Mentor. She strongly believes in the importance of sharing knowledge and experience.\n",
+		"occupation": "Software Engineer\n",
+		"twitter": "https://twitter.com/rihanna_ke",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/6z3uFH4fUrrD54lieiSZ6Z/e66a1f2678a808a0cd461b2c5686c400/BioRi.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter is going beyond mobile to ‘run anywhere’ and web support is now available on the beta version. In this talk, we will see how to bring your flutter code into web browsers and checkout different scenarios that benefit from the use of the Flutter for Web.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T15:30:00.000",
+	"endTime": "2020-01-24T16:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "7qLezRJeIrI1wXmOBl1wJF",
+	"title": "Lunch break",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T12:15:00.000",
+	"endTime": "2020-01-24T13:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "4MIqHVn01sgwrS00qhSqJ9",
+	"title": "Lunch break",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T12:30:00.000",
+	"endTime": "2020-01-23T13:45:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "3i9s9QQ2EErKBY0KYBmfs9",
+	"title": "CI/CD in Flutter",
+	"authors": [{
+		"id": "6idNFD5A8s924X1omD18y0",
+		"name": "Priit Lätt",
+		"longBio": "Priit is a full stack developer at Nevercode. When he's not writing code he enjoys rock climbing.\n",
+		"occupation": "Senior Software Engineer at Nevercode\n",
+		"twitter": "https://github.com/priitlatt",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/74MLpkHGnt3tpSqfv55Km8/3f7318f330d9bc0e2913765c3e49da97/Pekka_600x600.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter apps run on Android, iOS, web, MacOS, Linux, Windows and other embedded devices. Your build server should be able to build apps for all of the platforms and scale as your team grows. \\n\\nUnfortunately, long build times and messy configurations can quickly scale as well and nobody likes to wait 60 mins to build hello world. So what is there for a lean mean dev team to do?\\n\\nPriit has been building CI systems before they were cool and knows a few tricks of the trait. Come along for a practical session of CI/CD with Flutter.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T14:30:00.000",
+	"endTime": "2020-01-24T15:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "3YcoBiZlHY30yyJv42c3rD",
+	"title": "Flutter at scale",
+	"authors": [{
+		"id": "4h2c5es5M9vJOFcfDYDKya",
+		"name": "Jorge Coca",
+		"longBio": "Spanish engineer lost in Chicago. He's writing the book \"Dart 2 In Action\" for Manning Publications. Works at BMW, in the mobile core tea, developing the Connected experiences for BMW and MINI. Prior to that, he was the Android dev. Now, he is a Flutter dev. \nLoves working with the community, and has the pleasure of running the Chicago Flutter Meetup, where they work all together to build a welcoming environment for everyone interested in Flutter and Dart.\n",
+		"occupation": "Senior Engineer at Very Good Ventures\n",
+		"twitter": "https://twitter.com/jcocaramos",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/6QkeOMOgNghi11M1ffP5tR/07eac8020521de988e9931a49e8a7489/jorge.jpeg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter has been out of beta for more than a year. It is an amazing framework UI that lets you run your code pretty much anywhere. There's a lot of expectations around it, incredible apps running at 60fps, but... is it ready to be adopted at scale?\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"},{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"At BMW, we faced that question a while ago, and the answer was YES! We tried it, we loved it, and we collected all the necessary information to prove that Flutter was the right choice for us. In this talk, let me show you our process to make Flutter our preferred tool for developing applications, and how we enable multiple teams around the world to deliver incredible experiences fast and safely.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T11:30:00.000",
+	"endTime": "2020-01-24T12:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "5r4U0nlOtPBajUeQxLR52e",
+	"title": "Painting with Rive and Flutter",
+	"authors": [{
+		"id": "SLztYzlhldP6uKtFfJJTS",
+		"name": "Umberto Sonnino",
+		"longBio": "Umberto is a Software Engineer at Rive, building a technology that empowers creatives and software developers alike.\nHe's been working with them since their very first product, Nima, and helped them build and launch Flare.\n\nBefore Rive, he worked at Amadeus in France and IBM in Rome - but a startup focusing on a single product that catered directly to customers proved to be the right challenge for him. \nHe started using Flutter in 2018 when building the \"Flutter Hot Reload Game\" for Google IO 18. He also worked on the \"History of Everything\", launched at Flutter Live later that same year.\n\nUmberto's passion for computers stemmed from his love for videogames and graphics. Together with his other passion - philosophy - he ended up studying Computer Science.\n",
+		"occupation": "Software Engineer at Rive\n",
+		"twitter": "https://twitter.com/bertorius",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/6Dq0Bm7bmM22yA5wxAuxS4/357b5bad4af0479fba7a0766f1563f83/umberto.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"A deep dive on how to draw your own widgets and how to build custom behavior in Rive.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T13:30:00.000",
+	"endTime": "2020-01-24T14:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "4pBP09SBP1nAgyGNT5TUKm",
+	"title": "Building games using Flame",
+	"authors": [{
+		"id": "1Rq9bg0Vvh8cEKcqra3fzw",
+		"name": "Luan Nico",
+		"longBio": "Luan is a Software Craftsman who loves Open Source and the community, currently in love with Dart/Flutter.\n\nHe has worked for more than 6 years professionally and for more years that he can remember as a hobby with a plethora of languages, platforms, and libraries. He likes to solve people's problems with technology, and believes there is always a good solution to every problem and a good problem for every solution; for that reason, he likes most programming languages that he has come in contact with, and is always thrilled to learn something new.\n\nHe also love Physics, and wanted to learn more about how the Universe works since he was a kid. That's why he took Physics as a graduation course, and his love is divided between Physics and Development.\n\nHe truly believes in Open Source and tries to make, if possible, everything he does open (libre) and free.\n",
+		"occupation": "Software Engineer at Faire\n",
+		"twitter": null,
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/CekIzsmrAL6UP8HSNpdzf/c73ebf2301639f75f8c007c2a7a15572/luannico.png"
+	}, {
+		"id": "7auguBQxUn1Z8ylM2G1jvo",
+		"name": "Renan C. Araújo",
+		"longBio": "Renan is software engineer who loves to use math and computer science to create awesome visual experiments\n",
+		"occupation": "Software Engineer at Dashdash \n",
+		"twitter": "https://twitter.com/__caraujo__",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/60FwdEmfrX9JtYVAb5w50Q/3fc675daf7f209acabe51c72cec8916f/anotherme.fd86154d.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flame is minimalist Flutter game engine, built using a modular approach over the Flutter APIs to provide a complete set of out-of-the-way solutions for the common problems regarding game development. It contains modules for sprites, animations, game loop, component system, audio, input handling, common integrations, and much more.\\n\\nIn this talk, we will learn a bit more about game development in general, why Flutter is a perfect fit for mobile games, how the basic concepts around game engines work and, finally, how to actually use Flame to create a simple mobile game, with some live coding.\\n\\nWe will create a very simple game TBD, exploring some of the basic features of Flame, and you will leave the talk ready to start to deploy your creativity into code and have your game running in matter of minutes.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "advanced",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T15:30:00.000",
+	"endTime": "2020-01-24T16:15:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.advanced"
+	}
+}, {
+	"id": "6XG9Rw5Y5JwWCATv8VD567",
+	"title": "Animations in Flutter Done Right",
+	"authors": [{
+		"id": "2NzqbiVEtK51u1NJSupesy",
+		"name": "Emily Fortuna",
+		"longBio": "Emily is a developer advocate on the Flutter team at Google. When not educating people about the awesomeness of Flutter, she can be found working on improving fairness in machine learning or acting on the stage and screen. \nShe is an avid member of the nerdy joke appreciation society.\n",
+		"occupation": "Developer advocate on the Flutter team at Google\n",
+		"twitter": "https://twitter.com/bouncingsheep",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/2tiMD8mkBOYS3rkRi5drM3/d8b9f613bbea6360cc287106caa48aee/Emily_Full__1___5_.jpg"
+	}, {
+		"id": "1uP9CpRSEgErg3ZMssDJVr",
+		"name": "Andrew Fitz Gibbon",
+		"longBio": "Fitz is a developer advocate on the Flutter team at Google, specializing in education. So much so, that when not educating about Flutter, he lectures at local universities. Otherwise, Fitz fancies fun Flutter festivities and dabbles in minor wordplay.\n",
+		"occupation": "Developer Advocate at Google\n",
+		"twitter": "https://twitter.com/fitzface",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/5MNyP9vvCbMvvGIZZ5X3IE/cb8a5ec8a1ee9b9adf93082357c0a732/fitz.jpg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Flutter has a wealth of animation widgets - so many it can be overwhelming knowing which one to choose. We'll walk through the process of choosing the right animation widget for your use case and how to incorporate animations into your app to make them \\\"pop\\\" rather than \\\"stop.\\\"\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T11:30:00.000",
+	"endTime": "2020-01-24T12:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "51LsQrlZY0QrKQVBtkWeGl",
+	"title": "Conference opening",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T09:30:00.000",
+	"endTime": "2020-01-23T09:40:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "4MhUjc0OafTESwfxviIsQY",
+	"title": "Opening keynote",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T09:40:00.000",
+	"endTime": "2020-01-23T10:25:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "3agyZxKHmmmmXan1Ff5eRH",
+	"title": "Apps for Everyone with Flutter",
+	"authors": [{
+		"id": "2Bz70qIMcLes8IibourcBO",
+		"name": "Lara Martin",
+		"longBio": "Lara is a Flutter GDE and Android developer based in Berlin. Lara has been involved with the community since she started programming: sharing knowledge online, organising study groups and finally becoming a GDE.\n",
+		"occupation": "Flutter GDE\n\n",
+		"twitter": "https://twitter.com/lariki",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/7fGm3ZGWwXlbtYXBhsZFRU/d6f4c5a12783d4729f7a6f40257105a9/lara_flutter.jpg"
+	}, {
+		"id": "rTCevV9KQ913m53JCYzQo",
+		"name": "Miguel Beltran",
+		"longBio": "Miguel is a freelance Software developer based in Berlin, specialized in Flutter and Android development. He also author at Pluralsight, and publishes videos and blog posts about mobile development. You can find more about him at http://beltran.work.\n",
+		"occupation": "Flutter freelancer\n",
+		"twitter": "https://twitter.com/@MiBLT",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/3T4mAWg0s8c8xTIMOgyb8p/14f4e0ce74d7cc78a5d6979bd45bc01b/miquel-beltran-bw-512.jpeg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"Reaching a larger audience with your apps is not just about targeting as much platforms as possible (mobile, web, desktop) but also about making them accessible for everyone, including those with temporary or permanent disabilities.\\n\\nNative platforms already provide accessibility mechanisms, and thankfully, Flutter does too!\\n\\nIn this talk, you will learn how to prepare your Flutter app for a larger audience. You will learn how to support variable size fonts and prepare your app for screen readers, and how to be sure that your designs are accessible too. As well, we will explore some of the current limitations like keyboard based navigation.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T16:30:00.000",
+	"endTime": "2020-01-24T17:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "c8vOKFH5GYVyaeETSiFKS",
+	"title": "Bloc Library: Basics & Beyond",
+	"authors": [{
+		"id": "6niqIrif3ozBcepcdM8Tph",
+		"name": "Felix Angelov",
+		"longBio": "Felix Angelov is a Software Developer at Very Good Ventures in Chicago. He is the creator and maintainer of the bloc state management library.\n",
+		"occupation": "Senior Software Engineer at Very Good Ventures\n",
+		"twitter": "https://twitter.com/felangelov",
+		"avatar": "http://images.ctfassets.net/lpivpmxs5lb8/auTImiA9NiOTnwG9BzdEe/93460146174d6b7309e1d9654d8058f3/felix.jpeg"
+	}],
+	"description": "{\"data\":{},\"content\":[{\"data\":{},\"content\":[{\"data\":{},\"marks\":[],\"value\":\"The bloc state management library has over 2.6K stars on GitHub and is one of the preferred state management libraries. The library is currently being used for BMW Mobile Connected application, as well as in many other enterprise applications and projects in the international Flutter Community.\\n\\nAs the sole creator and maintainer of the library, I will lead participants in an overview of the library including how to build, test, and debug apps using bloc. We will also discuss best practices and take a look under the hood to see how bloc works. On a more granular level, we will discuss events, states, transitions, as well as Flutter-specific components including BlocBuilder, BlocListener, and BlocProvider. We will also go over extensions to the bloc library - such as HydratedBloc and SealedBloc - and how these can be used to enhance the developer experience.\",\"nodeType\":\"text\"}],\"nodeType\":\"paragraph\"}],\"nodeType\":\"document\"}",
+	"type": "beginner",
+	"youtubeUrl": null,
+	"startTime": "2020-01-24T14:30:00.000",
+	"endTime": "2020-01-24T15:15:00.000",
+	"room": {
+		"name": "Blue",
+		"id": "TalkType.beginner"
+	}
+}, {
+	"id": "2iJSsJj1sZ2kCSFRmXZDNt",
+	"title": "Discussion panel",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T17:45:00.000",
+	"endTime": "2020-01-23T18:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}, {
+	"id": "41ptuk7cceMYD29DHAy7so",
+	"title": "Registration",
+	"authors": [],
+	"description": "null",
+	"type": "other",
+	"youtubeUrl": null,
+	"startTime": "2020-01-23T08:30:00.000",
+	"endTime": "2020-01-23T09:30:00.000",
+	"room": {
+		"name": "Orange",
+		"id": "TalkType.other"
+	}
+}]
