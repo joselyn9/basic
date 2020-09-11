@@ -1,0 +1,36 @@
+{
+  "speakers": [
+    {
+      "id": "carmen_andoh",
+      "data": {
+        "order": 0,
+        "country": "Santa Clara, California",
+        "bio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build, Infrastructure Engineer, Travis CI Operations Engineer, Enquos Systems Administrator, State University of New York I like exploring Programming Languages History, Sociology, and Archeology.  So many things you can find in old code! ",
+        "socials": [
+          {
+            "link": "https://twitter.com/carmatrocity",
+            "name": "Twitter",
+            "icon": "twitter"
+          },
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/carmenandoh/",
+            "icon": "linkedin"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/Lyoness"
+          }
+        ],
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "name": "Carmen Andoh",
+        "shortBio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build",
+        "title": "Open Source Strategy Lead, Go Language and Ecosystem",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FCarmen-Herna%CC%81ndez-Andoh-460x460.jpeg?alt=media&token=58fe19b1-88e3-4b73-98f6-d32bb25b4783",
+        "featured": true,
+        "company": "Google"
+      }
+    }
+  ]
+}
