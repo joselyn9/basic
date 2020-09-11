@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "muratyener",
+      "data": {
+        "socials": [
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/yenerm/",
+            "icon": "linkedin"
+          },
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/yenerm"
+          }
+        ],
+        "company": "Google",
+        "order": 0,
+        "title": "Developer Advocate",
+        "name": "Murat Yener",
+        "bio": "Murat Yener is a Developer Advocate for Android at Google. He is a code geek, open source committer, Java Champion and the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1123009913679011840/lb-cCjyA_400x400.png",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "shortBio": "Murat Yener is a Developer Advocate for Android at Google.",
+        "featured": true,
+        "country": "San Francisco"
+      }
+    }
+  ]
+}
