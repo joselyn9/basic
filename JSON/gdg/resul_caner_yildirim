@@ -1,0 +1,33 @@
+{
+  "speakers": [
+    {
+      "id": "resul_caner_yildirim",
+      "data": {
+        "bio": "Caner is a Multi-Disciplinary Designer who is also a technology geek. Mainly focused on the design, business strategy, and marketing of mobile applications. Passionate about good design, UX and Conversation Design.  Previously he worked for leading companies of Turkey on mobile projects. Today, he is the founder of Artisan UX a design agency based in Istanbul making and creating apps that users love.  Caner has been a user group leader for GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Experience, Product Design, Conversation Design, UX Strategy and so on via talks or workshops at Droidcons, DevFests, and other tech or product conferences.",
+        "name": "Resul Caner Yıldırım",
+        "companyLogoUrl": "",
+        "company": "Tmob / Artisan UX",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/protechman",
+            "icon": "twitter"
+          }
+        ],
+        "title": "UX Designer",
+        "country": "Istanbul",
+        "photoUrl": "https://lh3.googleusercontent.com/HTWs2sbuMwZUPNnpdwZDHlDpf-rtlMqoNLmxZo7w65XUgI3dpMljq6lOG0H_0kAwWYwYu14Wr4v5NkVUxo8TmmJprqVYTI8JEWETCPwEn6xD7LyvfA5QqgcRVIWx6gj-bC9PUHoiTzx6fhCZPKH6whb6RravLgazBedf0SgTgbWmtMN4xjXMiG-RTxk_ENqeJweT2n4qllNI3yxx2DFu0URH0V78bLuHwBfYHGmcZ-8NnBRJXJnfiC5tgBvmvkVB0unVlB0pf38BigyrFRuG6V6yEYLIwgPjJs4rCb9f61KOeCYSvKEOZ7vaabILxbMJsYkJAfnSAbLUEMrPL-pROyF0GQvG6TH37SuhzjP8hDpnRAskyQpK15zHEZ1ovb_Jnxcf3tuMqz9pKk9X05WpzeZO8WWAm9SIVDeT1pOqLLIgszTCMegMaBD7nDGr4sdqbPjE4d8QBRG1u4ZQINWHDvV-KOVktsaB7XGcfQ2slQIleCbUVjom4U9UmsgQYjZ7CtLxCF3bDvVXlejJYIbfTfvS9bd3v85TFyqiK_1CNptKxZ2lviLh2uG4KkUDQxCtJyBdKsVnq5i5aWp_Iel7EYuXbFsglHTTCy4XENhzr5BPC3IOvUX19PMxISynXCqQGlPGYP_wXXM1CgTrzJ0KEuQBWnda1326FDLYToN0xaxxlegNuihsiEJhl3K8DPZO5eM8ZzQnkO91q_HhueCAwuqgFYBcY07nNU0IgkX6RMsgescN1g=w1080-h720-no",
+        "badges": [
+          {
+            "description": "Google Developers Group Istanbul",
+            "link": " https://developers.google.com/groups/directory/",
+            "name": "gdg"
+          }
+        ],
+        "featured": true,
+        "order": 10,
+        "shortBio": "Caner is a Multi-Disciplinary Designer who is also a technology geek."
+      }
+    }
+  ]
+}
