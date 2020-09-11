@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "KrisztianKornelBanhidy",
+      "data": {
+        "bio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.",
+        "shortBio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.",
+        "tags": [
+          "cloud"
+        ],
+        "order": 0,
+        "name": "Krisztian Kornel Banhidy",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_0432.jpg?alt=media&token=5f30909f-5ab6-4b7c-b8be-c78e85c00c1e",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/s4mur4i/",
+            "icon": "linkedin"
+          }
+        ],
+        "title": "Sr. DevOps Engineer",
+        "country": "Turkey",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/peak-logo-transparent.png?alt=media&token=362e879c-cc1b-4d05-ad0a-42e3a1db8a32",
+        "featured": true,
+        "company": "Peak"
+      }
+    }
+  ]
+}
