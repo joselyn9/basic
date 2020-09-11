@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "OmerAbi",
+      "data": {
+        "order": 1,
+        "company": "Abi",
+        "tags": [
+          "Panelist"
+        ],
+        "name": "Ömer Abi",
+        "photoUrl": "https://digitalagesummit.com/wp-content/uploads/2018/04/%C3%96mer-Erkmen1.jpg",
+        "title": "Co-Founder at Yeni Nesil Kafası",
+        "bio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM. Upon acquisition of the company by Zomato in 2015, he started taking a more active role in fields of entrepreneurship and investment. He has been involved in many projects as founder, mentor and investor and he is still working in entrepreneurship field without a break. Business enterprises he has been a part of: Scorp, Flightrecorder, Ideasoft, Blesh, Temizlikyolda, Bionluk, Kolay Randevu, Connected2me, Erasmusinn and English Ninjas.",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/omererkmen"
+          }
+        ],
+        "companyLogoUrl": "",
+        "shortBio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM.",
+        "country": "Turkey",
+        "featured": true
+      }
+    }
+  ]
+}
