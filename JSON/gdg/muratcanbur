@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "muratcanbur",
+      "data": {
+        "featured": true,
+        "title": "Android Developer",
+        "photoUrl": "https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-9/19554646_10213544916567443_7415645109938191860_n.jpg?_nc_cat=103&_nc_oc=AQn8kuXEFzogElbUPFE3YKgnj9LAfqzAnjRwTFawv2YZZ4j7efC0oe4jjfGxJk8Um4A&_nc_ht=scontent-sof1-1.xx&oh=c9689b05700b7930ce08711c3eceae32&oe=5E0DF0AD",
+        "socials": [
+          {
+            "link": "https://twitter.com/muratcanbur",
+            "icon": "twitter",
+            "name": "Twitter"
+          }
+        ],
+        "bio": "Murat is an Android Developer at Trendyol. He is an experienced Android Developer and always try to write clean, efficient, and maintainable code. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency and always try to speak at conferences about mobile development. ",
+        "shortBio": "Murat is an Android Developer at Trendyol.",
+        "country": "Istanbul",
+        "name": "Murat Can BUR",
+        "order": 10,
+        "companyLogoUrl": "",
+        "company": "trendyol.com"
+      }
+    }
+  ]
+}
