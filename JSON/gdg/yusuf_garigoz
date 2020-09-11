@@ -1,0 +1,33 @@
+{
+  "speakers": [
+    {
+      "id": "yusuf_garigoz",
+      "data": {
+        "order": 0,
+        "companyLogoUrl": "https://pbs.twimg.com/profile_images/1009034656241668097/zMJOHGI8_400x400.png",
+        "name": "M. Yusuf Sarıgöz",
+        "company": "AI Labs",
+        "featured": true,
+        "shortBio": "M. Yusuf Sarıgöz is a co-founder and AI engineer at Turkish startup AI Labs, innovating the retail industry with deep learning solutions.",
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/myusufsarigoz"
+          }
+        ],
+        "badges": [
+          {
+            "name": "gde",
+            "link": "https://developers.google.com/community/experts/directory",
+            "description": "Web Technologies Google Developer Expert"
+          }
+        ],
+        "country": "Istanbul",
+        "title": "Co-Founder and AI Engineer at AI Labs, Google Developer Expert on Machine Learning",
+        "bio": "M. Yusuf Sarıgöz is a co-founder and AI engineer at Turkish startup AI Labs, innovating the retail industry with deep learning solutions. His main interests lie in deep learning for computer vision and neural machine translation. He has a long experience in large-scale and efficient face recognition on the edge and fully unsupervised neural machine translation in unparallel corpora, and has developed new model architectures in these fields. Sarıgöz is also a Google Developer Expert on Machine Learning and highly active in AI/ML community, facilitating workshops on Tensorflow, Keras and AI/ML in the cloud and mentoring scholars in Sabancı Foundation Scholarship Program.",
+        "photoUrl": "https://www.dropbox.com/s/rjswkk09a22xfyg/M_Yusuf_Sarigoz.jpg?dl=1"
+      }
+    }
+  ]
+}
