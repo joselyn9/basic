@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "niraliabhani",
+      "data": {
+        "order": 5,
+        "shortBio": "Nirali is a Java developer at IDR solutions, where she works on developing software for web developers.",
+        "photoUrl": "https://files.idrsolutions.com/nirali.jpg",
+        "featured": true,
+        "bio": "Nirali is a Java developer at IDR solutions, where she works on developing software for web developers. She is also the product lead for JDeli (IDRsolutions  image processing and conversion library). She has an MSc in Computer Science and has also worked for large Software companies such as Infosys  Nirali is really looking forward to her very first DevFest with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and to try Turkish food in Istanbul.",
+        "title": "Java developer",
+        "company": "IDR Solutions,UK",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FIDRSmallwithbreak.png?alt=media&token=008224db-884e-4aa6-87ab-e4293463f643",
+        "name": "Nirali Abhani",
+        "country": "London",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/niraliabhani/",
+            "name": "Linkedin"
+          }
+        ]
+      }
+    }
+  ]
+}
