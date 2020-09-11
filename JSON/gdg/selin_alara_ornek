@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "selin_alara_ornek",
+      "data": {
+        "company": "Özel Küçük Prens Ortaokulu",
+        "bio": "13 yaşındayım, Özel Küçük Prens Ortaokulu 8. sınıf öğrencisiyim, LGS'ye hazırlanıyorum :) 8 yaşından beri kodlama ve robotik ile uğraşıyorum. Uluslararası teknoloji yarışmaları ve \"showcase\"lerine katılıyorum. 2018 yılında Coderdojo Coolest Projects Yarışmasında projem ic4u ile 1. oldum. European Youth Awards 2018 yarışmasında da finalist oldum. 2019 yılında Stanford üniversitesinde düzenlenen robotik ve mühendislik yaz okuluna burslu olarak davet edildim. Aydın Doğan Vakfının Unicef ve BM ile düzenlediği #güçlükızlargüçlüyarınlar 2019 projesinde yer aldım. Türkçe, İngilizce ve Fransızca biliyorum. Python kodlama dili üzerinde çalışıyorum. Annem, Babam ve köpeğim Bailey ile İstanbul'da yaşıyorum.",
+        "featured": true,
+        "name": "Selin Alara Örnek",
+        "shortBio": "13 yaşındayım, Özel Küçük Prens Ortaokulu 8.",
+        "title": "Student",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/WhatsApp%20Image%202019-09-04%20at%2010.43.42.jpeg?alt=media&token=e503d1d9-b6c7-4e37-9f03-ccca28296ec5",
+        "companyLogoUrl": "",
+        "order": 0,
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/Selinoid2",
+            "name": "Twitter"
+          }
+        ],
+        "country": "Istanbul"
+      }
+    }
+  ]
+}
