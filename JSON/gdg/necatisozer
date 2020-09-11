@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "necatisozer",
+      "data": {
+        "order": 10,
+        "country": "Istanbul",
+        "shortBio": "A passionate Android developer who builds applications with love.",
+        "socials": [
+          {
+            "link": "https://twitter.com/necatisozer",
+            "name": "Twitter",
+            "icon": "twitter"
+          }
+        ],
+        "bio": "A passionate Android developer who builds applications with love",
+        "title": "Android Developer",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/bisu_sprite.png?alt=media&token=6eb85ea8-4295-4f24-8b09-b3d80cd4da33",
+        "featured": true,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_9622.JPG?alt=media&token=c41da8b3-2b2f-4763-87e2-57b8fe5d527b",
+        "company": "BiSU",
+        "name": "Necati Sözer"
+      }
+    }
+  ]
+}
