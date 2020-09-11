@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "erol_kaftanoglu",
+      "data": {
+        "shortBio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum",
+        "title": "Android Developer",
+        "country": "Istanbul",
+        "tags": [
+          "Firebase"
+        ],
+        "name": "Erol Kaftanoglu",
+        "bio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum, GDG Istanbulda organizatörlük yapıyorum.",
+        "companyLogoUrl": "https://blindid.app/_next/static/images/logo-8e6f083c2486cba3c067d6eb6316976d.png",
+        "photoUrl": "http://erolkaftanoglu.com/images/profile.jpg",
+        "company": "Blindid",
+        "order": 5,
+        "featured": true,
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/erolkaftanoglu/"
+          }
+        ]
+      }
+    }
+  ]
+}
