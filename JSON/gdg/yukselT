@@ -1,0 +1,43 @@
+{
+  "speakers": [
+    {
+      "id": "yukselT",
+      "data": {
+        "country": "Ankara",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/2019%20-%20Yu%CC%88ksel%20Tolun.jpg?alt=media&token=1dd721b3-7684-4405-b388-efc01f42f8ec",
+        "socials": [
+          {
+            "link": "https://twitter.com/ytolun",
+            "name": "Twitter",
+            "icon": "twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/ytolun"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ytolun/",
+            "name": "Linkedin"
+          }
+        ],
+        "companyLogoUrl": "GDG Ankara",
+        "name": "Yüksel Tolun",
+        "company": "GDE",
+        "shortBio": "I have been developing for Google Assistant for 2 years and I became a GDE on the subject at the beginning of this year. I'm truly passionate about the Voice User Interfaces, I have held 10 workshops and gave 8 talks about Google Assistant since this January.",
+        "badges": [
+          {
+            "name": "gde",
+            "description": "Web Technologies Google Developer Expert",
+            "link": "https://developers.google.com/community/experts/directory"
+          }
+        ],
+        "title": "Google Developer Expert",
+        "order": 0,
+        "bio": "I have been developing for Google Assistant for 2 years and I became a GDE on the subject at the beginning of this year. I'm truly passionate about the Voice User Interfaces, I have held 10 workshops and gave 8 talks about Google Assistant since this January.",
+        "featured": true
+      }
+    }
+  ]
+}
