@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "Nilay_Yener",
+      "data": {
+        "company": "Google",
+        "featured": true,
+        "photoUrl": "https://i.ibb.co/CBd0VS2/nilay-yener.jpg",
+        "country": "San Francisco",
+        "title": "DevRel Program Manager for Flutter and Dart",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "bio": "Nilay, Amerika'da Flutter ekibinde çalışıyor. GDG Istanbul ile başlayan Yazilimci Topluluklari macerası, Silikon Vadisi'nde 'Developer Relations' kariyerine sürüklerken, en son kendini Flutter ekibinde buldu. 4 yildir Google'da çalışıyor. Yazilimci topluluklari, Flutter ve Karadeniz çayı hakkında konuşmak en sevdigi, bi yerlerde görürseniz lütfen gidin merhaba deyin. ",
+        "shortBio": "Nilay, Amerika'da Flutter ekibinde çalışıyor.",
+        "name": "Nilay Yener",
+        "order": 0,
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/nlycskn",
+            "icon": "twitter"
+          }
+        ]
+      }
+    }
+  ]
+}
