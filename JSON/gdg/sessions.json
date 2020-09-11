@@ -1,0 +1,708 @@
+{
+  "sessions": [
+    {
+      "id": "101",
+      "data": {
+        "speakers": [
+          "carlos_sanchez"
+        ],
+        "tags": [
+          "Cloud"
+        ],
+        "language": "English",
+        "description": "Progressive Delivery makes it easier to adopt Continuous Delivery, by deploying new versions to a subset of users and evaluating their correctness and performance before rolling them to the totality of the users, and rolled back if not matching some key metrics. Canary deployments is one of the techniques in Progressive Delivery, used in companies like Facebook to roll out new versions gradually. But good news! you don't need to be Facebook to take advantage of it.\n\nWe will demo how to create a fully automated Progressive Delivery pipeline with Canary deployments and rollbacks in Kubernetes using Jenkins X, an open source platform for cloud native CI/CD in Kubernetes, and Flagger, a project that uses Istio and Prometheus to automate Canary rollouts and rollbacks.",
+        "title": "Progressive Delivery: Continuous Delivery the Right Way",
+        "complexity": "GDG"
+      }
+    },
+    {
+      "id": "102",
+      "data": {
+        "title": "Flashy and smooth web animations",
+        "speakers": [
+          "alaa_alnuaimi"
+        ],
+        "language": "TR",
+        "tags": [
+          "Web Technologies"
+        ],
+        "complexity": "GDG",
+        "description": "To achieve flashy and smooth animations on web browsers, a developer needs to know first how a brain perceives animations and second how a browser works. This session is about the perception of speed, browser timeline, examples and tips for flashy animations."
+      }
+    },
+    {
+      "id": "103",
+      "data": {
+        "language": "TR",
+        "complexity": "Beginner",
+        "description": "This talk introduces \"Unit testing for Android Developers\". It demonstrates why Android developers write tests, and how they start. It will also discuss how developers structure their android applications.",
+        "title": "Unit Testing For Android Developers",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "speakers": [
+          "muratcanbur"
+        ]
+      }
+    },
+    {
+      "id": "104",
+      "data": {
+        "description": "findViewById() has been something Android developers tried to avoid to reduce boilerplate and we has different ways to access the views from the code side. I will give a brief introduction to how views are created from the xml, how findViewById() works and I will talk about the alternatives like ViewBindings, DataBindings, Kotlin Synthetics and how they work. I will also talk about Compose which is the future of the android UI. ",
+        "speakers": [
+          "hadi_tok"
+        ],
+        "complexity": "Beginner",
+        "title": "Finding the view",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "language": "TR"
+      }
+    },
+    {
+      "id": "105",
+      "data": {
+        "title": "Why Performance Matters?",
+        "language": "TR",
+        "description": "Technology continues its fast evolution as the apps on our gadgets demand more resources to run. We need to debunk the myth that everybody has high-end phones and everybody is using high-speed networks. More than half of the people on this planet are using slow or medium speed networks, hence average mobile devices usually struggle to load complex websites.\nFrom Progressive Web Apps to route based code splitting, service workers to image optimisation, there are various ways to create fast performing websites. Using your performance budget is the key to success. This talk focuses on how our web apps need to adjust in order to achieve user happiness in terms of mobile and web.",
+        "complexity": "Beginner",
+        "tags": [
+          "Web Technologies"
+        ],
+        "speakers": [
+          "bilal_cinarli"
+        ]
+      }
+    },
+    {
+      "id": "106",
+      "data": {
+        "tags": [
+          "Machine Learning & AI"
+        ],
+        "description": "While machine learning is radically transforming many sectors, there exists the need for automating machine learning development processes in today's world. AutoML, where research spans from hypermeter optimization to neural architecture search with evolutionary algorithms or reinforcement learning, promises to democratize access to ML. Cloud AutoML by Google offers AutoML solutions for several problems. In the talk, I will briefly outline machine learning development process, how to automate it in theory, and then brainstorm about possible use cases of Cloud AutoML for non-experts and experts in ML. Does it really work? Or, how to make it work.\n",
+        "title": "AutoML: AI that learns how to learn",
+        "speakers": [
+          "yusuf_garigoz"
+        ],
+        "complexity": "Beginner",
+        "language": "English, TR"
+      }
+    },
+    {
+      "id": "107",
+      "data": {
+        "title": "Kubernetes Üzerinde Yüksek Performanslı Uygulamlar",
+        "speakers": [
+          "metin_seylan"
+        ],
+        "tags": [
+          "Cloud"
+        ],
+        "language": "TR",
+        "description": "Daha önce hep Kubernetes nasıl çalışır nasıl deployment yapılır onlar konuşuldu, ancak Microservice dünyasında Kubernetes tüm problemleri çözen sihirli bir tool değil.\n\nKod seviyesinde yapılan değişikliklerin infra tarafında her zaman bir karşılığı var\n\n- Boot Sürelerini Hızlandırmak \n    - Dependency Injection nasıl çalışır\n    - Runtime dependency injection ve problemleri\n    - Problemin çözümü için Compile Time Injection ve Framework ile beraberinde gelen çözümler\n    - Kubernetes tarafındaki scaling kazanımları\n- Network Optimizasyonu (GRPC)\n    - gRPC Nedir?\n    - HTTP2\n    - Kubernetes tarafında gRPC kullanırken dikkat edilmesi gerekenler ve kazanımları\n- Reactive backend uygulamaları ve Spring vs Micronaut karşılaştırması, ( bu kısım tüm sunumun kısa bir özeti olacak )",
+        "complexity": "Beginner"
+      }
+    },
+    {
+      "id": "108",
+      "data": {
+        "tags": [
+          "Design"
+        ],
+        "speakers": [
+          "resul_caner_yildirim"
+        ],
+        "complexity": "Beginner",
+        "title": "Designing for Interactive Canvas on Google Assistant",
+        "description": "Google Assistant is growing day to day. With great updates and new implementations, Assistant became the best personal digital assistant on the market. Since May 2019, Google Assistant started to support Interactive Canvas.  Using Interactive Canvas to create an Action for the Google Assistant allows us to create the best conversational interfaces with the rich visual capabilities of HTML.\n\nWith a new and emerging technology, it is always hard to understand the philosophy behind the design. In this session, we will learn how to design a basic game for Interactive Canvas.  \n\nNote: At this time, Google is only approving Canvas Actions that are gaming experiences. But you can use the same techniques to create different actions in the future. ",
+        "language": "English, TR"
+      }
+    },
+    {
+      "id": "109",
+      "data": {
+        "complexity": "Beginner",
+        "description": "Creating a cross platform app on Flutter is really efficient but can everything be tested and automated so you assure your high quality app stays high quality over time. And if everything is test does run on IOS and Android as expected.\n\nDuring this talk we will touch upon unit testing, widget testing, screenshot testing and end to end testing and setting it up in an automated way so you can be sure that the app you build is the quality you expect it be.",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "speakers": [
+          "dylan_drost"
+        ],
+        "language": "English",
+        "title": "How to test on you Flutter app"
+      }
+    },
+    {
+      "id": "110",
+      "data": {
+        "title": "Navigation in Modular Applications with Deep Linking",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "speakers": [
+          "damian_burke"
+        ],
+        "complexity": "Beginner",
+        "language": "English",
+        "description": "Android engineering has come a long way. Nowadays most applications are modularized to a certain degree - to combat high compile times, enforce separation of concerns or to group code based on certain scopes.\n\nIn this talk we will take a look at navigation in modularized apps. Navigation in Android can be done explicitly by passing the class variable or implicit by sending an Intent with a certain configuration. Since modularization is supposed to simplify our dependency graph, we will take a closer look at deep linking as a navigation pattern and compare different approaches like Intent filter, a custom deeplink processor or the Android Jetpack Navigation component.\n\nAfter this talk, you will be able to modularize your application with a clean, structured and scalable navigation."
+      }
+    },
+    {
+      "id": "111",
+      "data": {
+        "speakers": [
+          "selin_alara_ornek"
+        ],
+        "title": "Robotlarım ve Google",
+        "language": "TR",
+        "complexity": "Beginner",
+        "tags": [
+          "Robotics & assistant"
+        ],
+        "description": "2018 yılından beri Google AIY kitleri yardımıyla robotlarımda görüntü işleme ve sesli komut  üzerinde çalışıyorum. Robotlarıma AIY Voice kit ile birlikte Google Assistant Api'sini kullanıyorum. Robotlarıma uygulayarak TensorFlow ve Dialogflow hakkındaki bilgilerimi geliştirmeye çalışıyorum. Rehber robot ic4u2 ve öğrenci rehberi robotum BB4All üzerinde yaptığım teknik çalışmaları sunmak istiyorum. Sunumun detayında Raspberry Pi ve Arduino üzerinde Google AIY kitlerin kullanımı, mekanik zorluklar, python, TensorFlow ve DialogFlow'un RPi üzerinde kullanımını paylaşmak istiyorum.   "
+      }
+    },
+    {
+      "id": "112",
+      "data": {
+        "language": "TR",
+        "description": "We're gonna build a small Android Application using Jetpack Compose.",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "speakers": [
+          "necatisozer"
+        ],
+        "title": "Declarative UI Paradigm feat. Jetpack Compose",
+        "complexity": "Beginner"
+      }
+    },
+    {
+      "id": "113",
+      "data": {
+        "tags": [
+          "Machine Learning & Ai"
+        ],
+        "speakers": [
+          "kevin_nelson"
+        ],
+        "language": "English",
+        "complexity": "Advanced",
+        "description": "Thanks to machine learning and AI, applications are now being created that can see, hear, and understand the world around them. This talk will demonstrate how Google Cloud AutoML enables developers with limited machine learning expertise to build and deploy customized, high quality, tabular data, vision, translation, and natural language models by leveraging Google’s state of the art transfer learning, and Neural Architecture Search technology.",
+        "title": "Building Custom Models in AutoML"
+      }
+    },
+    {
+      "id": "114",
+      "data": {
+        "description": "Sascha will demonstrate the opportunities and challenges of Conversational AI learned from the practice (i.e. Google Assistant, Amazon Alexa, Webchats, Facebook Messenger, WhatsApp etc.). Both Technology and User Experience will be covered introducing a process finding micro-moments, writing happy paths, gathering intents, coding and designing the conversational flow, and finally publishing on almost all channels including Voice Services and Chatbots. Valuable for enterprises, developers, and designers. ",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "speakers": [
+          "sashcawolter"
+        ],
+        "title": "Conversational AI Demystified: Build your bot live on stage",
+        "language": "English"
+      }
+    },
+    {
+      "id": "115",
+      "data": {
+        "title": "Reflections on 10 years of Go ",
+        "description": "Go celebrates 10 year anniversary since it was open sourced.  We reflect on the last 10 years with a programming language historian and archeologists lense.  Come dissect a Go program to see the past, present, and future. Learn how modern programming languages shaped the decade and what is in store for developers for the next 10 years.  ",
+        "tags": [
+          "GoLang"
+        ],
+        "language": "English",
+        "speakers": [
+          "van_riper",
+          "carmen_andoh"
+        ]
+      }
+    },
+    {
+      "id": "116",
+      "data": {
+        "speakers": [
+          "muhammedsalih"
+        ],
+        "tags": [
+          "Flutter",
+          "Mobile Technologies"
+        ],
+        "language": "TR, English",
+        "description": "From the day that it's announced, Flutter is attracting so many developers from different backgrounds. It gives the developers a chance to develop an app from a single codebase and deploy it for Android, iOS, Desktop, and Web. But not everyone is in the position to abandon an existing codebase and start from scratch - luckily Flutter got you covered even if you just want to extend your existing application with cool Flutter features. In this talk, we will have a look at how you can add Flutter to your ongoing iOS and Android applications by showing a real-life example app with millions of users and, we will talk about how you can rewrite your existing applications step by step with Flutter.",
+        "title": "How to add Flutter to your existing app"
+      }
+    },
+    {
+      "id": "117",
+      "data": {
+        "description": "Android engineering has come a long way. Nowadays most applications are modularized to a certain degree - to combat high compile times, enforce separation of concerns or to group code based on certain scopes. In this talk we will take a look at navigation in modularized apps. Navigation in Android can be done explicitly by passing the class variable or implicit by sending an Intent with a certain configuration. Since modularization is supposed to simplify our dependency graph, we will take a closer look at deep linking as a navigation pattern and compare different approaches like Intent filter, a custom deeplink processor or the Android Jetpack Navigation component. After this talk, you will be able to modularize your application with a clean, structured and scalable navigation.",
+        "speakers": [
+          "damian_burke"
+        ],
+        "complexity": "Advanced",
+        "language": "TR, English",
+        "title": "Navigation in Modular Applications with Deep Linking",
+        "tags": [
+          "Android",
+          "Mobile Technologies"
+        ]
+      }
+    },
+    {
+      "id": "118",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "language": "TR, English",
+        "speakers": [
+          "yukselT"
+        ],
+        "title": "Building Games For The Google Assistant",
+        "description": "With the introduction of Interactive Canvas on Google Assistant, we can now build full-fledged games with decent graphics that you can control with your voice. In this talk, we'll dive deep into the technical details of how developers build voice gaming experiences with rich visuals on Google Assistant. "
+      }
+    },
+    {
+      "id": "119",
+      "data": {
+        "language": "TR",
+        "speakers": [
+          "LemiOrganErgin"
+        ],
+        "description": "Soon",
+        "tags": [
+          "Software Programing"
+        ],
+        "title": "10 exclusive development practice every developer should consider"
+      }
+    },
+    {
+      "id": "120",
+      "data": {
+        "speakers": [
+          "ahmet_keskin"
+        ],
+        "language": "TR",
+        "title": "Modular Architecture in iOS",
+        "description": "Sunumda bir iOS projesini neden modüler hale getirmeliyiz? Modüler hale getirdiğimizde ne gibi faydalar elde ederiz. Projeyi nasıl modüler yapabilirim ve nereden başlamalıyım?",
+        "tags": [
+          "Mobile Technologies"
+        ]
+      }
+    },
+    {
+      "id": "121",
+      "data": {
+        "description": "Adding PWA capabilities to an Angular app is easy with adding @angular/pwa via ng cli. However, you need to do more on your app to create best experiences for your users on multiple platforms. This session will cover what you need to do to optimise your PWA for the production with the guidelines of best practices and platform optimisations. These optimisations include iOS compatibility, web app manifest and ngsw configuration along with firebase server configuration. Source of the workshop can be found here: https://github.com/onderceylan/pwa-workshop-angular-firebase",
+        "language": "TR",
+        "tags": [
+          "Web Technologies"
+        ],
+        "title": "Build a production ready PWA with Angular and Firebase",
+        "speakers": [
+          "onder_ceylan"
+        ]
+      }
+    },
+    {
+      "id": "122",
+      "data": {
+        "speakers": [
+          "niraliabhani"
+        ],
+        "description": "Did you know that the free and OpenSource IDE NetBeans allows you to write and debug both backend server code (in Java, PHP, and other languages) and a the front end (HTML5, CSS and HTML5)? Did you also know that it allows you to debug and test your applications in Chrome with dynamic editing in both? In this short and fast-paced tutorial, we will step you through the process of creating, testing and debugging a sample web application in NetBeans and Chrome.",
+        "language": "TR",
+        "tags": [
+          "Web Technologies"
+        ],
+        "title": "Using NetBeans and Chrome to develop a Web application"
+      }
+    },
+    {
+      "id": "123",
+      "data": {
+        "tags": [
+          "Web Technologies"
+        ],
+        "title": "Taking your code skills to a new level by hacking the Apache NetBeans IDE",
+        "description": "if you are looking for a challenge to extend and push your serverside coding skills and pick up new Open source skills and experiences, this is the talk for you! We will showing you how to download the Java source code for NetBeans IDE. We will then setup, edit, test and run within NetBeans itself, adding new features to the codebase. We will be using lots of Open Source technologies including Git, Ant, Java, and NetBeans itself as well as introducing you to the Apache project. ",
+        "speakers": [
+          "mark_stephens"
+        ],
+        "language": "TR"
+      }
+    },
+    {
+      "id": "124",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "title": "Writing organised and clean Kotlin unit test",
+        "language": "English",
+        "speakers": [
+          "carolyn_hung"
+        ],
+        "description": "When writing the unit test in Java,  we define the test methods in descriptive way. Nowadays more and more people switch using Kotlin from Java, and the way of writing unit test with Kotlin related library is also improved. I will speak about how to write your Kotlin unit test in more organised and clean way with annotations and library, also showing code snippets for both Java and Kotlin unit test comparisons."
+      }
+    },
+    {
+      "id": "125",
+      "data": {
+        "language": "TR",
+        "speakers": [
+          "sercnayusuf"
+        ],
+        "description": "",
+        "tags": [
+          "Flutter"
+        ],
+        "title": "Soon"
+      }
+    },
+    {
+      "id": "126",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "title": "TBA",
+        "speakers": [
+          "ali_can_batur"
+        ],
+        "description": "TBA",
+        "language": "TR"
+      }
+    },
+    {
+      "id": "127",
+      "data": {
+        "title": "What is new with Android 10 UI ",
+        "language": "TR",
+        "speakers": [
+          "muratyener"
+        ],
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "description": "New UI Features are the most visible changes for you app users. As the OS and the other apps move forward, your app can easily left out with a broken experience. Come to this talk to learn more about new UI features that can make your application stand out. In this talk, you’ll learn how to implement the new Android Q UI features that will bring your app’s User Experience to a new level: - Foldables - Gestural Navigation and Edge to Edge display - Direct Share improvements - Bubbles - Settings Panels and more!"
+      }
+    },
+    {
+      "id": "128",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "description": "Kotlin is awesome and you want to write all your code in it, but what about the thousands of lines of code already written in the Java programming language? Or, maybe you have a library or project that is written in Java and already has been used in so many Kotlin or Java projects. In this talk, we will look at the best practices for writing Kotlin and Java code that works so seamlessly from the other that the only way to what language it is written in is to look at the source code.",
+        "speakers": [
+          "muratyener"
+        ],
+        "title": " ♥️ kotlin, happy together java🎵",
+        "language": "TR"
+      }
+    },
+    {
+      "id": "129",
+      "data": {
+        "description": "TBA",
+        "tags": [
+          "Panel"
+        ],
+        "title": "Panel: Işimiz Gücümüz!",
+        "speakers": [
+          "OmerAbi",
+          "LemiOrganErgin",
+          "SimayDinc",
+          "EbruYildirim",
+          "yukselT"
+        ],
+        "language": "TR"
+      }
+    },
+    {
+      "id": "130",
+      "data": {
+        "speakers": [],
+        "language": "TR",
+        "description": "TBA",
+        "tags": [
+          "Devfest"
+        ],
+        "title": "Closing Keynote"
+      }
+    },
+    {
+      "id": "132",
+      "data": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fregistration.jpg?alt=media&token=27328646-d323-4cca-904c-75f021bc3ffe",
+        "title": "Registration",
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "icon": "registration"
+      }
+    },
+    {
+      "id": "133",
+      "data": {
+        "title": "Lunch",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
+        "icon": "lunch",
+        "description": "Foooooooood!"
+      }
+    },
+    {
+      "id": "134",
+      "data": {
+        "title": "Coffee break",
+        "description": "Coffeeeeeee!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fcoffee-break.jpg?alt=media&token=7c2c929b-cb94-4be8-a05a-b3f678136cb7",
+        "icon": "coffee-break"
+      }
+    },
+    {
+      "id": "135",
+      "data": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fmorning.jpg?alt=media&token=d0da3d64-fc63-48c6-9d41-1460451dca64",
+        "description": "Coffeeeeeee!",
+        "icon": "coffee-break",
+        "title": "Morning coffee"
+      }
+    },
+    {
+      "id": "136",
+      "data": {
+        "icon": "opening",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+        "title": "GDG DevFest Istanbul 2019 Opening",
+        "language": "English",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fopening.jpg?alt=media&token=aa52dd45-50c9-4e36-9485-c1f9138ecd6b"
+      }
+    },
+    {
+      "id": "137",
+      "data": {
+        "icon": "party",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fparty.jpg?alt=media&token=8e413f01-373a-40bf-bb87-1dcf1d8e6af1",
+        "title": "Afterparty & Networking",
+        "description": "Afterparty is a great time to have some fun and meet new people"
+      }
+    },
+    {
+      "id": "138",
+      "data": {
+        "title": "Conference closing and contest winners announcements",
+        "description": "Make sure you won't miss closing ceremony, all gifts from out sponsors and partners will find their owners during this session.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Fclosing.jpg?alt=media&token=f02d014a-09ee-407e-88c7-b74093e00fed"
+      }
+    },
+    {
+      "id": "139",
+      "data": {
+        "description": "Soon",
+        "language": "English",
+        "title": "Keynote"
+      }
+    },
+    {
+      "id": "140",
+      "data": {
+        "description": "TBD",
+        "title": "TBD",
+        "language": "English"
+      }
+    },
+    {
+      "id": "141",
+      "data": {
+        "description": "One of the reasons for introducing Service Mesh is Observability. Especially applications are distributed like microservices, it is critical to know how those are connected to each other. Istio is an open source platform for this. While Istio has many functions, you don’t have to use all: Making services connections observable is baby steps.I will present how it works, how to start using it, and upcoming features, mostly focusing on “Observability”. Also options to manage Istio on GCP are covered.",
+        "language": "English",
+        "speakers": [
+          "JunSakata"
+        ],
+        "tags": [
+          "Cloud"
+        ],
+        "title": "Seeking Observability: Getting Started with Service Mesh on GCP"
+      }
+    },
+    {
+      "id": "142",
+      "data": {
+        "speakers": [
+          "Meysam_Asgarichenaghlou",
+          "Omid_Safarzadeh"
+        ],
+        "title": "DEEPNLP",
+        "language": "TR",
+        "tags": [
+          "Machine Learning & AI"
+        ],
+        "description": "Natural language processing is one of the most important technologies of nowadays. Understanding human languages and using at various AI projects ranging from IoT devices to conversational agents is a crucial task. On the other hand, advantages of deep learning helped researchers of NLP area to gain much better results on various general NLP tasks such as neural machine translation, classification, summarization and etc. This session is oriented towards understanding of basic NLP and deep learning approaches to NMT and developing NLP models with keras."
+      }
+    },
+    {
+      "id": "143",
+      "data": {
+        "title": "Flutter! Nedir, Nasil, Neden?",
+        "language": "TR",
+        "description": "Flutter, tek kaynak koddan mobil, web ve desktop için uygulama geliştirmeye yarayan Google'in yeni açık kaynak kodlu uygulama geliştirme aracı. Çok hızlı bir şekilde popüler oldu; guzel ve kaliteli uygulama geliştirmek için tercih edilen ilk platformlardan biri haline geldi. Peki Flutter neden bu kadar hızla kabul edildi, ne avantajları var, nasil çalışır, neden Alibaba, Groupon ve Google gibi şirketler uygulama geliştirme için Flutter kullanmaya başladı? Bu soruların cevabını merak ediyorsaniz veya Flutter'a hiç giriş yapmadıysanız, bu konuşma iyi bir başlangıç olacaktır. ",
+        "speakers": [
+          "Nilay_Yener"
+        ],
+        "tags": [
+          "Mobile Technologies"
+        ]
+      }
+    },
+    {
+      "id": "144",
+      "data": {
+        "speakers": [
+          "Ryan_Fanelli"
+        ],
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "language": "English",
+        "title": "Get The Most Out of The Play Console",
+        "description": "Explore what’s new in the Play Console and provide feedback on ways that Play can better help you as a developer. We’ll step through the full development life-cycle, including: discovering where your users come from using statistics, prioritizing what to change in your app using benchmarks, understanding how to triage crashes and bugs using vitals, and evaluating releases and changes using experiments."
+      }
+    },
+    {
+      "id": "145",
+      "data": {
+        "description": "Do you have a function, or two, or maybe more? Now is the time to talk about making sure you have full control over how data and communication flows between your functions. You need something to control how your functions interact with each other. You need something that can give you granular control, or sometimes maybe a simple user interface to get it done. This session is about your options in Azure to accomplish all that. We will look into Durable Functions and Logic Apps to understand where they can help us scale our serverless move. ",
+        "tags": [
+          "Cloud"
+        ],
+        "language": "TR",
+        "speakers": [
+          "daron_yondem"
+        ],
+        "title": "Function Orchestration in the world of Serverless"
+      }
+    },
+    {
+      "id": "146",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "description": "Pixery is developing mobile applications that heavily use the lates advances in mobile video&graphics technologies, which has significant performance and computation requirements. In this talk we will be overviewing technology stack we are using to develop such video applications and overview unique challenges we face. We will also provide a hands-on code examples about how we solve both technical and UI problems we face daily. ",
+        "title": "Developing high performing mobile video applications using latest technologies",
+        "speakers": [
+          "kemal_ugur"
+        ],
+        "language": "TR"
+      }
+    },
+    {
+      "id": "147",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "title": "Developing high performing mobile video applications using latest technologies",
+        "language": "TR",
+        "description": "Pixery is developing mobile applications that heavily use the lates advances in mobile video&graphics technologies, which has significant performance and computation requirements. In this talk we will be overviewing technology stack we are using to develop such video applications and overview unique challenges we face. We will also provide a hands-on code examples about how we solve both technical and UI problems we face daily. ",
+        "speakers": [
+          "kemal_ugur"
+        ]
+      }
+    },
+    {
+      "id": "148",
+      "data": {
+        "tags": [
+          "Machine Learning & AI"
+        ],
+        "speakers": [
+          "Meysam_Asgarichenaghlou",
+          "Omid_Safarzadeh"
+        ],
+        "description": "Natural language processing is one of the most important technologies of nowadays. Understanding human languages and using at various AI projects ranging from IoT devices to conversational agents is a crucial task. On the other hand, advantages of deep learning helped researchers of NLP area to gain much better results on various general NLP tasks such as neural machine translation, classification, summarization and etc. This session is oriented towards understanding of basic NLP and deep learning approaches to NMT and developing NLP models with keras.",
+        "title": "Deep NLP: Seq2seq model for Neural Machine translation",
+        "language": "TR"
+      }
+    },
+    {
+      "id": "149",
+      "data": {
+        "tags": [
+          "Firebase"
+        ],
+        "description": "soon",
+        "language": "TR",
+        "speakers": [
+          "erol_kaftanoglu"
+        ],
+        "title": "Exploring Firebase Predictions"
+      }
+    },
+    {
+      "id": "150",
+      "data": {
+        "title": "Peak's Journey with Kubernetes",
+        "tags": [
+          "Games"
+        ],
+        "language": "EN",
+        "speakers": [
+          "KrisztianKornelBanhidy"
+        ],
+        "description": "Peak decided to move to a container based environment. We chose Kubernetes. The migration has been ongoing for some time, during which we faced many problems and solved many questions that we had. We would like to share insights about our experience during this journey with Kubernetes."
+      }
+    },
+    {
+      "id": "151",
+      "data": {
+        "language": "TR",
+        "description": "We'll talk about features of dark mode and colours. Why dark mode became popular these days? Is it applied correctly?",
+        "title": "Darkside of Design",
+        "speakers": [
+          "orcun_kilic",
+          "arda_arican"
+        ],
+        "tags": [
+          "Design"
+        ]
+      }
+    },
+    {
+      "id": "152",
+      "data": {
+        "speakers": [
+          "cafer_mert_CEYHAN",
+          "okan_aydin"
+        ],
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "language": "TR",
+        "description": "SessionAbstract: Jetpack Navigation Component simplifies implementing navigation, also helps you visualize your app’s navigation flow. In this session, We will take a look Jetpack Navigation Component and learn basic usage of its.",
+        "title": "Manage UI Navigation with Jetpack Navigation Component"
+      }
+    },
+    {
+      "id": "153",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "description": "Soon",
+        "speakers": [
+          "ali_can_batur"
+        ],
+        "title": "PropertyWrappers in Swift",
+        "language": "TR"
+      }
+    }
+  ]
+}
