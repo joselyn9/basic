@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "carolyn_hung",
+      "data": {
+        "title": "Writing your unit test in more organised way - try @Nested",
+        "bio": "Carolyn joined N26 as a software engineer. She’s originally from Taiwan, before moving to Berlin, she lived in the USA before moving to Berlin, and worked for big tech companies for 4.5 years as developers and software quality engineers.  Her academic background was heavily on electrical engineering and wireless telecommunications, while as she studied computer engineering in the US. In Carolyn’s free time, she enjoyed attending tech meetups, conference, and networking events, and meet different people. She has passion about IT technologies in different industries.",
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/carolyn0429"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/carolynhung/"
+          }
+        ],
+        "company": "N26 ",
+        "name": "Carolyn Hung",
+        "country": "Berlin, Deutschland",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG6dyYlShTPJA/company-logo_200_200/0?e=2159024400&v=beta&t=gqx09uGAVWnWXRgr7OT-7Y5Wj_pJ_oBKl4RDRzpNPMI",
+        "featured": true,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/Profile_CarolynHung.jpg?alt=media&token=6e912da1-4439-4213-abf0-aee46922f30f",
+        "shortBio": "Carolyn joined N26 as a software engineer.",
+        "order": 0
+      }
+    }
+  ]
+}
