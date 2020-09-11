@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "ali_can_batur",
+      "data": {
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://www.twitter.com/in/alicanbatur/"
+          }
+        ],
+        "shortBio": "iOS Developer with experiences in banking, e-commerce industries. Startup dreamer with a love of Swift.",
+        "country": "Istanbul, Turkey",
+        "featured": true,
+        "company": "Stealth Startup",
+        "bio": "iOS Developer with experiences in banking, e-commerce industries. Startup dreamer with a love of Swift.",
+        "title": "iOS Developer",
+        "photoUrl": "https://avatars1.githubusercontent.com/u/1905698?s=460&v=4",
+        "order": 8,
+        "name": "Ali Can Batur",
+        "companyLogoUrl": "https://cdn-images-1.medium.com/max/1200/1*npG6TSVVycocWjdCJmBcrA.png"
+      }
+    }
+  ]
+}
