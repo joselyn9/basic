@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "bilal_cinarli",
+      "data": {
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/bcinarli"
+          },
+          {
+            "link": "https://github.com/bcinarli",
+            "name": "Github",
+            "icon": "github"
+          }
+        ],
+        "bio": "Bilal is a Software Engineer for adidas and Google Developer Expert on Web Technologies. He focuses on performance, optimization and code scalability. He manages teams and optimizes the front-end development process. He is also, teaches HTML/CSS and JavaScript techniques and gave workshops about Front-end related topics. He blogs at HTML Mag and shares his thoughts about web development, mobile approaches.",
+        "company": "Adidas",
+        "companyLogoUrl": "http://pngimg.com/uploads/adidas/adidas_PNG8.png",
+        "shortBio": "Bilal is a Software Engineer for adidas and Google Developer Expert on Web Technologies.",
+        "order": 0,
+        "featured": true,
+        "name": "Bilal Çınarlı",
+        "title": "Software Engineer",
+        "country": "Nuremberg, Germany",
+        "photoUrl": "https://avatars2.githubusercontent.com/u/150777?s=400&v=4"
+      }
+    }
+  ]
+}
