@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "cafer_mert_CEYHAN",
+      "data": {
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/okanaydin34/"
+          }
+        ],
+        "shortBio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "bio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "tags": [
+          "Android"
+        ],
+        "title": "Android Developer",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "name": "Cafer Mert CEYHAN",
+        "company": "Dolap.com",
+        "order": 5,
+        "featured": true,
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQGtHezOXk18BA/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=nygzKKV-VJtahEOdHlv5m356Fnv2XL7uCU2SuVWgukY",
+        "country": "Istanbul"
+      }
+    }
+  ]
+}
