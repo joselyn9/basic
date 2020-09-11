@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "SimayDinc",
+      "data": {
+        "order": 1,
+        "photoUrl": "https://media.licdn.com/dms/image/C5603AQECLc9lbWwpgw/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=t2bspYFExEDzhN4GJKLOyoESi6Ra0vdvs_NfKmVOJjM",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/simay-dinç-9b070551"
+          }
+        ],
+        "name": "Simay Dinç",
+        "bio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu.  Women in Games Turkiye’nin kurucusu olan Simay Dinç, sinematografik mobil oyunlar üreten Recontact Games’in kurucu ortağı. Yapımcısı olduğu Recontact:Istanbul, Apple tarafından 2015 yılında Türkiye’nin en iyi mobil oyun seçildi, 153 ülkede en yenilikçi oyun kategorisinde lanse edildi. İkinci projeleri Türkiye’nin ilk sinematografik mobil oyunu olan ‘Eyes of Sky’ dünya çapında ödüller aldı. Oyun dünyasının potansiyeline ve sosyal etkisine inanan Simay Dinç, Ayvalık’ta köy çocuklarına ücretsiz oyun tasarımı, kodlama, sinematografi gibi derslerin verildiği, yaratıcı endustriler için tasarlanmış co-working alanı ”Kıraarthane”nin kurucu ortağı. Simay, sadece kendi girişimleri üzerinde çalışmıyor aynı zamanda Rising Tide Europe’da melek yatırımcı olarak yer alıyor ve yaratıcı endustrilere yatırım yapıyor.",
+        "country": "Turkey",
+        "featured": true,
+        "tags": [
+          "Panelist"
+        ],
+        "shortBio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu...",
+        "title": "OYUNDER",
+        "companyLogoUrl": "",
+        "company": "OYUNDER"
+      }
+    }
+  ]
+}
