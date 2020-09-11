@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "EbruYildirim",
+      "data": {
+        "featured": true,
+        "company": "Ollang",
+        "shortBio": "Soon",
+        "title": "Founder & CEO at Ollang",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ebru-yıldırım-9b575128"
+          }
+        ],
+        "name": "Ebru Yıldırın",
+        "tags": [
+          "Panelist"
+        ],
+        "bio": "Soon",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-KdEuNyWyw/profile-displayphoto-shrink_200_200/0?e=1580342400&v=beta&t=1T4PPvqLCouV219lBpNOWqq7xMdc6gm2qU-HpNVQdzc",
+        "country": "Turkey",
+        "order": 1,
+        "companyLogoUrl": ""
+      }
+    }
+  ]
+}
