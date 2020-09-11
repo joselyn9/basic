@@ -1,0 +1,36 @@
+{
+  "speakers": [
+    {
+      "id": "van_riper",
+      "data": {
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "bio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast. Spent 30 years as a developer in Silicon Valley. Joined Google in 2010 to run the Google Developer Groups program. I am currently a Go Community Advocate in the Open Source Programs Team at Google.",
+        "company": "Google",
+        "shortBio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast.",
+        "title": "Go Community Advocate",
+        "order": 0,
+        "country": "Santa Clara, California",
+        "featured": true,
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/vanriper"
+          },
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/vanriper/"
+          },
+          {
+            "icon": "github",
+            "link": "https://vanriper.github.io",
+            "name": "Github"
+          }
+        ],
+        "name": "Van Riper",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fvan-black-backdrop-web.jpg?alt=media&token=62e42631-6dd0-418e-873f-634cf59ee772"
+      }
+    }
+  ]
+}
