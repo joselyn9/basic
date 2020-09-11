@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "sercnayusuf",
+      "data": {
+        "title": "Android Developer",
+        "shortBio": "Soon",
+        "order": 1,
+        "company": "GDG Istanbul",
+        "country": "Turkey",
+        "name": "Sercan Yusuf",
+        "bio": "Soon",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/sercanyusuf"
+          }
+        ],
+        "companyLogoUrl": "",
+        "tags": [
+          "Flutter"
+        ],
+        "photoUrl": "",
+        "featured": true
+      }
+    }
+  ]
+}
