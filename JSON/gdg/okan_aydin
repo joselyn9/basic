@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "okan_aydin",
+      "data": {
+        "title": "Jr. Android Developer",
+        "bio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University. He tries to improve himself on Android development and try to learn as much as he can and also He has been a volunteer organizer of the GDG Istanbul community for 4 years. ",
+        "shortBio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University.",
+        "country": "Istanbul",
+        "featured": true,
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/okan_aydin_image.JPG?alt=media&token=affc237c-6738-413d-b31f-891f0f2bc02b",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/okanaydin34/",
+            "icon": "linkedin"
+          }
+        ],
+        "tags": [
+          "Android"
+        ],
+        "order": 5,
+        "company": "CitizenMe",
+        "name": "Okan AYDIN",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png"
+      }
+    }
+  ]
+}
