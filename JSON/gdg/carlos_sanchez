@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "carlos_sanchez",
+      "data": {
+        "featured": true,
+        "bio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. He works at Adobe building new products on the cloud.",
+        "order": 0,
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/carlossg/",
+            "name": "Linkedin",
+            "icon": "linkedin"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/csanchez",
+            "name": "Twitter"
+          }
+        ],
+        "company": "Adobe",
+        "name": "Carlos Sanchez",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adobe-logo-081113.jpg?alt=media&token=b13ac190-193e-4df3-9eb8-22c0b554d3a6",
+        "shortBio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery.",
+        "title": "Senior Cloud Software Engineer",
+        "country": "España",
+        "photoUrl": "https://en.gravatar.com/userimage/1318030/75ebccdeae70ab23c2f9a117fd6646e3.jpg?size=2000"
+      }
+    }
+  ]
+}
