@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "damian_burke",
+      "data": {
+        "name": "Damian Burke",
+        "company": "Onefootball",
+        "order": 1,
+        "socials": [
+          {
+            "link": "https://twitter.com/damian2048",
+            "name": "Twitter",
+            "icon": "twitter"
+          }
+        ],
+        "companyLogoUrl": "https://image4.owler.com/logo/onefootball_owler_20171207_200937_original.png",
+        "featured": true,
+        "bio": "I'm a Principal Android Engineer based in Berlin. I've been working with Android since 2.3 Gingerbread, in Startups as early-stage employee as well as in big corporations. Currently I am working at Onefootball on an application used by millions every day.",
+        "photoUrl": "https://damianburke.dev/assets/damian.jpg",
+        "country": "Berlin, Germany",
+        "title": "Principal Android Engineer",
+        "shortBio": "I'm a Principal Android Engineer based in Berlin."
+      }
+    }
+  ]
+}
