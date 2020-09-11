@@ -1,0 +1,26 @@
+{
+  "speakers": [
+    {
+      "id": "dylan_drost",
+      "data": {
+        "bio": "Freelance Android and Flutter Developer working on projects like Schiphol, SnappCar and Karify. As the resident geek at home I do the occasional web development/server admin for Betty’s Kitchen a food blog which is run by my wife with over a 1300 post and around 100/150k visitors per month.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/profile_image.jpg?alt=media&token=8a5348ea-6bf0-4796-a7f9-1fb51c360dc9",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/stamped_preview_w.png?alt=media&token=d2c0fa3e-fbe6-4578-99f4-f1c95f0d15d4",
+        "company": "DynaDroid",
+        "featured": true,
+        "shortBio": "Freelance Android and Flutter Developer working on projects like Schiphol, SnappCar and Karify.",
+        "country": "Amsterdam",
+        "title": "How to test on you Flutter app",
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/aegis123"
+          }
+        ],
+        "order": 0,
+        "name": "Dylan Drost"
+      }
+    }
+  ]
+}
