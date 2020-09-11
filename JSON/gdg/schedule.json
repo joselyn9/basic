@@ -1,0 +1,273 @@
+{
+  "schedule": [
+    {
+      "id": "2016-09-09",
+      "data": {
+        "date": "2019-11-24",
+        "dateReadable": "November 24",
+        "tracks": [
+          {
+            "title": "Bosphorus(Uniq Hall)"
+          },
+          {
+            "title": "Galata Tower(Glass Room)"
+          },
+          {
+            "title": "Maiden's Tower"
+          },
+          {
+            "title": "Hagia Sophia"
+          }
+        ],
+        "timeslots": [
+          {
+            "startTime": "09:00",
+            "sessions": [
+              {
+                "items": [
+                  132
+                ]
+              }
+            ],
+            "endTime": "10:00"
+          },
+          {
+            "endTime": "10:50",
+            "startTime": "10:00",
+            "sessions": [
+              {
+                "items": [
+                  136
+                ]
+              }
+            ]
+          },
+          {
+            "startTime": "11:00",
+            "endTime": "11:40",
+            "sessions": [
+              {
+                "items": [
+                  127
+                ]
+              },
+              {
+                "items": [
+                  145
+                ]
+              },
+              {
+                "items": [
+                  114
+                ]
+              },
+              {
+                "items": [
+                  146
+                ]
+              }
+            ]
+          },
+          {
+            "sessions": [
+              {
+                "items": [
+                  115
+                ]
+              },
+              {
+                "items": [
+                  101
+                ]
+              },
+              {
+                "items": [
+                  112
+                ]
+              },
+              {
+                "items": [
+                  105
+                ]
+              }
+            ],
+            "endTime": "12:30",
+            "startTime": "11:50"
+          },
+          {
+            "startTime": "12:40",
+            "endTime": "13:20",
+            "sessions": [
+              {
+                "items": [
+                  113
+                ]
+              },
+              {
+                "items": [
+                  118
+                ]
+              },
+              {
+                "items": [
+                  124,
+                  106
+                ]
+              },
+              {
+                "items": [
+                  143,
+                  149
+                ]
+              }
+            ]
+          },
+          {
+            "endTime": "14:30",
+            "sessions": [
+              {
+                "items": [
+                  133
+                ]
+              }
+            ],
+            "startTime": "13:20"
+          },
+          {
+            "sessions": [
+              {
+                "items": [
+                  116
+                ]
+              },
+              {
+                "items": [
+                  103,
+                  120
+                ]
+              },
+              {
+                "items": [
+                  122,
+                  111
+                ]
+              },
+              {
+                "items": [
+                  148
+                ]
+              }
+            ],
+            "endTime": "15:10",
+            "startTime": "14:30"
+          },
+          {
+            "sessions": [
+              {
+                "items": [
+                  110
+                ]
+              },
+              {
+                "items": [
+                  109
+                ]
+              },
+              {
+                "items": [
+                  144
+                ]
+              },
+              {
+                "items": [
+                  119
+                ]
+              }
+            ],
+            "endTime": "16:00",
+            "startTime": "15:20"
+          },
+          {
+            "sessions": [
+              {
+                "items": [
+                  150
+                ]
+              },
+              {
+                "items": [
+                  123,
+                  102
+                ]
+              },
+              {
+                "items": [
+                  153,
+                  125
+                ]
+              },
+              {
+                "items": [
+                  128,
+                  151
+                ]
+              }
+            ],
+            "startTime": "16:10",
+            "endTime": "16:50"
+          },
+          {
+            "sessions": [
+              {
+                "items": [
+                  141,
+                  108
+                ]
+              },
+              {
+                "items": [
+                  107
+                ]
+              },
+              {
+                "items": [
+                  104,
+                  152
+                ]
+              },
+              {
+                "items": [
+                  121
+                ]
+              }
+            ],
+            "endTime": "17:40",
+            "startTime": "17:00"
+          },
+          {
+            "endTime": "19:00",
+            "sessions": [
+              {
+                "items": [
+                  129
+                ]
+              }
+            ],
+            "startTime": "17:50"
+          },
+          {
+            "startTime": "19:00",
+            "sessions": [
+              {
+                "items": [
+                  130
+                ]
+              }
+            ],
+            "endTime": "19:30"
+          }
+        ]
+      }
+    }
+  ]
+}
