@@ -1,0 +1,36 @@
+{
+  "speakers": [
+    {
+      "id": "onder_ceylan",
+      "data": {
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/onderceylan"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/onderceylan"
+          },
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/onderceylan/",
+            "icon": "linkedin"
+          }
+        ],
+        "title": "JavaScript Tech Lead",
+        "country": "Amsterdam",
+        "photoUrl": "https://i.ibb.co/VMc3m78/FDAC175-C-6-F43-4681-89-A3-0-DA9-A54004-FD.png",
+        "bio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and speaker. He's also interested in photography, capturing night photos specifically.",
+        "company": "LINKIT / KLM",
+        "name": "Önder Ceylan",
+        "featured": true,
+        "order": 0,
+        "shortBio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s.",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlhmcRXe0MoA/company-logo_100_100/0?e=1580342400&v=beta&t=jrfF7LV1eJ5laUigXkvuSEdwEFh1i01Jb1C7NChYse4"
+      }
+    }
+  ]
+}
