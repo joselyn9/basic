@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "Ryan_Fanelli",
+      "data": {
+        "bio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "name": "Ryan Fanelli",
+        "shortBio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "title": "Software Engineer",
+        "photoUrl": "https://i.ibb.co/bKHQgLf/ryan-fanelli.jpg",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ryan-fanelli-9407ba12/"
+          }
+        ],
+        "order": 0,
+        "company": "Google",
+        "country": "London",
+        "featured": true,
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg"
+      }
+    }
+  ]
+}
