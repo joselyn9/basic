@@ -1,0 +1,36 @@
+{
+  "speakers": [
+    {
+      "id": "ahmet_keskin",
+      "data": {
+        "shortBio": "Ahmet keskin, 2013 yılından beri iOS uygulamaları geliştirmektedir. Kısa bir Objective-c macerası ile başlayıp Swift 1.2 ile devam eden serüveni farklı tarzda bir sürü iOS uygulamaları yaparak devam etmiştir.",
+        "name": "Ahmet Keskin",
+        "title": "iOS Developer",
+        "featured": true,
+        "companyLogo": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/trendyol.png?alt=media&token=c78d3793-ad41-4785-8495-f676b8631fd4",
+        "order": 10,
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/_Ahmettkeskin",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/AhmettKeskin",
+            "name": "Github"
+          },
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/ahmettkeskin/",
+            "icon": "linkedin"
+          }
+        ],
+        "bio": "Ahmet keskin, 2013 yılından beri iOS uygulamaları geliştirmektedir. Kısa bir Objective-c macerası ile başlayıp Swift 1.2 ile devam eden serüveni farklı tarzda bir sürü iOS uygulamaları yaparak devam etmiştir. 2016 Nisan ayının başında ise dolap.com şirketinin kuruluş zamanlarında işe girmiş, iOS uygulamasini yapmaya başlamıştır. İki sene sonunda Trendyol.com'un dolap.com'u satın alması sonrası 1 şubat 2018 itibari ile trendyol.com iOS ekibine katılmış ve bir yıl dokuz aydır Trendyol şirketinde iOS geliştirici olarak çalışmaya devam etmektedir. Vakit buldukça blog yazmayı/okumayı sever, open source dünyasına katkı sağlamaya çalışmaktadır. ",
+        "company": "Trendyol",
+        "photoUrl": "https://i.ibb.co/mb57rM0/me-400x400.png",
+        "country": "Istanbul, Turkey"
+      }
+    }
+  ]
+}
