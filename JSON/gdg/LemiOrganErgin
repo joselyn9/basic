@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "LemiOrganErgin",
+      "data": {
+        "title": "Agile Software Crafter & Co-Founder at Craftbase",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHDsrR97LJqFw/company-logo_200_200/0?e=2159024400&v=beta&t=bFbShEasOhZQalpry2uFAA7Q23euJqNcNiXYdXW8GqM",
+        "featured": true,
+        "order": 1,
+        "name": "Lemi Orhan Ergin",
+        "tags": [
+          "Panelist"
+        ],
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/lemiorhan/"
+          }
+        ],
+        "bio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer, Management 3.0 trainer, experienced mentor, engineering booster, Git trainer and lover, the TDD guy, clean coder, infected with the technical side of Agile, presentation and visualization freak, non-stop learner, full time apprentice of my masters, the community guy... All I want is to work with you to build a better development culture with both process and technical sides and to see happy faces at the end.",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQGDzLBr1lXt9g/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=K56vrxFyE78OLKw-q5k_Za_boF4Oius4AWZBeA5bXjE",
+        "country": "Turkey",
+        "company": "Craftbase",
+        "shortBio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer.."
+      }
+    }
+  ]
+}
