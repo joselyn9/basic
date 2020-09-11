@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "kemal_ugur",
+      "data": {
+        "title": "Co-Founder & CEO",
+        "shortBio": "Kemal Ugur is the Co-Founder and CEO of Pixery.",
+        "featured": true,
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/pixery%20logo.jpg?alt=media&token=ee4f6c70-d979-4d25-9707-cb4b769304ad",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-xstbjNCEg/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=4UKm3q5pE54l-yaf_AO5GYNBje50scNWyCXeOSQkRtg",
+        "order": 5,
+        "company": "Pixery",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "country": "Istanbul",
+        "bio": "Kemal Ugur is the Co-Founder and CEO of Pixery. With two R&D offices in Istanbul & Ankara, Pixery is a global tech company building innovative video focused apps for next generation mobile creatives. Before that, Kemal was leading the Audiovisual Content Representation team at Nokia Research Center, where he invented/co-invented many technologies that are included in video coding standards. Kemal is an inventor/co-inventor of around 70 patent applications and 50 academic publications in these areas. ",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/kemalugur/",
+            "name": "Linkedin"
+          }
+        ],
+        "name": "Kemal Ugur"
+      }
+    }
+  ]
+}
