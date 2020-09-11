@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "id": "orcun_kilic",
+      "data": {
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/orrcunkilic/",
+            "name": "Twitter"
+          }
+        ],
+        "country": "Istanbul",
+        "name": "Orçun Kılıç",
+        "company": "Protein",
+        "tags": [
+          "Design"
+        ],
+        "featured": true,
+        "photoUrl": "https://pbs.twimg.com/profile_images/1149288222259863553/dyc0H_GE_400x400.jpg",
+        "bio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır. Protein'de tasarım takım lideri olarak görev almaktadır.",
+        "order": 5,
+        "companyLogoUrl": "https://cdn.dribbble.com/users/1596014/avatars/normal/d4e31622a4a6ce255a9647b83e9918a6.png?1486732675",
+        "title": "Head of Design",
+        "shortBio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır."
+      }
+    }
+  ]
+}
