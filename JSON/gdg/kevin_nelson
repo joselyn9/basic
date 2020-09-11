@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "kevin_nelson",
+      "data": {
+        "shortBio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners.",
+        "country": "Los Angeles",
+        "bio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners. He speaks frequently at developer-focused events around the world. Before joining the Cloud team, he was a lead Product Manager on Google Drive for two years. Prior to joining Google in 2014, Kevin was a successful serial entrepreneur with over 20 years of experience building and managing software and SAAS companies. In his free time, Kevin is an avid traveler, sailor, brewer and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received his degree in Information and Computer Science from the University of California at Irvine.",
+        "title": "Architect Advocate",
+        "company": "Google",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "name": "Kevin Nelson",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fkbnelson%20headshot%202018%201MB.jpg?alt=media&token=e88889af-8457-4109-849f-53dc4dc116cc",
+        "featured": true,
+        "order": 0,
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/knelsoncloud/"
+          },
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/knelsoncloud",
+            "icon": "twitter"
+          }
+        ]
+      }
+    }
+  ]
+}
