@@ -1,0 +1,43 @@
+{
+  "speakers": [
+    {
+      "id": "muhammedsalih",
+      "data": {
+        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
+        "country": "Berlin, Germany",
+        "featured": true,
+        "badges": [
+          {
+            "link": "https://developers.google.com/community/experts/directory",
+            "name": "gde",
+            "description": "Web Technologies Google Developer Expert"
+          }
+        ],
+        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "order": 0,
+        "companyLogoUrl": "https://image4.owler.com/logo/onefootball_owler_20171207_200937_original.png",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/knelsoncloud/",
+            "name": "Linkedin"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/salihgueler",
+            "name": "Twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/salihgueler"
+          }
+        ],
+        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
+        "company": "Onefootball GmbH",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
+        "name": "Muhammed Salih Güler"
+      }
+    }
+  ]
+}
