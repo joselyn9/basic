@@ -1,0 +1,38 @@
+{
+  "speakers": [
+    {
+      "id": "hadi_tok",
+      "data": {
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "badges": [
+          {
+            "description": "Web Technologies Google Developer Expert",
+            "name": "gde",
+            "link": "https://developers.google.com/community/experts/directory/profile/profile-hadi_tok"
+          },
+          {
+            "link": " https://meetup.com/gdgistanbul",
+            "description": "Google Developers Group Istanbul",
+            "name": "gdg"
+          }
+        ],
+        "order": 0,
+        "featured": true,
+        "bio": "Hadi is a Google Developers Expert on Android and develops Android Applications since Android 1.6 Donut and very passionate about it. Developed a handful Android applications since then with variety of technical challenges. Also likes to try new things. He developed software for other platforms professionally and personally. Hadi likes to share his experiences so he is writing blog posts in Turkish and English. He is really active in community slack channels to help people out and get helped. He also gives talks about Android development mostly about on Kotlin related subjects. Hadi loves to learn new things and share it with people.  ",
+        "name": "Hadi Tok",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/hadi_tok",
+            "name": "Twitter"
+          }
+        ],
+        "country": "Istanbul",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/Hadi%20Tok%20GDE%20badge%20copy.jpg?alt=media&token=1aaf4708-fd71-4f94-833e-54ae2041fa7f",
+        "shortBio": "Hadi is a Google Developers Expert on Android and develops Android Applications since Android 1.",
+        "title": "Android Developer",
+        "company": "CitizenMe"
+      }
+    }
+  ]
+}
