@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "id": "mark_stephens",
+      "data": {
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/markee174"
+          },
+          {
+            "link": "https://github.com/markee174",
+            "name": "Github",
+            "icon": "github"
+          }
+        ],
+        "featured": true,
+        "name": "Mark Stephens",
+        "bio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18. He is a software developer and the founder of IDRsolutions, which develops a Java PDF library and a PDF to HTML5/SVG converter. This year he is doing 3 technical talks at Oracle CodeOne and also talking at NetBeans UK, and Dawscon 2020 in Montreal.  Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference where he can combine his passion for software and history.",
+        "title": "Founder/CEO of IDRsolutions",
+        "country": "London",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FIDRSmallwithbreak.png?alt=media&token=008224db-884e-4aa6-87ab-e4293463f643",
+        "photoUrl": "http://files.idrsolutions.com/mark.jpg",
+        "company": "IDRsolutions",
+        "order": 0,
+        "shortBio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18."
+      }
+    }
+  ]
+}
