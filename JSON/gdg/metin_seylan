@@ -1,0 +1,38 @@
+{
+  "speakers": [
+    {
+      "id": "metin_seylan",
+      "data": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fmetinseylan.jpg?alt=media&token=fc313411-dc54-4f2c-b628-700baa6dbcd7",
+        "name": "Metin Seylan",
+        "featured": true,
+        "title": "Senior Software Developer",
+        "socials": [
+          {
+            "link": "https://twitter.com/metinseylan",
+            "name": "Twitter",
+            "icon": "twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "http://github.com/metinseylan"
+          }
+        ],
+        "badges": [
+          {
+            "link": "https://developers.google.com/community/experts/directory",
+            "description": "Web Technologies Google Developer Expert",
+            "name": "gde"
+          }
+        ],
+        "bio": "He is a Senior Software Developer, Open Source contributor and a Google Developer Expert on Cloud. Currently working at Scotty Turkey and mainly focused on the distributed systems and microservices. You can learn more about Metin by following him on Github! (@MetinSeylan)! With his utmost pleasure, he would like to welcome you all to the DEVFEST İstanbul 2019, and he is so honoured to be here among the other outstanding speakers.",
+        "company": "Scotty",
+        "country": "Istanbul",
+        "shortBio": "He is a Senior Software Developer, Open Source contributor and a Google Developer Expert on Cloud.",
+        "order": 10,
+        "companyLogoUrl": "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_100,w_100,f_auto,q_auto:eco/q5hhkggjz4zy9t0afqua"
+      }
+    }
+  ]
+}
