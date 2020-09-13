@@ -1,0 +1,1242 @@
+{
+  "speakers": [
+    {
+      "id": "BarisYesugey",
+      "data": {
+        "tags": [
+          "Web",
+          "Keynote"
+        ],
+        "company": "Google",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/google.png?alt=media&token=29967743-e249-47f4-bf47-1184a9047c85",
+        "country": "Turkey",
+        "bio": "Üniversite eğitimini İngiltere'de (Bilgisayar Bilimleri) tamamlayan Barış, Facebook ve Paypal'da satış ve çözüm mühendisi olarak geliştiricilerin platform teknolojilerini uygulama ve servislerine entegre etmesinde destek oldu. Şu anda, Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+        "featured": true,
+        "title": "Developer Relations Region Lead",
+        "order": 1,
+        "shortBio": "Google Ekosistem takiminda, Google Gelistirici Platform ürünlerini Türkiye, Kafkaslar ve Asya bölgeside yasayan geliştiricilere tanitmaktadir.",
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/barisyesugey/",
+            "icon": "linkedin",
+            "name": "Linkedin"
+          }
+        ],
+        "name": "Barış Yesügey",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/wtm19-site.appspot.com/o/barisyesugey.jpg?alt=media&token=2ede0cfa-694e-40bb-a0e7-0de9358f1abd"
+      }
+    },
+    {
+      "id": "EbruYildirim",
+      "data": {
+        "shortBio": "Soon",
+        "company": "Ollang",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ebru-yıldırım-9b575128"
+          }
+        ],
+        "companyLogoUrl": "",
+        "order": 1,
+        "bio": "Soon",
+        "tags": [
+          "Panelist"
+        ],
+        "featured": true,
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-KdEuNyWyw/profile-displayphoto-shrink_200_200/0?e=1580342400&v=beta&t=1T4PPvqLCouV219lBpNOWqq7xMdc6gm2qU-HpNVQdzc",
+        "title": "Founder & CEO at Ollang",
+        "name": "Ebru Yıldırın",
+        "country": "Turkey"
+      }
+    },
+    {
+      "id": "JunSakata",
+      "data": {
+        "featured": true,
+        "tags": [
+          "Cloud"
+        ],
+        "country": "Tokyo",
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/sakajunquality"
+          }
+        ],
+        "companyLogoUrl": "https://avatars1.githubusercontent.com/u/42458979?s=200&v=4",
+        "order": 0,
+        "photoUrl": "https://pbs.twimg.com/profile_images/1047157392247422976/CE5oOWDQ_400x400.jpg",
+        "shortBio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo.",
+        "company": "Ubie Inc",
+        "name": "Jun Sakata",
+        "title": "Software Engineer",
+        "bio": "Google Developers Expert specialized in GCP. I also work as Software Engineer at Ubie Inc, a healthcare startup in Tokyo. I am responsible for designing, developing and running services on Google Cloud. I usually do deploying services on Kubernetes, managing its CI/CD pipelines, managing traffic policies and observing traffic using the cloud’s managed, open sourced and internal products. I’m focusing on services’ observability for the sake of SRE practices."
+      }
+    },
+    {
+      "id": "KrisztianKornelBanhidy",
+      "data": {
+        "order": 0,
+        "country": "Turkey",
+        "featured": true,
+        "company": "Peak",
+        "name": "Krisztian Kornel Banhidy",
+        "shortBio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_0432.jpg?alt=media&token=5f30909f-5ab6-4b7c-b8be-c78e85c00c1e",
+        "tags": [
+          "cloud"
+        ],
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/s4mur4i/",
+            "name": "Linkedin"
+          }
+        ],
+        "title": "Sr. DevOps Engineer",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/peak-logo-transparent.png?alt=media&token=362e879c-cc1b-4d05-ad0a-42e3a1db8a32",
+        "bio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company."
+      }
+    },
+    {
+      "id": "LemiOrganErgin",
+      "data": {
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQHDsrR97LJqFw/company-logo_200_200/0?e=2159024400&v=beta&t=bFbShEasOhZQalpry2uFAA7Q23euJqNcNiXYdXW8GqM",
+        "title": "Agile Software Crafter & Co-Founder at Craftbase",
+        "country": "Turkey",
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/lemiorhan/",
+            "icon": "linkedin",
+            "name": "Linkedin"
+          }
+        ],
+        "tags": [
+          "Panelist"
+        ],
+        "bio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer, Management 3.0 trainer, experienced mentor, engineering booster, Git trainer and lover, the TDD guy, clean coder, infected with the technical side of Agile, presentation and visualization freak, non-stop learner, full time apprentice of my masters, the community guy... All I want is to work with you to build a better development culture with both process and technical sides and to see happy faces at the end.",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQGDzLBr1lXt9g/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=K56vrxFyE78OLKw-q5k_Za_boF4Oius4AWZBeA5bXjE",
+        "company": "Craftbase",
+        "order": 1,
+        "name": "Lemi Orhan Ergin",
+        "shortBio": "Software craftsman, Agile enthusiast, technical architect, passionate developer, Agile culture cultivator, Agile coach, Scrum / Kanban practitioner and trainer..",
+        "featured": true
+      }
+    },
+    {
+      "id": "Meysam_Asgarichenaghlou",
+      "data": {
+        "featured": true,
+        "socials": [
+          {
+            "icon": "linkedin",
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/meysam-ac"
+          }
+        ],
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adesso%20high%20logo.jpg?alt=media&token=92bd0175-98fb-446c-a38a-914a0939c50a",
+        "name": "Meysam Asgarichenaghlou",
+        "bio": "He is currently senior AI researcher at Adesso Turkey. His research interests and working area includes deepNLP, natural language processing, deep learning and machine learning. Currently working on various AI projects ranging from image processing to natural language processing at akbank bankacilik merkezi on behalf of adesso turkey.",
+        "order": 3,
+        "photoUrl": "https://i.ibb.co/KKYNZs4/Meysam-Asgari.jpg",
+        "tags": [
+          "Machine Learning & AI"
+        ],
+        "country": "Istanbul",
+        "title": "Senior AI Researcher",
+        "company": "Adesso Turkey",
+        "shortBio": "He is currently senior AI researcher at Adesso Turkey."
+      }
+    },
+    {
+      "id": "Nilay_Yener",
+      "data": {
+        "bio": "Nilay, Amerika'da Flutter ekibinde çalışıyor. GDG Istanbul ile başlayan Yazilimci Topluluklari macerası, Silikon Vadisi'nde 'Developer Relations' kariyerine sürüklerken, en son kendini Flutter ekibinde buldu. 4 yildir Google'da çalışıyor. Yazilimci topluluklari, Flutter ve Karadeniz çayı hakkında konuşmak en sevdigi, bi yerlerde görürseniz lütfen gidin merhaba deyin. ",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/nlycskn",
+            "icon": "twitter"
+          }
+        ],
+        "country": "San Francisco",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "photoUrl": "https://i.ibb.co/CBd0VS2/nilay-yener.jpg",
+        "title": "DevRel Program Manager for Flutter and Dart",
+        "company": "Google",
+        "name": "Nilay Yener",
+        "featured": true,
+        "shortBio": "Nilay, Amerika'da Flutter ekibinde çalışıyor.",
+        "order": 0,
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg"
+      }
+    },
+    {
+      "id": "OmerAbi",
+      "data": {
+        "photoUrl": "https://digitalagesummit.com/wp-content/uploads/2018/04/%C3%96mer-Erkmen1.jpg",
+        "company": "Abi",
+        "title": "Co-Founder at Yeni Nesil Kafası",
+        "country": "Turkey",
+        "shortBio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM.",
+        "order": 1,
+        "companyLogoUrl": "",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/omererkmen",
+            "icon": "linkedin"
+          }
+        ],
+        "name": "Ömer Abi",
+        "tags": [
+          "Panelist"
+        ],
+        "featured": true,
+        "bio": "Ömer Erkmen who had his Electrical and Electronics degree from İTU in 1979 graduated from UCSB Computer Science with a master’s degree in 1984 joined Mekanist and became a member of the Board of Directors after completing his corporate work life at Microsoft as an instructor and advisor in the field of CRM. Upon acquisition of the company by Zomato in 2015, he started taking a more active role in fields of entrepreneurship and investment. He has been involved in many projects as founder, mentor and investor and he is still working in entrepreneurship field without a break. Business enterprises he has been a part of: Scorp, Flightrecorder, Ideasoft, Blesh, Temizlikyolda, Bionluk, Kolay Randevu, Connected2me, Erasmusinn and English Ninjas."
+      }
+    },
+    {
+      "id": "Omid_Safarzadeh",
+      "data": {
+        "order": 4,
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adesso%20high%20logo.jpg?alt=media&token=92bd0175-98fb-446c-a38a-914a0939c50a",
+        "shortBio": "He is currently principal AI researcher at Adesso Turkey.",
+        "photoUrl": "https://i.ibb.co/X5yx5p6/Omid-Safarzadeh.jpg",
+        "company": "Adesso Turkey",
+        "bio": "He is currently principal AI researcher at Adesso Turkey. His research interests and working area includes deepNLP, natural language processing, deep learning and machine learning. Currently working on various AI projects ranging from image processing to natural language processing at akbank bankacilik merkezi on behalf of adesso turkey.",
+        "name": "Omid Safarzadeh",
+        "featured": true,
+        "country": "Istanbul",
+        "tags": [
+          "Machine Learning & AI"
+        ],
+        "title": "Principal AI Researcher",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/omidsafarzadeh",
+            "name": "Linkedin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ryan_Fanelli",
+      "data": {
+        "photoUrl": "https://i.ibb.co/bKHQgLf/ryan-fanelli.jpg",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "name": "Ryan Fanelli",
+        "company": "Google",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ryan-fanelli-9407ba12/"
+          }
+        ],
+        "shortBio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "order": 0,
+        "country": "London",
+        "title": "Software Engineer",
+        "companyLogoUrl": "ttps://devfest.istanbul/images/logos/google.svg",
+        "bio": "Ryan is a London-based Software Engineer working on the Google Play Console to provide Android developers insights into how to improve their user acquisition and monetization.",
+        "featured": true
+      }
+    },
+    {
+      "id": "SimayDinc",
+      "data": {
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/simay-dinç-9b070551"
+          }
+        ],
+        "name": "Simay Dinç",
+        "shortBio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu...",
+        "companyLogoUrl": "",
+        "country": "Turkey",
+        "company": "OYUNDER",
+        "title": "OYUNDER",
+        "photoUrl": "https://media.licdn.com/dms/image/C5603AQECLc9lbWwpgw/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=t2bspYFExEDzhN4GJKLOyoESi6Ra0vdvs_NfKmVOJjM",
+        "featured": true,
+        "tags": [
+          "Panelist"
+        ],
+        "bio": "Istanbul Üniversitesi İşletme Fakultesinden 2005 yılında mezun olan Simay Dinç 10 yıl boyunca teknoloji, sanat ve oyun için 35’i aşkın ülkeye tek başına seyahat etti, eğitim ve araştırma yapma fırsatı buldu.  Women in Games Turkiye’nin kurucusu olan Simay Dinç, sinematografik mobil oyunlar üreten Recontact Games’in kurucu ortağı. Yapımcısı olduğu Recontact:Istanbul, Apple tarafından 2015 yılında Türkiye’nin en iyi mobil oyun seçildi, 153 ülkede en yenilikçi oyun kategorisinde lanse edildi. İkinci projeleri Türkiye’nin ilk sinematografik mobil oyunu olan ‘Eyes of Sky’ dünya çapında ödüller aldı. Oyun dünyasının potansiyeline ve sosyal etkisine inanan Simay Dinç, Ayvalık’ta köy çocuklarına ücretsiz oyun tasarımı, kodlama, sinematografi gibi derslerin verildiği, yaratıcı endustriler için tasarlanmış co-working alanı ”Kıraarthane”nin kurucu ortağı. Simay, sadece kendi girişimleri üzerinde çalışmıyor aynı zamanda Rising Tide Europe’da melek yatırımcı olarak yer alıyor ve yaratıcı endustrilere yatırım yapıyor.",
+        "order": 1
+      }
+    },
+    {
+      "id": "ahmet_keskin",
+      "data": {
+        "company": "Trendyol",
+        "bio": "Ahmet keskin, 2013 yılından beri iOS uygulamaları geliştirmektedir. Kısa bir Objective-c macerası ile başlayıp Swift 1.2 ile devam eden serüveni farklı tarzda bir sürü iOS uygulamaları yaparak devam etmiştir. 2016 Nisan ayının başında ise dolap.com şirketinin kuruluş zamanlarında işe girmiş, iOS uygulamasini yapmaya başlamıştır. İki sene sonunda Trendyol.com'un dolap.com'u satın alması sonrası 1 şubat 2018 itibari ile trendyol.com iOS ekibine katılmış ve bir yıl dokuz aydır Trendyol şirketinde iOS geliştirici olarak çalışmaya devam etmektedir. Vakit buldukça blog yazmayı/okumayı sever, open source dünyasına katkı sağlamaya çalışmaktadır. ",
+        "name": "Ahmet Keskin",
+        "order": 10,
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/_Ahmettkeskin"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/AhmettKeskin",
+            "name": "Github"
+          },
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ahmettkeskin/"
+          }
+        ],
+        "companyLogo": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/trendyol.png?alt=media&token=c78d3793-ad41-4785-8495-f676b8631fd4",
+        "photoUrl": "https://i.ibb.co/mb57rM0/me-400x400.png",
+        "country": "Istanbul, Turkey",
+        "featured": true,
+        "shortBio": "Ahmet keskin, 2013 yılından beri iOS uygulamaları geliştirmektedir. Kısa bir Objective-c macerası ile başlayıp Swift 1.2 ile devam eden serüveni farklı tarzda bir sürü iOS uygulamaları yaparak devam etmiştir.",
+        "title": "iOS Developer"
+      }
+    },
+    {
+      "id": "alaa_alnuaimi",
+      "data": {
+        "bio": "My name is Alaa Alnuaimi, I am a designer and developer living in Istanbul. I work as creative director at -99 design studio, which I have also co-founded. I also hold the position of Front-end team leader at Proj-e Software. For the last two years code jury at Awwwards. Raised by a painter and sculptor I have a great deal of passion for fine art and calligraphy. I am lucky to have both design and technical background, allowing me to work across both disciplines.",
+        "title": "Creative Director, Founder",
+        "name": "Alaa Alnuaimi",
+        "photoUrl": "https://www.minus99.com/temp/Alaa-Alnuaimi.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/alacaesar"
+          },
+          {
+            "link": "https://github.com/alacaesar",
+            "icon": "github",
+            "name": "Github"
+          }
+        ],
+        "featured": true,
+        "order": 8,
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/minus.png?alt=media&token=833e5e8d-3cc7-4347-b47b-72ab468d16d2",
+        "shortBio": "My name is Alaa Alnuaimi, I am a designer and developer living in Istanbul.",
+        "country": "Istanbul, Turkey",
+        "company": "-99 design studio"
+      }
+    },
+    {
+      "id": "ali_can_batur",
+      "data": {
+        "featured": true,
+        "bio": "iOS Developer with experiences in banking, e-commerce industries. Startup dreamer with a love of Swift.",
+        "name": "Ali Can Batur",
+        "title": "iOS Developer",
+        "order": 8,
+        "company": "Stealth Startup",
+        "shortBio": "iOS Developer with experiences in banking, e-commerce industries. Startup dreamer with a love of Swift.",
+        "socials": [
+          {
+            "link": "https://www.twitter.com/in/alicanbatur/",
+            "icon": "twitter",
+            "name": "Twitter"
+          }
+        ],
+        "photoUrl": "https://avatars1.githubusercontent.com/u/1905698?s=460&v=4",
+        "companyLogoUrl": "https://cdn-images-1.medium.com/max/1200/1*npG6TSVVycocWjdCJmBcrA.png",
+        "country": "Istanbul, Turkey"
+      }
+    },
+    {
+      "id": "arda_arican",
+      "data": {
+        "companyLogoUrl": "https://cdn.dribbble.com/users/1596014/avatars/normal/d4e31622a4a6ce255a9647b83e9918a6.png?1486732675",
+        "shortBio": "I’m designer with principles, both adventures and geeky at certain times.",
+        "tags": [
+          "Design"
+        ],
+        "name": "Arda Arıcan",
+        "order": 5,
+        "featured": true,
+        "company": "Protein",
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ardaarican/",
+            "name": "Linkedin"
+          }
+        ],
+        "title": "Product Designer",
+        "bio": "I’m designer with principles, both adventures and geeky at certain times. I make comprehensible designing user interface for people. Sr. Product Designer @Protien",
+        "country": "Istanbul",
+        "photoUrl": "https://scontent.fist6-1.fna.fbcdn.net/v/t1.0-9/52420903_10156356790718370_1822855352455004160_n.jpg?_nc_cat=110&_nc_oc=AQkWsptj5_6p-hwDq-t3gdTwHw7-SIica95xGaK9OZDwBZ42_424Qt9Z4W3v3c55o5M&_nc_ht=scontent.fist6-1.fna&oh=5c09646e7634618fbe21dc4992aaeb0e&oe=5E48D8C2"
+      }
+    },
+    {
+      "id": "bilal_cinarli",
+      "data": {
+        "order": 0,
+        "shortBio": "Bilal is a Software Engineer for adidas and Google Developer Expert on Web Technologies.",
+        "featured": true,
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/bcinarli"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/bcinarli"
+          }
+        ],
+        "companyLogoUrl": "http://pngimg.com/uploads/adidas/adidas_PNG8.png",
+        "bio": "Bilal is a Software Engineer for adidas and Google Developer Expert on Web Technologies. He focuses on performance, optimization and code scalability. He manages teams and optimizes the front-end development process. He is also, teaches HTML/CSS and JavaScript techniques and gave workshops about Front-end related topics. He blogs at HTML Mag and shares his thoughts about web development, mobile approaches.",
+        "country": "Nuremberg, Germany",
+        "company": "Adidas",
+        "title": "Software Engineer",
+        "name": "Bilal Çınarlı",
+        "photoUrl": "https://avatars2.githubusercontent.com/u/150777?s=400&v=4"
+      }
+    },
+    {
+      "id": "cafer_mert_CEYHAN",
+      "data": {
+        "order": 5,
+        "title": "Android Developer",
+        "company": "Dolap.com",
+        "shortBio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "country": "Istanbul",
+        "photoUrl": "https://media.licdn.com/dms/image/C4D03AQGtHezOXk18BA/profile-displayphoto-shrink_200_200/0?e=1579737600&v=beta&t=nygzKKV-VJtahEOdHlv5m356Fnv2XL7uCU2SuVWgukY",
+        "featured": true,
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/okanaydin34/"
+          }
+        ],
+        "tags": [
+          "Android"
+        ],
+        "bio": "Mert is an Android Developer at dolap.com. He mainly focuses writing clean, readable and maintainable code. He improves himself by reading blog posts, following new technologies and attending to tech events. Also, Mert has been a user group member at Google Developers Groups (GDG) Istanbul. He believes and supports community spirit, learning and sharing.  ",
+        "name": "Cafer Mert CEYHAN"
+      }
+    },
+    {
+      "id": "carlos_sanchez",
+      "data": {
+        "shortBio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery.",
+        "bio": "Carlos Sanchez specializes in software automation, from build tools to Continuous Delivery. Involved in Open Source for over 15 years, he is the author of the Jenkins Kubernetes plugin and a member of the Apache Software Foundation amongst other open source groups, contributing to several projects, such as Jenkins or Apache Maven. He works at Adobe building new products on the cloud.",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/carlossg/"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/csanchez",
+            "name": "Twitter"
+          }
+        ],
+        "featured": true,
+        "country": "España",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/adobe-logo-081113.jpg?alt=media&token=b13ac190-193e-4df3-9eb8-22c0b554d3a6",
+        "title": "Senior Cloud Software Engineer",
+        "name": "Carlos Sanchez",
+        "company": "Adobe",
+        "photoUrl": "https://en.gravatar.com/userimage/1318030/75ebccdeae70ab23c2f9a117fd6646e3.jpg?size=2000",
+        "order": 0
+      }
+    },
+    {
+      "id": "carmen_andoh",
+      "data": {
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "featured": true,
+        "name": "Carmen Andoh",
+        "title": "Open Source Strategy Lead, Go Language and Ecosystem",
+        "company": "Google",
+        "order": 0,
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/carmatrocity",
+            "icon": "twitter"
+          },
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/carmenandoh/"
+          },
+          {
+            "link": "https://github.com/Lyoness",
+            "icon": "github",
+            "name": "Github"
+          }
+        ],
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FCarmen-Herna%CC%81ndez-Andoh-460x460.jpeg?alt=media&token=58fe19b1-88e3-4b73-98f6-d32bb25b4783",
+        "shortBio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build",
+        "country": "Santa Clara, California",
+        "bio": "Open Source Strategy Lead for Go Programming Language and Ecosystem Build, Infrastructure Engineer, Travis CI Operations Engineer, Enquos Systems Administrator, State University of New York I like exploring Programming Languages History, Sociology, and Archeology.  So many things you can find in old code! "
+      }
+    },
+    {
+      "id": "carolyn_hung",
+      "data": {
+        "order": 0,
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4D0BAQG6dyYlShTPJA/company-logo_200_200/0?e=2159024400&v=beta&t=gqx09uGAVWnWXRgr7OT-7Y5Wj_pJ_oBKl4RDRzpNPMI",
+        "shortBio": "Carolyn joined N26 as a software engineer.",
+        "name": "Carolyn Hung",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/Profile_CarolynHung.jpg?alt=media&token=6e912da1-4439-4213-abf0-aee46922f30f",
+        "country": "Berlin, Deutschland",
+        "company": "N26 ",
+        "featured": true,
+        "bio": "Carolyn joined N26 as a software engineer. She’s originally from Taiwan, before moving to Berlin, she lived in the USA before moving to Berlin, and worked for big tech companies for 4.5 years as developers and software quality engineers.  Her academic background was heavily on electrical engineering and wireless telecommunications, while as she studied computer engineering in the US. In Carolyn’s free time, she enjoyed attending tech meetups, conference, and networking events, and meet different people. She has passion about IT technologies in different industries.",
+        "title": "Writing your unit test in more organised way - try @Nested",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/carolyn0429",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/carolynhung/",
+            "name": "Linkedin"
+          }
+        ]
+      }
+    },
+    {
+      "id": "damian_burke",
+      "data": {
+        "companyLogoUrl": "https://image4.owler.com/logo/onefootball_owler_20171207_200937_original.png",
+        "photoUrl": "https://damianburke.dev/assets/damian.jpg",
+        "featured": true,
+        "socials": [
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/damian2048"
+          }
+        ],
+        "country": "Berlin, Germany",
+        "name": "Damian Burke",
+        "bio": "I'm a Principal Android Engineer based in Berlin. I've been working with Android since 2.3 Gingerbread, in Startups as early-stage employee as well as in big corporations. Currently I am working at Onefootball on an application used by millions every day.",
+        "title": "Principal Android Engineer",
+        "order": 1,
+        "company": "Onefootball",
+        "shortBio": "I'm a Principal Android Engineer based in Berlin."
+      }
+    },
+    {
+      "id": "daron_yondem",
+      "data": {
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "order": 5,
+        "company": "XOGO",
+        "featured": true,
+        "companyLogoUrl": "https://static1.squarespace.com/static/58fe921246c3c4afb89c36e5/t/58fec269e58c629c7eefe5a6/1572467210407/?format=1500w",
+        "shortBio": "Daron is a Microsoft Regional Director and an Azure MVP since 2008. He is a regular speaker at international conferences focusing on Microservices, Serverless, and IoT. ",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/2019.jpg?alt=media&token=5c160a15-2871-49cc-a189-8207680d2cee",
+        "country": "Istanbul",
+        "bio": "Daron is a Microsoft Regional Director and an Azure MVP since 2008. He is a regular speaker at international conferences focusing on Microservices, Serverless, and IoT. Daron currently works as a CTO in XOMNI Inc, a cloud company building PAAS offerings for retailers and XOGO where they are building a decision signage platform.",
+        "name": "Daron Yöndem",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://www.twitter.com/Daronyondem",
+            "icon": "twitter"
+          }
+        ],
+        "title": "CTO"
+      }
+    },
+    {
+      "id": "dylan_drost",
+      "data": {
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/stamped_preview_w.png?alt=media&token=d2c0fa3e-fbe6-4578-99f4-f1c95f0d15d4",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/profile_image.jpg?alt=media&token=8a5348ea-6bf0-4796-a7f9-1fb51c360dc9",
+        "shortBio": "Freelance Android and Flutter Developer working on projects like Schiphol, SnappCar and Karify.",
+        "name": "Dylan Drost",
+        "featured": true,
+        "order": 0,
+        "bio": "Freelance Android and Flutter Developer working on projects like Schiphol, SnappCar and Karify. As the resident geek at home I do the occasional web development/server admin for Betty’s Kitchen a food blog which is run by my wife with over a 1300 post and around 100/150k visitors per month.",
+        "title": "How to test on you Flutter app",
+        "country": "Amsterdam",
+        "socials": [
+          {
+            "link": "https://twitter.com/aegis123",
+            "icon": "twitter",
+            "name": "Twitter"
+          }
+        ],
+        "company": "DynaDroid"
+      }
+    },
+    {
+      "id": "erol_kaftanoglu",
+      "data": {
+        "country": "Istanbul",
+        "order": 5,
+        "featured": true,
+        "company": "Blindid",
+        "shortBio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum",
+        "photoUrl": "http://erolkaftanoglu.com/images/profile.jpg",
+        "title": "Android Developer",
+        "companyLogoUrl": "https://blindid.app/_next/static/images/logo-8e6f083c2486cba3c067d6eb6316976d.png",
+        "bio": "Erol Kaftanoglu, Blindid Android developer gelistiriyorum, GDG Istanbulda organizatörlük yapıyorum.",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/erolkaftanoglu/"
+          }
+        ],
+        "name": "Erol Kaftanoglu",
+        "tags": [
+          "Firebase"
+        ]
+      }
+    },
+    {
+      "id": "hadi_tok",
+      "data": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/Hadi%20Tok%20GDE%20badge%20copy.jpg?alt=media&token=1aaf4708-fd71-4f94-833e-54ae2041fa7f",
+        "company": "CitizenMe",
+        "name": "Hadi Tok",
+        "featured": true,
+        "shortBio": "Hadi is a Google Developers Expert on Android and develops Android Applications since Android 1.",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "bio": "Hadi is a Google Developers Expert on Android and develops Android Applications since Android 1.6 Donut and very passionate about it. Developed a handful Android applications since then with variety of technical challenges. Also likes to try new things. He developed software for other platforms professionally and personally. Hadi likes to share his experiences so he is writing blog posts in Turkish and English. He is really active in community slack channels to help people out and get helped. He also gives talks about Android development mostly about on Kotlin related subjects. Hadi loves to learn new things and share it with people.  ",
+        "order": 0,
+        "country": "Istanbul",
+        "badges": [
+          {
+            "description": "Web Technologies Google Developer Expert",
+            "link": "https://developers.google.com/community/experts/directory/profile/profile-hadi_tok",
+            "name": "gde"
+          },
+          {
+            "description": "Google Developers Group Istanbul",
+            "link": " https://meetup.com/gdgistanbul",
+            "name": "gdg"
+          }
+        ],
+        "title": "Android Developer",
+        "socials": [
+          {
+            "link": "https://twitter.com/hadi_tok",
+            "name": "Twitter",
+            "icon": "twitter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kemal_ugur",
+      "data": {
+        "company": "Pixery",
+        "photoUrl": "https://media.licdn.com/dms/image/C4E03AQFn-xstbjNCEg/profile-displayphoto-shrink_200_200/0?e=1579132800&v=beta&t=4UKm3q5pE54l-yaf_AO5GYNBje50scNWyCXeOSQkRtg",
+        "name": "Kemal Ugur",
+        "order": 5,
+        "shortBio": "Kemal Ugur is the Co-Founder and CEO of Pixery.",
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/kemalugur/",
+            "name": "Linkedin",
+            "icon": "linkedin"
+          }
+        ],
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/pixery%20logo.jpg?alt=media&token=ee4f6c70-d979-4d25-9707-cb4b769304ad",
+        "featured": true,
+        "bio": "Kemal Ugur is the Co-Founder and CEO of Pixery. With two R&D offices in Istanbul & Ankara, Pixery is a global tech company building innovative video focused apps for next generation mobile creatives. Before that, Kemal was leading the Audiovisual Content Representation team at Nokia Research Center, where he invented/co-invented many technologies that are included in video coding standards. Kemal is an inventor/co-inventor of around 70 patent applications and 50 academic publications in these areas. ",
+        "tags": [
+          "Mobile Technologies"
+        ],
+        "title": "Co-Founder & CEO",
+        "country": "Istanbul"
+      }
+    },
+    {
+      "id": "kevin_nelson",
+      "data": {
+        "order": 0,
+        "bio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners. He speaks frequently at developer-focused events around the world. Before joining the Cloud team, he was a lead Product Manager on Google Drive for two years. Prior to joining Google in 2014, Kevin was a successful serial entrepreneur with over 20 years of experience building and managing software and SAAS companies. In his free time, Kevin is an avid traveler, sailor, brewer and history buff who loves stargazing and studying the Age of Exploration. Mr. Nelson received his degree in Information and Computer Science from the University of California at Irvine.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fkbnelson%20headshot%202018%201MB.jpg?alt=media&token=e88889af-8457-4109-849f-53dc4dc116cc",
+        "shortBio": "Kevin is a Google Cloud Developer Advocate focused on machine learning and enterprise strategic partners.",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/knelsoncloud/"
+          },
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/knelsoncloud"
+          }
+        ],
+        "country": "Los Angeles",
+        "title": "Architect Advocate",
+        "name": "Kevin Nelson",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "company": "Google",
+        "featured": true
+      }
+    },
+    {
+      "id": "krisztian_kornel",
+      "data": {
+        "order": 1,
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/peak-logo-transparent.png?alt=media&token=362e879c-cc1b-4d05-ad0a-42e3a1db8a32",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/s4mur4i/"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://www.github.com/s4mur4i/"
+          }
+        ],
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_0432.jpg?alt=media&token=5f30909f-5ab6-4b7c-b8be-c78e85c00c1e",
+        "featured": true,
+        "company": "Peak",
+        "country": "Turkey",
+        "shortBio": "Krisztian is responsible for maintaining and running Peak’s infrastructure.",
+        "name": "Krisztian Kornel Banhidy",
+        "tags": [
+          "Cloud"
+        ],
+        "title": "Sr. DevOps Engineer - Peak",
+        "bio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.         "
+      }
+    },
+    {
+      "id": "krisztiankornelbanhidy",
+      "data": {
+        "order": 1,
+        "company": "Peak",
+        "country": "Turkey",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/s4mur4i/"
+          },
+          {
+            "icon": "github",
+            "link": "https://www.github.com/s4mur4i/",
+            "name": "Github"
+          }
+        ],
+        "featured": true,
+        "name": "Krisztian Kornel Banhidy",
+        "shortBio": "Krisztian is responsible for maintaining and running Peak’s infrastructure.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_0432.jpg?alt=media&token=5f30909f-5ab6-4b7c-b8be-c78e85c00c1e",
+        "tags": [
+          "Cloud"
+        ],
+        "bio": "Krisztian is responsible for maintaining and running Peak’s infrastructure. He is part of a small autonomous group within the company.         ",
+        "title": "Sr. DevOps Engineer - Peak",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/peak-logo-transparent.png?alt=media&token=362e879c-cc1b-4d05-ad0a-42e3a1db8a32"
+      }
+    },
+    {
+      "id": "mark_stephens",
+      "data": {
+        "shortBio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18.",
+        "title": "Founder/CEO of IDRsolutions",
+        "photoUrl": "http://files.idrsolutions.com/mark.jpg",
+        "company": "IDRsolutions",
+        "bio": "Mark Stephens has been a speaker at DevFest 13,14, 15, 17 and 18. He is a software developer and the founder of IDRsolutions, which develops a Java PDF library and a PDF to HTML5/SVG converter. This year he is doing 3 technical talks at Oracle CodeOne and also talking at NetBeans UK, and Dawscon 2020 in Montreal.  Mark has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference where he can combine his passion for software and history.",
+        "name": "Mark Stephens",
+        "order": 0,
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/markee174",
+            "icon": "twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/markee174"
+          }
+        ],
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FIDRSmallwithbreak.png?alt=media&token=008224db-884e-4aa6-87ab-e4293463f643",
+        "country": "London",
+        "featured": true
+      }
+    },
+    {
+      "id": "metin_seylan",
+      "data": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fmetinseylan.jpg?alt=media&token=fc313411-dc54-4f2c-b628-700baa6dbcd7",
+        "name": "Metin Seylan",
+        "companyLogoUrl": "https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_100,w_100,f_auto,q_auto:eco/q5hhkggjz4zy9t0afqua",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/metinseylan",
+            "icon": "twitter"
+          },
+          {
+            "icon": "github",
+            "name": "Github",
+            "link": "http://github.com/metinseylan"
+          }
+        ],
+        "country": "Istanbul",
+        "shortBio": "He is a Senior Software Developer, Open Source contributor and a Google Developer Expert on Cloud.",
+        "title": "Senior Software Developer",
+        "featured": true,
+        "order": 10,
+        "bio": "He is a Senior Software Developer, Open Source contributor and a Google Developer Expert on Cloud. Currently working at Scotty Turkey and mainly focused on the distributed systems and microservices. You can learn more about Metin by following him on Github! (@MetinSeylan)! With his utmost pleasure, he would like to welcome you all to the DEVFEST İstanbul 2019, and he is so honoured to be here among the other outstanding speakers.",
+        "company": "Scotty",
+        "badges": [
+          {
+            "name": "gde",
+            "description": "Web Technologies Google Developer Expert",
+            "link": "https://developers.google.com/community/experts/directory"
+          }
+        ]
+      }
+    },
+    {
+      "id": "muhammedsalih",
+      "data": {
+        "country": "Berlin, Germany",
+        "bio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart. He organises the Flutter Berlin meetup. He also likes sharing his knowledge with the people by mentoring aspiring developers, blogging and talking at conferences.",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fsalih.png?alt=media&token=f5aa105e-d4a9-4aa7-b9a5-37f6f2fb2c9c",
+        "companyLogoUrl": "https://image4.owler.com/logo/onefootball_owler_20171207_200937_original.png",
+        "name": "Muhammed Salih Güler",
+        "shortBio": "Salih is a Berlin based Android Engineer who is a Google Developer Expert for Flutter and Dart.",
+        "badges": [
+          {
+            "link": "https://developers.google.com/community/experts/directory",
+            "description": "Web Technologies Google Developer Expert",
+            "name": "gde"
+          }
+        ],
+        "featured": true,
+        "company": "Onefootball GmbH",
+        "title": "Android Engineer/Google Developer Expert for Flutter and Dart",
+        "order": 0,
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/knelsoncloud/"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/salihgueler",
+            "name": "Twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/salihgueler"
+          }
+        ]
+      }
+    },
+    {
+      "id": "muratcanbur",
+      "data": {
+        "title": "Android Developer",
+        "featured": true,
+        "order": 10,
+        "bio": "Murat is an Android Developer at Trendyol. He is an experienced Android Developer and always try to write clean, efficient, and maintainable code. He is dedicated to continuously discovering, evaluating, and implementing new technologies to maximize development efficiency and always try to speak at conferences about mobile development. ",
+        "shortBio": "Murat is an Android Developer at Trendyol.",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/muratcanbur",
+            "name": "Twitter"
+          }
+        ],
+        "companyLogoUrl": "",
+        "name": "Murat Can BUR",
+        "company": "trendyol.com",
+        "country": "Istanbul",
+        "photoUrl": "https://scontent-sof1-1.xx.fbcdn.net/v/t1.0-9/19554646_10213544916567443_7415645109938191860_n.jpg?_nc_cat=103&_nc_oc=AQn8kuXEFzogElbUPFE3YKgnj9LAfqzAnjRwTFawv2YZZ4j7efC0oe4jjfGxJk8Um4A&_nc_ht=scontent-sof1-1.xx&oh=c9689b05700b7930ce08711c3eceae32&oe=5E0DF0AD"
+      }
+    },
+    {
+      "id": "muratyener",
+      "data": {
+        "title": "Developer Advocate",
+        "shortBio": "Murat Yener is a Developer Advocate for Android at Google.",
+        "country": "San Francisco",
+        "featured": true,
+        "order": 0,
+        "bio": "Murat Yener is a Developer Advocate for Android at Google. He is a code geek, open source committer, Java Champion and the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley.",
+        "company": "Google",
+        "name": "Murat Yener",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1123009913679011840/lb-cCjyA_400x400.png",
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/yenerm/",
+            "name": "Linkedin",
+            "icon": "linkedin"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/yenerm",
+            "name": "Twitter"
+          }
+        ]
+      }
+    },
+    {
+      "id": "necatisozer",
+      "data": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/IMG_9622.JPG?alt=media&token=c41da8b3-2b2f-4763-87e2-57b8fe5d527b",
+        "order": 10,
+        "featured": true,
+        "name": "Necati Sözer",
+        "country": "Istanbul",
+        "title": "Android Developer",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/bisu_sprite.png?alt=media&token=6eb85ea8-4295-4f24-8b09-b3d80cd4da33",
+        "company": "BiSU",
+        "shortBio": "A passionate Android developer who builds applications with love.",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/necatisozer",
+            "name": "Twitter"
+          }
+        ],
+        "bio": "A passionate Android developer who builds applications with love"
+      }
+    },
+    {
+      "id": "niraliabhani",
+      "data": {
+        "name": "Nirali Abhani",
+        "country": "London",
+        "socials": [
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/niraliabhani/"
+          }
+        ],
+        "company": "IDR Solutions,UK",
+        "shortBio": "Nirali is a Java developer at IDR solutions, where she works on developing software for web developers.",
+        "featured": true,
+        "title": "Java developer",
+        "order": 5,
+        "bio": "Nirali is a Java developer at IDR solutions, where she works on developing software for web developers. She is also the product lead for JDeli (IDRsolutions  image processing and conversion library). She has an MSc in Computer Science and has also worked for large Software companies such as Infosys  Nirali is really looking forward to her very first DevFest with the chance to share her enthusiasm for NetBeans, meet lots of new people, see the sites and to try Turkish food in Istanbul.",
+        "photoUrl": "https://files.idrsolutions.com/nirali.jpg",
+        "companyLogoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2FIDRSmallwithbreak.png?alt=media&token=008224db-884e-4aa6-87ab-e4293463f643"
+      }
+    },
+    {
+      "id": "okan_aydin",
+      "data": {
+        "tags": [
+          "Android"
+        ],
+        "featured": true,
+        "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/okanaydin34/",
+            "name": "Linkedin"
+          }
+        ],
+        "name": "Okan AYDIN",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/okan_aydin_image.JPG?alt=media&token=affc237c-6738-413d-b31f-891f0f2bc02b",
+        "order": 5,
+        "shortBio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University.",
+        "country": "Istanbul",
+        "bio": "Okan is an Android developer at citizenMe. He's studying Computer Engineering at Isik University. He tries to improve himself on Android development and try to learn as much as he can and also He has been a volunteer organizer of the GDG Istanbul community for 4 years. ",
+        "companyLogoUrl": "https://www.citizenme.com/public/wp/wp-content/uploads/2019/03/Citizen_Me_Logo.png",
+        "title": "Jr. Android Developer",
+        "company": "CitizenMe"
+      }
+    },
+    {
+      "id": "onder_ceylan",
+      "data": {
+        "order": 0,
+        "country": "Amsterdam",
+        "featured": true,
+        "name": "Önder Ceylan",
+        "shortBio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s.",
+        "photoUrl": "https://i.ibb.co/VMc3m78/FDAC175-C-6-F43-4681-89-A3-0-DA9-A54004-FD.png",
+        "company": "LINKIT / KLM",
+        "bio": "Önder is a Google Developer Expert in Web Technologies and he has been working on building web and mobile apps in various development ecosystems since late 90s. JavaScript and web has always been his passion and nowadays he enjoys it at its full while working as a Team Lead at KLM and LINKIT. He believes in team work and he shares his knowledge on ITNEXT and GDG-NL communities as a co-organiser and speaker. He's also interested in photography, capturing night photos specifically.",
+        "companyLogoUrl": "https://media.licdn.com/dms/image/C4E0BAQGlhmcRXe0MoA/company-logo_100_100/0?e=1580342400&v=beta&t=jrfF7LV1eJ5laUigXkvuSEdwEFh1i01Jb1C7NChYse4",
+        "socials": [
+          {
+            "link": "https://twitter.com/onderceylan",
+            "name": "Twitter",
+            "icon": "twitter"
+          },
+          {
+            "link": "https://github.com/onderceylan",
+            "name": "Github",
+            "icon": "github"
+          },
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/onderceylan/",
+            "icon": "linkedin"
+          }
+        ],
+        "title": "JavaScript Tech Lead"
+      }
+    },
+    {
+      "id": "orcun_kilic",
+      "data": {
+        "title": "Head of Design",
+        "name": "Orçun Kılıç",
+        "order": 5,
+        "companyLogoUrl": "https://cdn.dribbble.com/users/1596014/avatars/normal/d4e31622a4a6ce255a9647b83e9918a6.png?1486732675",
+        "shortBio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır.",
+        "company": "Protein",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/orrcunkilic/",
+            "icon": "twitter"
+          }
+        ],
+        "tags": [
+          "Design"
+        ],
+        "featured": true,
+        "country": "Istanbul",
+        "bio": "Orçun Kılıç İstanbul Bilgi Üniversitesi VCD Mezunu ve aynı zamanda TMLabStudio kurucu ortrağıdır. Protein'de tasarım takım lideri olarak görev almaktadır.",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1149288222259863553/dyc0H_GE_400x400.jpg"
+      }
+    },
+    {
+      "id": "resul_caner_yildirim",
+      "data": {
+        "country": "Istanbul",
+        "bio": "Caner is a Multi-Disciplinary Designer who is also a technology geek. Mainly focused on the design, business strategy, and marketing of mobile applications. Passionate about good design, UX and Conversation Design.  Previously he worked for leading companies of Turkey on mobile projects. Today, he is the founder of Artisan UX a design agency based in Istanbul making and creating apps that users love.  Caner has been a user group leader for GDG Istanbul since 2013, organizing, participating, and speaking at events. He shares his experience in User Experience, Product Design, Conversation Design, UX Strategy and so on via talks or workshops at Droidcons, DevFests, and other tech or product conferences.",
+        "photoUrl": "https://lh3.googleusercontent.com/HTWs2sbuMwZUPNnpdwZDHlDpf-rtlMqoNLmxZo7w65XUgI3dpMljq6lOG0H_0kAwWYwYu14Wr4v5NkVUxo8TmmJprqVYTI8JEWETCPwEn6xD7LyvfA5QqgcRVIWx6gj-bC9PUHoiTzx6fhCZPKH6whb6RravLgazBedf0SgTgbWmtMN4xjXMiG-RTxk_ENqeJweT2n4qllNI3yxx2DFu0URH0V78bLuHwBfYHGmcZ-8NnBRJXJnfiC5tgBvmvkVB0unVlB0pf38BigyrFRuG6V6yEYLIwgPjJs4rCb9f61KOeCYSvKEOZ7vaabILxbMJsYkJAfnSAbLUEMrPL-pROyF0GQvG6TH37SuhzjP8hDpnRAskyQpK15zHEZ1ovb_Jnxcf3tuMqz9pKk9X05WpzeZO8WWAm9SIVDeT1pOqLLIgszTCMegMaBD7nDGr4sdqbPjE4d8QBRG1u4ZQINWHDvV-KOVktsaB7XGcfQ2slQIleCbUVjom4U9UmsgQYjZ7CtLxCF3bDvVXlejJYIbfTfvS9bd3v85TFyqiK_1CNptKxZ2lviLh2uG4KkUDQxCtJyBdKsVnq5i5aWp_Iel7EYuXbFsglHTTCy4XENhzr5BPC3IOvUX19PMxISynXCqQGlPGYP_wXXM1CgTrzJ0KEuQBWnda1326FDLYToN0xaxxlegNuihsiEJhl3K8DPZO5eM8ZzQnkO91q_HhueCAwuqgFYBcY07nNU0IgkX6RMsgescN1g=w1080-h720-no",
+        "shortBio": "Caner is a Multi-Disciplinary Designer who is also a technology geek.",
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/protechman",
+            "icon": "twitter"
+          }
+        ],
+        "featured": true,
+        "company": "Tmob / Artisan UX",
+        "companyLogoUrl": "",
+        "order": 10,
+        "badges": [
+          {
+            "name": "gdg",
+            "link": " https://developers.google.com/groups/directory/",
+            "description": "Google Developers Group Istanbul"
+          }
+        ],
+        "name": "Resul Caner Yıldırım",
+        "title": "UX Designer"
+      }
+    },
+    {
+      "id": "sashcawolter",
+      "data": {
+        "order": 0,
+        "photoUrl": "http://www.wolter.biz/blog/wp-content/uploads/2008/01/speaking.jpg",
+        "title": "Principal Technology Evangelist Conversational AI & Senior User Experience Consultant Conversation Design",
+        "companyLogoUrl": "https://cognigy.com/wp-content/uploads/2019/04/cognigy_logo.svg",
+        "shortBio": "Sascha Wolter is a professional developer and user experience enthusiast.",
+        "country": "Düsseldorf",
+        "bio": "Sascha Wolter is a professional developer and user experience enthusiast. His true passion is to improve the human-computer interaction: He loves to build conversational and multimodal experiences with text (chatbots) and voice (aka Alexa). Sascha works as a consultant, trainer, lecturer, speaker, and author who focusses on understanding, innovation, and value. As such he is committed to the interests of all kinds of developers, users, and prosumers. When Sascha is not developing new ideas, he likes hiking and skiing in the mountains, enjoys good Italian coffee and loves to explore the world together with his kids in an odd way.  After organizing internationally renowned events, he is now board member of the Usability & User Experience working group at the federal association BITKOM. Furthermore, he is Google Developer Expert for IoT/Assistant (GDE) and Microsoft Most Valuable Professional (MVP). Before he joined the Conversational AI Platform Company Cognigy as Senior UX Consultant and Principal Technology Evangelist, he worked as Senior Developer Evangelist at Deutsche Telekom (i.e. Smart Home) and Senior Technology Evangelist for Alexa at Amazon.",
+        "socials": [
+          {
+            "link": "https://www.linkedin.com/in/saschawolter/",
+            "name": "Linkedin",
+            "icon": "linkedin"
+          },
+          {
+            "name": "Twitter",
+            "icon": "twitter",
+            "link": "https://twitter.com/saschawolter"
+          }
+        ],
+        "name": "Sascha Wolter",
+        "featured": true,
+        "company": "Cognigy"
+      }
+    },
+    {
+      "id": "selin_alara_ornek",
+      "data": {
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/Selinoid2",
+            "name": "Twitter"
+          }
+        ],
+        "bio": "13 yaşındayım, Özel Küçük Prens Ortaokulu 8. sınıf öğrencisiyim, LGS'ye hazırlanıyorum :) 8 yaşından beri kodlama ve robotik ile uğraşıyorum. Uluslararası teknoloji yarışmaları ve \"showcase\"lerine katılıyorum. 2018 yılında Coderdojo Coolest Projects Yarışmasında projem ic4u ile 1. oldum. European Youth Awards 2018 yarışmasında da finalist oldum. 2019 yılında Stanford üniversitesinde düzenlenen robotik ve mühendislik yaz okuluna burslu olarak davet edildim. Aydın Doğan Vakfının Unicef ve BM ile düzenlediği #güçlükızlargüçlüyarınlar 2019 projesinde yer aldım. Türkçe, İngilizce ve Fransızca biliyorum. Python kodlama dili üzerinde çalışıyorum. Annem, Babam ve köpeğim Bailey ile İstanbul'da yaşıyorum.",
+        "featured": true,
+        "name": "Selin Alara Örnek",
+        "title": "Student",
+        "order": 0,
+        "company": "Özel Küçük Prens Ortaokulu",
+        "companyLogoUrl": "",
+        "shortBio": "13 yaşındayım, Özel Küçük Prens Ortaokulu 8.",
+        "country": "Istanbul",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/WhatsApp%20Image%202019-09-04%20at%2010.43.42.jpeg?alt=media&token=e503d1d9-b6c7-4e37-9f03-ccca28296ec5"
+      }
+    },
+    {
+      "id": "sercnayusuf",
+      "data": {
+        "featured": true,
+        "country": "Turkey",
+        "companyLogoUrl": "",
+        "title": "Android Developer",
+        "tags": [
+          "Flutter"
+        ],
+        "bio": "Soon",
+        "company": "GDG Istanbul",
+        "name": "Sercan Yusuf",
+        "order": 1,
+        "socials": [
+          {
+            "name": "Linkedin",
+            "link": "https://www.linkedin.com/in/sercanyusuf",
+            "icon": "linkedin"
+          }
+        ],
+        "shortBio": "Soon",
+        "photoUrl": ""
+      }
+    },
+    {
+      "id": "van_riper",
+      "data": {
+        "featured": true,
+        "company": "Google",
+        "shortBio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast.",
+        "order": 0,
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/vanriper",
+            "icon": "twitter"
+          },
+          {
+            "link": "https://www.linkedin.com/in/vanriper/",
+            "name": "Linkedin",
+            "icon": "linkedin"
+          },
+          {
+            "link": "https://vanriper.github.io",
+            "icon": "github",
+            "name": "Github"
+          }
+        ],
+        "companyLogoUrl": "https://devfest.istanbul/images/logos/google.svg",
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/speakers%2Fvan-black-backdrop-web.jpg?alt=media&token=62e42631-6dd0-418e-873f-634cf59ee772",
+        "name": "Van Riper",
+        "country": "Santa Clara, California",
+        "title": "Go Community Advocate",
+        "bio": "Serial Community Organizer, Silicon Valley Geek, and Yoga Enthusiast. Spent 30 years as a developer in Silicon Valley. Joined Google in 2010 to run the Google Developer Groups program. I am currently a Go Community Advocate in the Open Source Programs Team at Google."
+      }
+    },
+    {
+      "id": "yukselT",
+      "data": {
+        "photoUrl": "https://firebasestorage.googleapis.com/v0/b/dfist19.appspot.com/o/2019%20-%20Yu%CC%88ksel%20Tolun.jpg?alt=media&token=1dd721b3-7684-4405-b388-efc01f42f8ec",
+        "name": "Yüksel Tolun",
+        "order": 0,
+        "socials": [
+          {
+            "name": "Twitter",
+            "link": "https://twitter.com/ytolun",
+            "icon": "twitter"
+          },
+          {
+            "name": "Github",
+            "icon": "github",
+            "link": "https://github.com/ytolun"
+          },
+          {
+            "name": "Linkedin",
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/ytolun/"
+          }
+        ],
+        "country": "Ankara",
+        "companyLogoUrl": "GDG Ankara",
+        "shortBio": "I have been developing for Google Assistant for 2 years and I became a GDE on the subject at the beginning of this year. I'm truly passionate about the Voice User Interfaces, I have held 10 workshops and gave 8 talks about Google Assistant since this January.",
+        "company": "GDE",
+        "badges": [
+          {
+            "description": "Web Technologies Google Developer Expert",
+            "name": "gde",
+            "link": "https://developers.google.com/community/experts/directory"
+          }
+        ],
+        "featured": true,
+        "title": "Google Developer Expert",
+        "bio": "I have been developing for Google Assistant for 2 years and I became a GDE on the subject at the beginning of this year. I'm truly passionate about the Voice User Interfaces, I have held 10 workshops and gave 8 talks about Google Assistant since this January."
+      }
+    },
+    {
+      "id": "yusuf_garigoz",
+      "data": {
+        "badges": [
+          {
+            "link": "https://developers.google.com/community/experts/directory",
+            "description": "Web Technologies Google Developer Expert",
+            "name": "gde"
+          }
+        ],
+        "country": "Istanbul",
+        "companyLogoUrl": "https://pbs.twimg.com/profile_images/1009034656241668097/zMJOHGI8_400x400.png",
+        "name": "M. Yusuf Sarıgöz",
+        "order": 0,
+        "company": "AI Labs",
+        "shortBio": "M. Yusuf Sarıgöz is a co-founder and AI engineer at Turkish startup AI Labs, innovating the retail industry with deep learning solutions.",
+        "socials": [
+          {
+            "link": "https://twitter.com/myusufsarigoz",
+            "name": "Twitter",
+            "icon": "twitter"
+          }
+        ],
+        "title": "Co-Founder and AI Engineer at AI Labs, Google Developer Expert on Machine Learning",
+        "bio": "M. Yusuf Sarıgöz is a co-founder and AI engineer at Turkish startup AI Labs, innovating the retail industry with deep learning solutions. His main interests lie in deep learning for computer vision and neural machine translation. He has a long experience in large-scale and efficient face recognition on the edge and fully unsupervised neural machine translation in unparallel corpora, and has developed new model architectures in these fields. Sarıgöz is also a Google Developer Expert on Machine Learning and highly active in AI/ML community, facilitating workshops on Tensorflow, Keras and AI/ML in the cloud and mentoring scholars in Sabancı Foundation Scholarship Program.",
+        "photoUrl": "https://www.dropbox.com/s/rjswkk09a22xfyg/M_Yusuf_Sarigoz.jpg?dl=1",
+        "featured": true
+      }
+    }
+  ]
+}
